@@ -1,0 +1,53 @@
+{
+  "build": "pyhd3eb1b0_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "backports",
+    "backports.weakref",
+    "python"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\backports.tempfile-1.0-pyhd3eb1b0_1",
+  "features": "",
+  "files": [
+    "Lib/site-packages/backports.tempfile-1.0.dist-info/INSTALLER",
+    "Lib/site-packages/backports.tempfile-1.0.dist-info/LICENSE",
+    "Lib/site-packages/backports.tempfile-1.0.dist-info/METADATA",
+    "Lib/site-packages/backports.tempfile-1.0.dist-info/RECORD",
+    "Lib/site-packages/backports.tempfile-1.0.dist-info/REQUESTED",
+    "Lib/site-packages/backports.tempfile-1.0.dist-info/WHEEL",
+    "Lib/site-packages/backports.tempfile-1.0.dist-info/direct_url.json",
+    "Lib/site-packages/backports.tempfile-1.0.dist-info/top_level.txt",
+    "Lib/site-packages/backports/tempfile.py",
+    "Lib/site-packages/backports/__pycache__/tempfile.cpython-38.pyc"
+  ],
+  "fn": "backports.tempfile-1.0-pyhd3eb1b0_1.tar.bz2",
+  "license": "PSF 2",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\backports.tempfile-1.0-pyhd3eb1b0_1",
+    "type": 1
+  },
+  "md5": "4dec87059082e8904f18e5918322a2f8",
+  "name": "backports.tempfile",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\backports.tempfile-1.0-pyhd3eb1b0_1.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/backports/__pycache__/tempfile.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "backports.tempfile==1.0=pyhd3eb1b0_1",
+  "sha256": "11f628f9731c7b7740b7796986404ad23c1f13bee4e02294e73a86a0c7b6b6cc",
+  "size": 11068,
+  "subdir": "noarch",
+  "timestamp": 1610991244228,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/backports.tempfile-1.0-pyhd3eb1b0_1.tar.bz2",
+  "version": "1.0"
+}

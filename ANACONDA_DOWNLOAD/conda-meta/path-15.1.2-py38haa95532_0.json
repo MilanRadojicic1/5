@@ -1,0 +1,51 @@
+{
+  "build": "py38haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\path-15.1.2-py38haa95532_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/path-15.1.2.dist-info/INSTALLER",
+    "Lib/site-packages/path-15.1.2.dist-info/LICENSE",
+    "Lib/site-packages/path-15.1.2.dist-info/METADATA",
+    "Lib/site-packages/path-15.1.2.dist-info/RECORD",
+    "Lib/site-packages/path-15.1.2.dist-info/REQUESTED",
+    "Lib/site-packages/path-15.1.2.dist-info/WHEEL",
+    "Lib/site-packages/path-15.1.2.dist-info/direct_url.json",
+    "Lib/site-packages/path-15.1.2.dist-info/top_level.txt",
+    "Lib/site-packages/path/__init__.py",
+    "Lib/site-packages/path/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/path/__pycache__/matchers.cpython-38.pyc",
+    "Lib/site-packages/path/__pycache__/py37compat.cpython-38.pyc",
+    "Lib/site-packages/path/matchers.py",
+    "Lib/site-packages/path/py37compat.py"
+  ],
+  "fn": "path-15.1.2-py38haa95532_0.conda",
+  "legacy_bz2_md5": "29d6bcc11d1ea3e299bbe57090d8804e",
+  "legacy_bz2_size": 38967,
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\path-15.1.2-py38haa95532_0",
+    "type": 1
+  },
+  "md5": "e8945e8aaf734e35509ee146ed34cdbb",
+  "name": "path",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\path-15.1.2-py38haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "path==15.1.2=py38haa95532_0",
+  "sha256": "cf35b534337b26a934ca58d79b0c2d43ea8f613292679d7f3c9f34f164defde2",
+  "size": 38894,
+  "subdir": "win-64",
+  "timestamp": 1614022493375,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/path-15.1.2-py38haa95532_0.conda",
+  "version": "15.1.2"
+}

@@ -1,0 +1,58 @@
+{
+  "build": "py38h2bbff1b_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\bitarray-1.9.2-py38h2bbff1b_1",
+  "features": "",
+  "files": [
+    "Lib/site-packages/bitarray-1.9.2.dist-info/INSTALLER",
+    "Lib/site-packages/bitarray-1.9.2.dist-info/METADATA",
+    "Lib/site-packages/bitarray-1.9.2.dist-info/RECORD",
+    "Lib/site-packages/bitarray-1.9.2.dist-info/REQUESTED",
+    "Lib/site-packages/bitarray-1.9.2.dist-info/WHEEL",
+    "Lib/site-packages/bitarray-1.9.2.dist-info/direct_url.json",
+    "Lib/site-packages/bitarray-1.9.2.dist-info/top_level.txt",
+    "Lib/site-packages/bitarray/__init__.py",
+    "Lib/site-packages/bitarray/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/bitarray/__pycache__/test_bitarray.cpython-38.pyc",
+    "Lib/site-packages/bitarray/__pycache__/test_util.cpython-38.pyc",
+    "Lib/site-packages/bitarray/__pycache__/util.cpython-38.pyc",
+    "Lib/site-packages/bitarray/_bitarray.cp38-win_amd64.pyd",
+    "Lib/site-packages/bitarray/_util.cp38-win_amd64.pyd",
+    "Lib/site-packages/bitarray/bitarray.h",
+    "Lib/site-packages/bitarray/pythoncapi_compat.h",
+    "Lib/site-packages/bitarray/test_bitarray.py",
+    "Lib/site-packages/bitarray/test_data.pickle",
+    "Lib/site-packages/bitarray/test_util.py",
+    "Lib/site-packages/bitarray/util.py"
+  ],
+  "fn": "bitarray-1.9.2-py38h2bbff1b_1.conda",
+  "legacy_bz2_md5": "4c671df17c223446c0cd6cf5f46be4e7",
+  "legacy_bz2_size": 119423,
+  "license": "PSF",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\bitarray-1.9.2-py38h2bbff1b_1",
+    "type": 1
+  },
+  "md5": "20262a42608ca382c9a53e1c47954077",
+  "name": "bitarray",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\bitarray-1.9.2-py38h2bbff1b_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "bitarray==1.9.2=py38h2bbff1b_1",
+  "sha256": "8ec1c80e8bcc5a15251221ba03790b69b5122e5f2085c1074006d0aa4e67c559",
+  "size": 120353,
+  "subdir": "win-64",
+  "timestamp": 1618435153271,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/bitarray-1.9.2-py38h2bbff1b_1.conda",
+  "version": "1.9.2"
+}

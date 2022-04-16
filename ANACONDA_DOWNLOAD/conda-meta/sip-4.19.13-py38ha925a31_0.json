@@ -1,0 +1,59 @@
+{
+  "build": "py38ha925a31_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\sip-4.19.13-py38ha925a31_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/__pycache__/sipconfig.cpython-38.pyc",
+    "Lib/site-packages/__pycache__/sipdistutils.cpython-38.pyc",
+    "Lib/site-packages/sip-4.19.13.dist-info/INSTALLER",
+    "Lib/site-packages/sip-4.19.13.dist-info/METADATA",
+    "Lib/site-packages/sip-4.19.13.dist-info/RECORD",
+    "Lib/site-packages/sip.pyd",
+    "Lib/site-packages/sip.pyi",
+    "Lib/site-packages/sipconfig.py",
+    "Lib/site-packages/sipdistutils.py",
+    "Library/bin/sip.exe",
+    "include/sip.h"
+  ],
+  "fn": "sip-4.19.13-py38ha925a31_0.conda",
+  "legacy_bz2_md5": "f3771a9675980f92281bfa3b9cded144",
+  "legacy_bz2_size": 288212,
+  "license": "GPL-3.0",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\sip-4.19.13-py38ha925a31_0",
+    "type": 1
+  },
+  "md5": "30f4e6f96491b848ced42320fac5645d",
+  "name": "sip",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\sip-4.19.13-py38ha925a31_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/sipconfig.py",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:\\\\ci\\\\sip_1573199876889\\\\_h_env",
+        "sha256": "4ca89dcc1bf712f9f95eb8930ea02027ebeac02d68fa0a426f40b51578cde0e9",
+        "sha256_in_prefix": "37cfd0c06e4fbe631450ba96c3d6a5157672c4d947cd29561bee807332c47f69",
+        "size_in_bytes": 100265
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "sip==4.19.13=py38ha925a31_0",
+  "sha256": "f2002c563dfaf67781169289d5e4643c666d4658f8785532a54a520b233e2b14",
+  "size": 268305,
+  "subdir": "win-64",
+  "timestamp": 1573199931688,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/sip-4.19.13-py38ha925a31_0.conda",
+  "version": "4.19.13"
+}

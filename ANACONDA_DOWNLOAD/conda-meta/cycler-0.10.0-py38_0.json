@@ -1,0 +1,44 @@
+{
+  "build": "py38_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "six"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\cycler-0.10.0-py38_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/__pycache__/cycler.cpython-38.pyc",
+    "Lib/site-packages/cycler-0.10.0-py3.8.egg-info/PKG-INFO",
+    "Lib/site-packages/cycler-0.10.0-py3.8.egg-info/SOURCES.txt",
+    "Lib/site-packages/cycler-0.10.0-py3.8.egg-info/dependency_links.txt",
+    "Lib/site-packages/cycler-0.10.0-py3.8.egg-info/requires.txt",
+    "Lib/site-packages/cycler-0.10.0-py3.8.egg-info/top_level.txt",
+    "Lib/site-packages/cycler.py"
+  ],
+  "fn": "cycler-0.10.0-py38_0.conda",
+  "legacy_bz2_md5": "e19efa5b99b2587e870331af7822fe15",
+  "legacy_bz2_size": 14500,
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\cycler-0.10.0-py38_0",
+    "type": 1
+  },
+  "md5": "cd06a66f28e2493dfa48ce5e1d9860fb",
+  "name": "cycler",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\cycler-0.10.0-py38_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "cycler==0.10.0=py38_0",
+  "sha256": "fa04f82995281281f1091fb68bb334dcac34684606902f05305fb7be15dece22",
+  "size": 14528,
+  "subdir": "win-64",
+  "timestamp": 1573741586203,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/cycler-0.10.0-py38_0.conda",
+  "version": "0.10.0"
+}

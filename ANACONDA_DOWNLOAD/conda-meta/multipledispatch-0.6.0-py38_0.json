@@ -1,0 +1,55 @@
+{
+  "build": "py38_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "six"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\multipledispatch-0.6.0-py38_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/multipledispatch-0.6.0.dist-info/INSTALLER",
+    "Lib/site-packages/multipledispatch-0.6.0.dist-info/METADATA",
+    "Lib/site-packages/multipledispatch-0.6.0.dist-info/RECORD",
+    "Lib/site-packages/multipledispatch-0.6.0.dist-info/WHEEL",
+    "Lib/site-packages/multipledispatch-0.6.0.dist-info/top_level.txt",
+    "Lib/site-packages/multipledispatch/__init__.py",
+    "Lib/site-packages/multipledispatch/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/multipledispatch/__pycache__/conflict.cpython-38.pyc",
+    "Lib/site-packages/multipledispatch/__pycache__/core.cpython-38.pyc",
+    "Lib/site-packages/multipledispatch/__pycache__/dispatcher.cpython-38.pyc",
+    "Lib/site-packages/multipledispatch/__pycache__/utils.cpython-38.pyc",
+    "Lib/site-packages/multipledispatch/__pycache__/variadic.cpython-38.pyc",
+    "Lib/site-packages/multipledispatch/conflict.py",
+    "Lib/site-packages/multipledispatch/core.py",
+    "Lib/site-packages/multipledispatch/dispatcher.py",
+    "Lib/site-packages/multipledispatch/utils.py",
+    "Lib/site-packages/multipledispatch/variadic.py"
+  ],
+  "fn": "multipledispatch-0.6.0-py38_0.conda",
+  "legacy_bz2_md5": "d16e6b7628a2b9eab9a5d30e4bed09fe",
+  "legacy_bz2_size": 23139,
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\multipledispatch-0.6.0-py38_0",
+    "type": 1
+  },
+  "md5": "00e73ea1d5828a37ae12052ab11113d7",
+  "name": "multipledispatch",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\multipledispatch-0.6.0-py38_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "multipledispatch==0.6.0=py38_0",
+  "sha256": "88ff5fa98202fff7ecbf88e305a25e044782877742ae5ca70877f8c33a98e372",
+  "size": 23497,
+  "subdir": "win-64",
+  "timestamp": 1573470511265,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/multipledispatch-0.6.0-py38_0.conda",
+  "version": "0.6.0"
+}

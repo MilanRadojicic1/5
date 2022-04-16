@@ -1,0 +1,55 @@
+{
+  "build": "py38he774522_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\markupsafe-1.1.1-py38he774522_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/MarkupSafe-1.1.1.dist-info/INSTALLER",
+    "Lib/site-packages/MarkupSafe-1.1.1.dist-info/LICENSE.rst",
+    "Lib/site-packages/MarkupSafe-1.1.1.dist-info/METADATA",
+    "Lib/site-packages/MarkupSafe-1.1.1.dist-info/RECORD",
+    "Lib/site-packages/MarkupSafe-1.1.1.dist-info/WHEEL",
+    "Lib/site-packages/MarkupSafe-1.1.1.dist-info/top_level.txt",
+    "Lib/site-packages/markupsafe/__init__.py",
+    "Lib/site-packages/markupsafe/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/markupsafe/__pycache__/_compat.cpython-38.pyc",
+    "Lib/site-packages/markupsafe/__pycache__/_constants.cpython-38.pyc",
+    "Lib/site-packages/markupsafe/__pycache__/_native.cpython-38.pyc",
+    "Lib/site-packages/markupsafe/_compat.py",
+    "Lib/site-packages/markupsafe/_constants.py",
+    "Lib/site-packages/markupsafe/_native.py",
+    "Lib/site-packages/markupsafe/_speedups.c",
+    "Lib/site-packages/markupsafe/_speedups.cp38-win_amd64.pyd"
+  ],
+  "fn": "markupsafe-1.1.1-py38he774522_0.conda",
+  "legacy_bz2_md5": "50ae62dad32be717f9b640342b0998bb",
+  "legacy_bz2_size": 30599,
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\markupsafe-1.1.1-py38he774522_0",
+    "type": 1
+  },
+  "md5": "9a7ea488c71d9f3b7ac21c5b9ff3df41",
+  "name": "markupsafe",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\markupsafe-1.1.1-py38he774522_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "markupsafe==1.1.1=py38he774522_0",
+  "sha256": "9f3daab31098e260a270bd7eed7c5f17080dd71866646ae4fb412e2856e9d2b1",
+  "size": 29219,
+  "subdir": "win-64",
+  "timestamp": 1573488884026,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/markupsafe-1.1.1-py38he774522_0.conda",
+  "version": "1.1.1"
+}

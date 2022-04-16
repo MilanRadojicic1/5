@@ -1,0 +1,62 @@
+{
+  "build": "py38h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\lazy-object-proxy-1.6.0-py38h2bbff1b_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/lazy_object_proxy-1.6.0.dist-info/AUTHORS.rst",
+    "Lib/site-packages/lazy_object_proxy-1.6.0.dist-info/INSTALLER",
+    "Lib/site-packages/lazy_object_proxy-1.6.0.dist-info/LICENSE",
+    "Lib/site-packages/lazy_object_proxy-1.6.0.dist-info/METADATA",
+    "Lib/site-packages/lazy_object_proxy-1.6.0.dist-info/RECORD",
+    "Lib/site-packages/lazy_object_proxy-1.6.0.dist-info/REQUESTED",
+    "Lib/site-packages/lazy_object_proxy-1.6.0.dist-info/WHEEL",
+    "Lib/site-packages/lazy_object_proxy-1.6.0.dist-info/direct_url.json",
+    "Lib/site-packages/lazy_object_proxy-1.6.0.dist-info/top_level.txt",
+    "Lib/site-packages/lazy_object_proxy/__init__.py",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/_version.cpython-38.pyc",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/compat.cpython-38.pyc",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/simple.cpython-38.pyc",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/slots.cpython-38.pyc",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/utils.cpython-38.pyc",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/utils_py3.cpython-38.pyc",
+    "Lib/site-packages/lazy_object_proxy/_version.py",
+    "Lib/site-packages/lazy_object_proxy/cext.cp38-win_amd64.pyd",
+    "Lib/site-packages/lazy_object_proxy/compat.py",
+    "Lib/site-packages/lazy_object_proxy/simple.py",
+    "Lib/site-packages/lazy_object_proxy/slots.py",
+    "Lib/site-packages/lazy_object_proxy/utils.py",
+    "Lib/site-packages/lazy_object_proxy/utils_py3.py"
+  ],
+  "fn": "lazy-object-proxy-1.6.0-py38h2bbff1b_0.conda",
+  "legacy_bz2_md5": "b546d365605824de764ef8145654121d",
+  "legacy_bz2_size": 33311,
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\lazy-object-proxy-1.6.0-py38h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "4fa4436a498fd9ed00ae6e60bde94288",
+  "name": "lazy-object-proxy",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\lazy-object-proxy-1.6.0-py38h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "lazy-object-proxy==1.6.0=py38h2bbff1b_0",
+  "sha256": "78cd53f75790ecbbc8933703c1e50e3455c476f7660af94b3fb2b6b8ac690ceb",
+  "size": 31451,
+  "subdir": "win-64",
+  "timestamp": 1616529376362,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/lazy-object-proxy-1.6.0-py38h2bbff1b_0.conda",
+  "version": "1.6.0"
+}

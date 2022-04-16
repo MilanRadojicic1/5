@@ -1,0 +1,41 @@
+{
+  "build": "py38_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "ipywidgets",
+    "jupyterlab",
+    "python >=3.8,<3.9.0a0",
+    "widgetsnbextension"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\_ipyw_jlab_nb_ext_conf-0.1.0-py38_0",
+  "features": "",
+  "files": [
+    "etc/jupyter/jupyter_notebook_config.json",
+    "etc/jupyter/nbconfig/notebook.json"
+  ],
+  "fn": "_ipyw_jlab_nb_ext_conf-0.1.0-py38_0.conda",
+  "legacy_bz2_md5": "a4a361aa208127b720e566c6be8c5f6b",
+  "legacy_bz2_size": 173869,
+  "license": "BSD",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\_ipyw_jlab_nb_ext_conf-0.1.0-py38_0",
+    "type": 1
+  },
+  "md5": "cb28e5e614fd17202a7061604202947a",
+  "name": "_ipyw_jlab_nb_ext_conf",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\_ipyw_jlab_nb_ext_conf-0.1.0-py38_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "_ipyw_jlab_nb_ext_conf==0.1.0=py38_0",
+  "sha256": "9ff39773693ecc1886e914ed55c4b038562da4d4c691c8d932b0e2aaf40cb141",
+  "size": 198094,
+  "subdir": "win-64",
+  "timestamp": 1593558232675,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/_ipyw_jlab_nb_ext_conf-0.1.0-py38_0.conda",
+  "version": "0.1.0"
+}

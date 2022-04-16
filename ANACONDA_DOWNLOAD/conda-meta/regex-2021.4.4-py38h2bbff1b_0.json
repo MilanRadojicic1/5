@@ -1,0 +1,56 @@
+{
+  "build": "py38h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\regex-2021.4.4-py38h2bbff1b_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/regex-2021.4.4.dist-info/INSTALLER",
+    "Lib/site-packages/regex-2021.4.4.dist-info/LICENSE.txt",
+    "Lib/site-packages/regex-2021.4.4.dist-info/METADATA",
+    "Lib/site-packages/regex-2021.4.4.dist-info/RECORD",
+    "Lib/site-packages/regex-2021.4.4.dist-info/REQUESTED",
+    "Lib/site-packages/regex-2021.4.4.dist-info/WHEEL",
+    "Lib/site-packages/regex-2021.4.4.dist-info/direct_url.json",
+    "Lib/site-packages/regex-2021.4.4.dist-info/top_level.txt",
+    "Lib/site-packages/regex/__init__.py",
+    "Lib/site-packages/regex/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/regex/__pycache__/_regex_core.cpython-38.pyc",
+    "Lib/site-packages/regex/__pycache__/regex.cpython-38.pyc",
+    "Lib/site-packages/regex/__pycache__/test_regex.cpython-38.pyc",
+    "Lib/site-packages/regex/_regex.cp38-win_amd64.pyd",
+    "Lib/site-packages/regex/_regex_core.py",
+    "Lib/site-packages/regex/regex.py",
+    "Lib/site-packages/regex/test_regex.py"
+  ],
+  "fn": "regex-2021.4.4-py38h2bbff1b_0.conda",
+  "legacy_bz2_md5": "dc6725648611b86df6684f51c3a8c35d",
+  "legacy_bz2_size": 355853,
+  "license": "Python-2.0",
+  "license_family": "PSF",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\regex-2021.4.4-py38h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "30d40663242afb071ccd37037196c3e2",
+  "name": "regex",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\regex-2021.4.4-py38h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "regex==2021.4.4=py38h2bbff1b_0",
+  "sha256": "585d3de956250df17ecdb7e03399c7d4ebffb3bd31a5e3d7b6bc89a3d9976b9f",
+  "size": 308901,
+  "subdir": "win-64",
+  "timestamp": 1617569969609,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/regex-2021.4.4-py38h2bbff1b_0.conda",
+  "version": "2021.4.4"
+}

@@ -1,0 +1,56 @@
+{
+  "build": "py38he774522_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "cffi >=1.1",
+    "pip",
+    "python >=3.8,<3.9.0a0",
+    "six >=1.4.1",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\bcrypt-3.2.0-py38he774522_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/LICENSE",
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/METADATA",
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/RECORD",
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/WHEEL",
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/top_level.txt",
+    "Lib/site-packages/bcrypt/__about__.py",
+    "Lib/site-packages/bcrypt/__init__.py",
+    "Lib/site-packages/bcrypt/__pycache__/__about__.cpython-38.pyc",
+    "Lib/site-packages/bcrypt/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/bcrypt/_bcrypt.cp38-win_amd64.pyd",
+    "Lib/site-packages/bcrypt/py.typed"
+  ],
+  "fn": "bcrypt-3.2.0-py38he774522_0.conda",
+  "legacy_bz2_md5": "888a1e6d129040465cd87fea0c4d2d9c",
+  "legacy_bz2_size": 45421,
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\bcrypt-3.2.0-py38he774522_0",
+    "type": 1
+  },
+  "md5": "b7ddfcedc4d37d3b7a0141e3c691879a",
+  "name": "bcrypt",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\bcrypt-3.2.0-py38he774522_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "bcrypt==3.2.0=py38he774522_0",
+  "sha256": "ccc5b47c616569091c43b08969c02c0917dc2d7a8ea3828eb83eac397de383d5",
+  "size": 44976,
+  "subdir": "win-64",
+  "timestamp": 1597936345862,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/bcrypt-3.2.0-py38he774522_0.conda",
+  "version": "3.2.0"
+}

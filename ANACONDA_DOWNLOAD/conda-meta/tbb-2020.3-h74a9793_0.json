@@ -1,0 +1,40 @@
+{
+  "build": "h74a9793_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\tbb-2020.3-h74a9793_0",
+  "features": "",
+  "files": [
+    "Library/bin/tbb.dll",
+    "Library/bin/tbbmalloc.dll",
+    "Library/bin/tbbmalloc_proxy.dll"
+  ],
+  "fn": "tbb-2020.3-h74a9793_0.conda",
+  "legacy_bz2_md5": "dc23d8009bc43aa070e959b4b80be25d",
+  "legacy_bz2_size": 179354,
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\tbb-2020.3-h74a9793_0",
+    "type": 1
+  },
+  "md5": "2e17bad57fba31dfbe968a60772ba1a5",
+  "name": "tbb",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\tbb-2020.3-h74a9793_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "tbb==2020.3=h74a9793_0",
+  "sha256": "ec3e980eb950e664153ffc5732bb933c0cea1948232d71c44427205e563e7cb0",
+  "size": 160252,
+  "subdir": "win-64",
+  "timestamp": 1600548031952,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/tbb-2020.3-h74a9793_0.conda",
+  "version": "2020.3"
+}

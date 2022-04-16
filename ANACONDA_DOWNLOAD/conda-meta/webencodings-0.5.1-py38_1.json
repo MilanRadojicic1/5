@@ -1,0 +1,51 @@
+{
+  "build": "py38_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\webencodings-0.5.1-py38_1",
+  "features": "",
+  "files": [
+    "Lib/site-packages/webencodings-0.5.1-py3.8.egg-info/PKG-INFO",
+    "Lib/site-packages/webencodings-0.5.1-py3.8.egg-info/SOURCES.txt",
+    "Lib/site-packages/webencodings-0.5.1-py3.8.egg-info/dependency_links.txt",
+    "Lib/site-packages/webencodings-0.5.1-py3.8.egg-info/top_level.txt",
+    "Lib/site-packages/webencodings/__init__.py",
+    "Lib/site-packages/webencodings/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/webencodings/__pycache__/labels.cpython-38.pyc",
+    "Lib/site-packages/webencodings/__pycache__/mklabels.cpython-38.pyc",
+    "Lib/site-packages/webencodings/__pycache__/tests.cpython-38.pyc",
+    "Lib/site-packages/webencodings/__pycache__/x_user_defined.cpython-38.pyc",
+    "Lib/site-packages/webencodings/labels.py",
+    "Lib/site-packages/webencodings/mklabels.py",
+    "Lib/site-packages/webencodings/tests.py",
+    "Lib/site-packages/webencodings/x_user_defined.py"
+  ],
+  "fn": "webencodings-0.5.1-py38_1.conda",
+  "legacy_bz2_md5": "492eeefe2b9f3274156a1b37699ea90e",
+  "legacy_bz2_size": 20563,
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\webencodings-0.5.1-py38_1",
+    "type": 1
+  },
+  "md5": "da7c8f505b0c9449216211e3410eecd8",
+  "name": "webencodings",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\webencodings-0.5.1-py38_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "webencodings==0.5.1=py38_1",
+  "sha256": "a9cd1ccc7d731e303f85c8348d46b696f078028a1d9f9ac8800a38f3782804f4",
+  "size": 20448,
+  "subdir": "win-64",
+  "timestamp": 1573199884688,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/webencodings-0.5.1-py38_1.conda",
+  "version": "0.5.1"
+}

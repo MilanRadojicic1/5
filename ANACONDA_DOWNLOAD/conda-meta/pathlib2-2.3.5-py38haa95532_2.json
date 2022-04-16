@@ -1,0 +1,59 @@
+{
+  "build": "py38haa95532_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "six"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pathlib2-2.3.5-py38haa95532_2",
+  "features": "",
+  "files": [
+    "Lib/site-packages/pathlib2-2.3.5.dist-info/INSTALLER",
+    "Lib/site-packages/pathlib2-2.3.5.dist-info/LICENSE.rst",
+    "Lib/site-packages/pathlib2-2.3.5.dist-info/METADATA",
+    "Lib/site-packages/pathlib2-2.3.5.dist-info/RECORD",
+    "Lib/site-packages/pathlib2-2.3.5.dist-info/REQUESTED",
+    "Lib/site-packages/pathlib2-2.3.5.dist-info/WHEEL",
+    "Lib/site-packages/pathlib2-2.3.5.dist-info/direct_url.json",
+    "Lib/site-packages/pathlib2-2.3.5.dist-info/top_level.txt",
+    "Lib/site-packages/pathlib2/__init__.py",
+    "Lib/site-packages/pathlib2/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/wheel/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/wheel/__pycache__/bdist_wheel.cpython-38.pyc",
+    "Lib/site-packages/wheel/__pycache__/macosx_libfile.cpython-38.pyc",
+    "Lib/site-packages/wheel/__pycache__/metadata.cpython-38.pyc",
+    "Lib/site-packages/wheel/__pycache__/pkginfo.cpython-38.pyc",
+    "Lib/site-packages/wheel/__pycache__/util.cpython-38.pyc",
+    "Lib/site-packages/wheel/__pycache__/wheelfile.cpython-38.pyc",
+    "Lib/site-packages/wheel/cli/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/wheel/vendored/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/wheel/vendored/packaging/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/wheel/vendored/packaging/__pycache__/_typing.cpython-38.pyc",
+    "Lib/site-packages/wheel/vendored/packaging/__pycache__/tags.cpython-38.pyc"
+  ],
+  "fn": "pathlib2-2.3.5-py38haa95532_2.conda",
+  "legacy_bz2_md5": "797afd997908c5bfdd5dee7d18568bb1",
+  "legacy_bz2_size": 61520,
+  "license": "MIT",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pathlib2-2.3.5-py38haa95532_2",
+    "type": 1
+  },
+  "md5": "7cc94bde3f60cf9c439b649c3cf90eec",
+  "name": "pathlib2",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pathlib2-2.3.5-py38haa95532_2.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "pathlib2==2.3.5=py38haa95532_2",
+  "sha256": "5a4d5a4c70b9a59acb3a0b339cfbbeab77fd8de185b62c56a20723f7203b46fc",
+  "size": 63451,
+  "subdir": "win-64",
+  "timestamp": 1607025117274,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pathlib2-2.3.5-py38haa95532_2.conda",
+  "version": "2.3.5"
+}

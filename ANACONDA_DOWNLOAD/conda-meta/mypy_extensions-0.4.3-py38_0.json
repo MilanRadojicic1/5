@@ -1,0 +1,44 @@
+{
+  "build": "py38_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\mypy_extensions-0.4.3-py38_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/__pycache__/mypy_extensions.cpython-38.pyc",
+    "Lib/site-packages/mypy_extensions-0.4.3-py3.8.egg-info/PKG-INFO",
+    "Lib/site-packages/mypy_extensions-0.4.3-py3.8.egg-info/SOURCES.txt",
+    "Lib/site-packages/mypy_extensions-0.4.3-py3.8.egg-info/dependency_links.txt",
+    "Lib/site-packages/mypy_extensions-0.4.3-py3.8.egg-info/requires.txt",
+    "Lib/site-packages/mypy_extensions-0.4.3-py3.8.egg-info/top_level.txt",
+    "Lib/site-packages/mypy_extensions.py"
+  ],
+  "fn": "mypy_extensions-0.4.3-py38_0.conda",
+  "legacy_bz2_md5": "daa42eecdba658bab20ffbce6cede28d",
+  "legacy_bz2_size": 9614,
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\mypy_extensions-0.4.3-py38_0",
+    "type": 1
+  },
+  "md5": "abb0d374fd4582e0279eb40e92624b2c",
+  "name": "mypy_extensions",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\mypy_extensions-0.4.3-py38_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "mypy_extensions==0.4.3=py38_0",
+  "sha256": "e5fa2c49cd576ce1593d20bd5315b24068ee33faba4ada1d4eda3fda71fa8e50",
+  "size": 9845,
+  "subdir": "win-64",
+  "timestamp": 1582150084790,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/mypy_extensions-0.4.3-py38_0.conda",
+  "version": "0.4.3"
+}

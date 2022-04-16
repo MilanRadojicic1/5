@@ -1,0 +1,43 @@
+{
+  "build": "h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\lz4-c-1.9.3-h2bbff1b_0",
+  "features": "",
+  "files": [
+    "Library/bin/liblz4.dll",
+    "Library/bin/lz4.exe",
+    "Library/include/lz4.h",
+    "Library/include/lz4frame.h",
+    "Library/include/lz4hc.h",
+    "Library/lib/liblz4.lib"
+  ],
+  "fn": "lz4-c-1.9.3-h2bbff1b_0.conda",
+  "legacy_bz2_md5": "e808762a11af2b117d9810056eb76065",
+  "legacy_bz2_size": 143638,
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\lz4-c-1.9.3-h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "eb4d8412428f90884a9b7a24ecb6eea9",
+  "name": "lz4-c",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\lz4-c-1.9.3-h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "lz4-c==1.9.3=h2bbff1b_0",
+  "sha256": "0e15e6592c5d9ccd6d4ce6974c0728a5c867bf694867c87453d87824b2451ec6",
+  "size": 134195,
+  "subdir": "win-64",
+  "timestamp": 1611255649595,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/lz4-c-1.9.3-h2bbff1b_0.conda",
+  "version": "1.9.3"
+}

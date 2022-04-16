@@ -1,0 +1,49 @@
+{
+  "build": "h33f27b4_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\snappy-1.1.8-h33f27b4_0",
+  "features": "",
+  "files": [
+    "Library/bin/snappy.dll",
+    "Library/include/snappy-c.h",
+    "Library/include/snappy-sinksource.h",
+    "Library/include/snappy-stubs-public.h",
+    "Library/include/snappy.h",
+    "Library/lib/cmake/Snappy/SnappyConfig.cmake",
+    "Library/lib/cmake/Snappy/SnappyConfigVersion.cmake",
+    "Library/lib/cmake/Snappy/SnappyTargets-release.cmake",
+    "Library/lib/cmake/Snappy/SnappyTargets.cmake",
+    "Library/lib/snappy.lib",
+    "Library/lib/snappy_static.lib"
+  ],
+  "fn": "snappy-1.1.8-h33f27b4_0.conda",
+  "legacy_bz2_md5": "1aeba403cdb789d0d89ee1bdbb998884",
+  "legacy_bz2_size": 93969,
+  "license": "BSD 3-clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\snappy-1.1.8-h33f27b4_0",
+    "type": 1
+  },
+  "md5": "7d4b72a438a224c5b96d430de5438b52",
+  "name": "snappy",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\snappy-1.1.8-h33f27b4_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "snappy==1.1.8=h33f27b4_0",
+  "sha256": "30983be94a2aa179b829eb46a4e16352d3ac8c053e15da0b051e5b375ce5c8ce",
+  "size": 82414,
+  "subdir": "win-64",
+  "timestamp": 1592866555920,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/snappy-1.1.8-h33f27b4_0.conda",
+  "version": "1.1.8"
+}

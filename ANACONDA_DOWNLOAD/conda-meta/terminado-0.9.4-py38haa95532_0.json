@@ -1,0 +1,58 @@
+{
+  "build": "py38haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "pywinpty",
+    "tornado >=4"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\terminado-0.9.4-py38haa95532_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/terminado-0.9.4-py3.8.egg-info/PKG-INFO",
+    "Lib/site-packages/terminado-0.9.4-py3.8.egg-info/SOURCES.txt",
+    "Lib/site-packages/terminado-0.9.4-py3.8.egg-info/dependency_links.txt",
+    "Lib/site-packages/terminado-0.9.4-py3.8.egg-info/not-zip-safe",
+    "Lib/site-packages/terminado-0.9.4-py3.8.egg-info/requires.txt",
+    "Lib/site-packages/terminado-0.9.4-py3.8.egg-info/top_level.txt",
+    "Lib/site-packages/terminado/__init__.py",
+    "Lib/site-packages/terminado/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/terminado/__pycache__/management.cpython-38.pyc",
+    "Lib/site-packages/terminado/__pycache__/uimodule.cpython-38.pyc",
+    "Lib/site-packages/terminado/__pycache__/websocket.cpython-38.pyc",
+    "Lib/site-packages/terminado/_static/terminado.js",
+    "Lib/site-packages/terminado/management.py",
+    "Lib/site-packages/terminado/tests/__init__.py",
+    "Lib/site-packages/terminado/tests/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/terminado/tests/__pycache__/basic_test.cpython-38.pyc",
+    "Lib/site-packages/terminado/tests/basic_test.py",
+    "Lib/site-packages/terminado/uimod_embed.js",
+    "Lib/site-packages/terminado/uimodule.py",
+    "Lib/site-packages/terminado/websocket.py"
+  ],
+  "fn": "terminado-0.9.4-py38haa95532_0.conda",
+  "legacy_bz2_md5": "2c96d87a8f7350e0917b07efc3523f69",
+  "legacy_bz2_size": 25310,
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\terminado-0.9.4-py38haa95532_0",
+    "type": 1
+  },
+  "md5": "f900f2400a2f6c20deb64fdaccd21717",
+  "name": "terminado",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\terminado-0.9.4-py38haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "terminado==0.9.4=py38haa95532_0",
+  "sha256": "da2be35841811c406ac19b6782664cea9c5bebbc2e8f93d87179133013d248b9",
+  "size": 26428,
+  "subdir": "win-64",
+  "timestamp": 1617136955104,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/terminado-0.9.4-py38haa95532_0.conda",
+  "version": "0.9.4"
+}

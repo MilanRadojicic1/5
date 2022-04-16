@@ -1,0 +1,1508 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.5",
+    "setuptools"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pygments-2.8.1-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/Pygments-2.8.1.dist-info/AUTHORS",
+    "Lib/site-packages/Pygments-2.8.1.dist-info/INSTALLER",
+    "Lib/site-packages/Pygments-2.8.1.dist-info/LICENSE",
+    "Lib/site-packages/Pygments-2.8.1.dist-info/METADATA",
+    "Lib/site-packages/Pygments-2.8.1.dist-info/RECORD",
+    "Lib/site-packages/Pygments-2.8.1.dist-info/REQUESTED",
+    "Lib/site-packages/Pygments-2.8.1.dist-info/WHEEL",
+    "Lib/site-packages/Pygments-2.8.1.dist-info/direct_url.json",
+    "Lib/site-packages/Pygments-2.8.1.dist-info/entry_points.txt",
+    "Lib/site-packages/Pygments-2.8.1.dist-info/top_level.txt",
+    "Lib/site-packages/pygments/__init__.py",
+    "Lib/site-packages/pygments/__main__.py",
+    "Lib/site-packages/pygments/cmdline.py",
+    "Lib/site-packages/pygments/console.py",
+    "Lib/site-packages/pygments/filter.py",
+    "Lib/site-packages/pygments/filters/__init__.py",
+    "Lib/site-packages/pygments/formatter.py",
+    "Lib/site-packages/pygments/formatters/__init__.py",
+    "Lib/site-packages/pygments/formatters/_mapping.py",
+    "Lib/site-packages/pygments/formatters/bbcode.py",
+    "Lib/site-packages/pygments/formatters/html.py",
+    "Lib/site-packages/pygments/formatters/img.py",
+    "Lib/site-packages/pygments/formatters/irc.py",
+    "Lib/site-packages/pygments/formatters/latex.py",
+    "Lib/site-packages/pygments/formatters/other.py",
+    "Lib/site-packages/pygments/formatters/rtf.py",
+    "Lib/site-packages/pygments/formatters/svg.py",
+    "Lib/site-packages/pygments/formatters/terminal.py",
+    "Lib/site-packages/pygments/formatters/terminal256.py",
+    "Lib/site-packages/pygments/lexer.py",
+    "Lib/site-packages/pygments/lexers/__init__.py",
+    "Lib/site-packages/pygments/lexers/_asy_builtins.py",
+    "Lib/site-packages/pygments/lexers/_cl_builtins.py",
+    "Lib/site-packages/pygments/lexers/_cocoa_builtins.py",
+    "Lib/site-packages/pygments/lexers/_csound_builtins.py",
+    "Lib/site-packages/pygments/lexers/_lasso_builtins.py",
+    "Lib/site-packages/pygments/lexers/_lua_builtins.py",
+    "Lib/site-packages/pygments/lexers/_mapping.py",
+    "Lib/site-packages/pygments/lexers/_mql_builtins.py",
+    "Lib/site-packages/pygments/lexers/_mysql_builtins.py",
+    "Lib/site-packages/pygments/lexers/_openedge_builtins.py",
+    "Lib/site-packages/pygments/lexers/_php_builtins.py",
+    "Lib/site-packages/pygments/lexers/_postgres_builtins.py",
+    "Lib/site-packages/pygments/lexers/_scilab_builtins.py",
+    "Lib/site-packages/pygments/lexers/_sourcemod_builtins.py",
+    "Lib/site-packages/pygments/lexers/_stan_builtins.py",
+    "Lib/site-packages/pygments/lexers/_stata_builtins.py",
+    "Lib/site-packages/pygments/lexers/_tsql_builtins.py",
+    "Lib/site-packages/pygments/lexers/_usd_builtins.py",
+    "Lib/site-packages/pygments/lexers/_vbscript_builtins.py",
+    "Lib/site-packages/pygments/lexers/_vim_builtins.py",
+    "Lib/site-packages/pygments/lexers/actionscript.py",
+    "Lib/site-packages/pygments/lexers/agile.py",
+    "Lib/site-packages/pygments/lexers/algebra.py",
+    "Lib/site-packages/pygments/lexers/ambient.py",
+    "Lib/site-packages/pygments/lexers/amdgpu.py",
+    "Lib/site-packages/pygments/lexers/ampl.py",
+    "Lib/site-packages/pygments/lexers/apl.py",
+    "Lib/site-packages/pygments/lexers/archetype.py",
+    "Lib/site-packages/pygments/lexers/arrow.py",
+    "Lib/site-packages/pygments/lexers/asm.py",
+    "Lib/site-packages/pygments/lexers/automation.py",
+    "Lib/site-packages/pygments/lexers/bare.py",
+    "Lib/site-packages/pygments/lexers/basic.py",
+    "Lib/site-packages/pygments/lexers/bibtex.py",
+    "Lib/site-packages/pygments/lexers/boa.py",
+    "Lib/site-packages/pygments/lexers/business.py",
+    "Lib/site-packages/pygments/lexers/c_cpp.py",
+    "Lib/site-packages/pygments/lexers/c_like.py",
+    "Lib/site-packages/pygments/lexers/capnproto.py",
+    "Lib/site-packages/pygments/lexers/cddl.py",
+    "Lib/site-packages/pygments/lexers/chapel.py",
+    "Lib/site-packages/pygments/lexers/clean.py",
+    "Lib/site-packages/pygments/lexers/compiled.py",
+    "Lib/site-packages/pygments/lexers/configs.py",
+    "Lib/site-packages/pygments/lexers/console.py",
+    "Lib/site-packages/pygments/lexers/crystal.py",
+    "Lib/site-packages/pygments/lexers/csound.py",
+    "Lib/site-packages/pygments/lexers/css.py",
+    "Lib/site-packages/pygments/lexers/d.py",
+    "Lib/site-packages/pygments/lexers/dalvik.py",
+    "Lib/site-packages/pygments/lexers/data.py",
+    "Lib/site-packages/pygments/lexers/devicetree.py",
+    "Lib/site-packages/pygments/lexers/diff.py",
+    "Lib/site-packages/pygments/lexers/dotnet.py",
+    "Lib/site-packages/pygments/lexers/dsls.py",
+    "Lib/site-packages/pygments/lexers/dylan.py",
+    "Lib/site-packages/pygments/lexers/ecl.py",
+    "Lib/site-packages/pygments/lexers/eiffel.py",
+    "Lib/site-packages/pygments/lexers/elm.py",
+    "Lib/site-packages/pygments/lexers/email.py",
+    "Lib/site-packages/pygments/lexers/erlang.py",
+    "Lib/site-packages/pygments/lexers/esoteric.py",
+    "Lib/site-packages/pygments/lexers/ezhil.py",
+    "Lib/site-packages/pygments/lexers/factor.py",
+    "Lib/site-packages/pygments/lexers/fantom.py",
+    "Lib/site-packages/pygments/lexers/felix.py",
+    "Lib/site-packages/pygments/lexers/floscript.py",
+    "Lib/site-packages/pygments/lexers/forth.py",
+    "Lib/site-packages/pygments/lexers/fortran.py",
+    "Lib/site-packages/pygments/lexers/foxpro.py",
+    "Lib/site-packages/pygments/lexers/freefem.py",
+    "Lib/site-packages/pygments/lexers/functional.py",
+    "Lib/site-packages/pygments/lexers/futhark.py",
+    "Lib/site-packages/pygments/lexers/gdscript.py",
+    "Lib/site-packages/pygments/lexers/go.py",
+    "Lib/site-packages/pygments/lexers/grammar_notation.py",
+    "Lib/site-packages/pygments/lexers/graph.py",
+    "Lib/site-packages/pygments/lexers/graphics.py",
+    "Lib/site-packages/pygments/lexers/graphviz.py",
+    "Lib/site-packages/pygments/lexers/haskell.py",
+    "Lib/site-packages/pygments/lexers/haxe.py",
+    "Lib/site-packages/pygments/lexers/hdl.py",
+    "Lib/site-packages/pygments/lexers/hexdump.py",
+    "Lib/site-packages/pygments/lexers/html.py",
+    "Lib/site-packages/pygments/lexers/idl.py",
+    "Lib/site-packages/pygments/lexers/igor.py",
+    "Lib/site-packages/pygments/lexers/inferno.py",
+    "Lib/site-packages/pygments/lexers/installers.py",
+    "Lib/site-packages/pygments/lexers/int_fiction.py",
+    "Lib/site-packages/pygments/lexers/iolang.py",
+    "Lib/site-packages/pygments/lexers/j.py",
+    "Lib/site-packages/pygments/lexers/javascript.py",
+    "Lib/site-packages/pygments/lexers/julia.py",
+    "Lib/site-packages/pygments/lexers/jvm.py",
+    "Lib/site-packages/pygments/lexers/lisp.py",
+    "Lib/site-packages/pygments/lexers/make.py",
+    "Lib/site-packages/pygments/lexers/markup.py",
+    "Lib/site-packages/pygments/lexers/math.py",
+    "Lib/site-packages/pygments/lexers/matlab.py",
+    "Lib/site-packages/pygments/lexers/mime.py",
+    "Lib/site-packages/pygments/lexers/ml.py",
+    "Lib/site-packages/pygments/lexers/modeling.py",
+    "Lib/site-packages/pygments/lexers/modula2.py",
+    "Lib/site-packages/pygments/lexers/monte.py",
+    "Lib/site-packages/pygments/lexers/mosel.py",
+    "Lib/site-packages/pygments/lexers/ncl.py",
+    "Lib/site-packages/pygments/lexers/nimrod.py",
+    "Lib/site-packages/pygments/lexers/nit.py",
+    "Lib/site-packages/pygments/lexers/nix.py",
+    "Lib/site-packages/pygments/lexers/oberon.py",
+    "Lib/site-packages/pygments/lexers/objective.py",
+    "Lib/site-packages/pygments/lexers/ooc.py",
+    "Lib/site-packages/pygments/lexers/other.py",
+    "Lib/site-packages/pygments/lexers/parasail.py",
+    "Lib/site-packages/pygments/lexers/parsers.py",
+    "Lib/site-packages/pygments/lexers/pascal.py",
+    "Lib/site-packages/pygments/lexers/pawn.py",
+    "Lib/site-packages/pygments/lexers/perl.py",
+    "Lib/site-packages/pygments/lexers/php.py",
+    "Lib/site-packages/pygments/lexers/pointless.py",
+    "Lib/site-packages/pygments/lexers/pony.py",
+    "Lib/site-packages/pygments/lexers/praat.py",
+    "Lib/site-packages/pygments/lexers/prolog.py",
+    "Lib/site-packages/pygments/lexers/promql.py",
+    "Lib/site-packages/pygments/lexers/python.py",
+    "Lib/site-packages/pygments/lexers/qvt.py",
+    "Lib/site-packages/pygments/lexers/r.py",
+    "Lib/site-packages/pygments/lexers/rdf.py",
+    "Lib/site-packages/pygments/lexers/rebol.py",
+    "Lib/site-packages/pygments/lexers/resource.py",
+    "Lib/site-packages/pygments/lexers/ride.py",
+    "Lib/site-packages/pygments/lexers/rnc.py",
+    "Lib/site-packages/pygments/lexers/roboconf.py",
+    "Lib/site-packages/pygments/lexers/robotframework.py",
+    "Lib/site-packages/pygments/lexers/ruby.py",
+    "Lib/site-packages/pygments/lexers/rust.py",
+    "Lib/site-packages/pygments/lexers/sas.py",
+    "Lib/site-packages/pygments/lexers/scdoc.py",
+    "Lib/site-packages/pygments/lexers/scripting.py",
+    "Lib/site-packages/pygments/lexers/sgf.py",
+    "Lib/site-packages/pygments/lexers/shell.py",
+    "Lib/site-packages/pygments/lexers/sieve.py",
+    "Lib/site-packages/pygments/lexers/slash.py",
+    "Lib/site-packages/pygments/lexers/smalltalk.py",
+    "Lib/site-packages/pygments/lexers/smv.py",
+    "Lib/site-packages/pygments/lexers/snobol.py",
+    "Lib/site-packages/pygments/lexers/solidity.py",
+    "Lib/site-packages/pygments/lexers/special.py",
+    "Lib/site-packages/pygments/lexers/sql.py",
+    "Lib/site-packages/pygments/lexers/stata.py",
+    "Lib/site-packages/pygments/lexers/supercollider.py",
+    "Lib/site-packages/pygments/lexers/tcl.py",
+    "Lib/site-packages/pygments/lexers/templates.py",
+    "Lib/site-packages/pygments/lexers/teraterm.py",
+    "Lib/site-packages/pygments/lexers/testing.py",
+    "Lib/site-packages/pygments/lexers/text.py",
+    "Lib/site-packages/pygments/lexers/textedit.py",
+    "Lib/site-packages/pygments/lexers/textfmts.py",
+    "Lib/site-packages/pygments/lexers/theorem.py",
+    "Lib/site-packages/pygments/lexers/tnt.py",
+    "Lib/site-packages/pygments/lexers/trafficscript.py",
+    "Lib/site-packages/pygments/lexers/typoscript.py",
+    "Lib/site-packages/pygments/lexers/unicon.py",
+    "Lib/site-packages/pygments/lexers/urbi.py",
+    "Lib/site-packages/pygments/lexers/usd.py",
+    "Lib/site-packages/pygments/lexers/varnish.py",
+    "Lib/site-packages/pygments/lexers/verification.py",
+    "Lib/site-packages/pygments/lexers/web.py",
+    "Lib/site-packages/pygments/lexers/webidl.py",
+    "Lib/site-packages/pygments/lexers/webmisc.py",
+    "Lib/site-packages/pygments/lexers/whiley.py",
+    "Lib/site-packages/pygments/lexers/x10.py",
+    "Lib/site-packages/pygments/lexers/xorg.py",
+    "Lib/site-packages/pygments/lexers/yang.py",
+    "Lib/site-packages/pygments/lexers/zig.py",
+    "Lib/site-packages/pygments/modeline.py",
+    "Lib/site-packages/pygments/plugin.py",
+    "Lib/site-packages/pygments/regexopt.py",
+    "Lib/site-packages/pygments/scanner.py",
+    "Lib/site-packages/pygments/sphinxext.py",
+    "Lib/site-packages/pygments/style.py",
+    "Lib/site-packages/pygments/styles/__init__.py",
+    "Lib/site-packages/pygments/styles/abap.py",
+    "Lib/site-packages/pygments/styles/algol.py",
+    "Lib/site-packages/pygments/styles/algol_nu.py",
+    "Lib/site-packages/pygments/styles/arduino.py",
+    "Lib/site-packages/pygments/styles/autumn.py",
+    "Lib/site-packages/pygments/styles/borland.py",
+    "Lib/site-packages/pygments/styles/bw.py",
+    "Lib/site-packages/pygments/styles/colorful.py",
+    "Lib/site-packages/pygments/styles/default.py",
+    "Lib/site-packages/pygments/styles/emacs.py",
+    "Lib/site-packages/pygments/styles/friendly.py",
+    "Lib/site-packages/pygments/styles/fruity.py",
+    "Lib/site-packages/pygments/styles/igor.py",
+    "Lib/site-packages/pygments/styles/inkpot.py",
+    "Lib/site-packages/pygments/styles/lovelace.py",
+    "Lib/site-packages/pygments/styles/manni.py",
+    "Lib/site-packages/pygments/styles/material.py",
+    "Lib/site-packages/pygments/styles/monokai.py",
+    "Lib/site-packages/pygments/styles/murphy.py",
+    "Lib/site-packages/pygments/styles/native.py",
+    "Lib/site-packages/pygments/styles/paraiso_dark.py",
+    "Lib/site-packages/pygments/styles/paraiso_light.py",
+    "Lib/site-packages/pygments/styles/pastie.py",
+    "Lib/site-packages/pygments/styles/perldoc.py",
+    "Lib/site-packages/pygments/styles/rainbow_dash.py",
+    "Lib/site-packages/pygments/styles/rrt.py",
+    "Lib/site-packages/pygments/styles/sas.py",
+    "Lib/site-packages/pygments/styles/solarized.py",
+    "Lib/site-packages/pygments/styles/stata_dark.py",
+    "Lib/site-packages/pygments/styles/stata_light.py",
+    "Lib/site-packages/pygments/styles/tango.py",
+    "Lib/site-packages/pygments/styles/trac.py",
+    "Lib/site-packages/pygments/styles/vim.py",
+    "Lib/site-packages/pygments/styles/vs.py",
+    "Lib/site-packages/pygments/styles/xcode.py",
+    "Lib/site-packages/pygments/styles/zenburn.py",
+    "Lib/site-packages/pygments/token.py",
+    "Lib/site-packages/pygments/unistring.py",
+    "Lib/site-packages/pygments/util.py",
+    "Lib/site-packages/pygments/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/pygments/__pycache__/__main__.cpython-38.pyc",
+    "Lib/site-packages/pygments/__pycache__/cmdline.cpython-38.pyc",
+    "Lib/site-packages/pygments/__pycache__/console.cpython-38.pyc",
+    "Lib/site-packages/pygments/__pycache__/filter.cpython-38.pyc",
+    "Lib/site-packages/pygments/filters/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/pygments/__pycache__/formatter.cpython-38.pyc",
+    "Lib/site-packages/pygments/formatters/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/pygments/formatters/__pycache__/_mapping.cpython-38.pyc",
+    "Lib/site-packages/pygments/formatters/__pycache__/bbcode.cpython-38.pyc",
+    "Lib/site-packages/pygments/formatters/__pycache__/html.cpython-38.pyc",
+    "Lib/site-packages/pygments/formatters/__pycache__/img.cpython-38.pyc",
+    "Lib/site-packages/pygments/formatters/__pycache__/irc.cpython-38.pyc",
+    "Lib/site-packages/pygments/formatters/__pycache__/latex.cpython-38.pyc",
+    "Lib/site-packages/pygments/formatters/__pycache__/other.cpython-38.pyc",
+    "Lib/site-packages/pygments/formatters/__pycache__/rtf.cpython-38.pyc",
+    "Lib/site-packages/pygments/formatters/__pycache__/svg.cpython-38.pyc",
+    "Lib/site-packages/pygments/formatters/__pycache__/terminal.cpython-38.pyc",
+    "Lib/site-packages/pygments/formatters/__pycache__/terminal256.cpython-38.pyc",
+    "Lib/site-packages/pygments/__pycache__/lexer.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/_asy_builtins.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/_cl_builtins.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/_cocoa_builtins.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/_csound_builtins.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/_lasso_builtins.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/_lua_builtins.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/_mapping.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/_mql_builtins.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/_mysql_builtins.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/_openedge_builtins.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/_php_builtins.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/_postgres_builtins.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/_scilab_builtins.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/_sourcemod_builtins.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/_stan_builtins.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/_stata_builtins.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/_tsql_builtins.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/_usd_builtins.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/_vbscript_builtins.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/_vim_builtins.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/actionscript.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/agile.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/algebra.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/ambient.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/amdgpu.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/ampl.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/apl.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/archetype.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/arrow.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/asm.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/automation.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/bare.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/basic.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/bibtex.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/boa.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/business.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/c_cpp.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/c_like.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/capnproto.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/cddl.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/chapel.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/clean.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/compiled.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/configs.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/console.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/crystal.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/csound.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/css.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/d.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/dalvik.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/data.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/devicetree.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/diff.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/dotnet.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/dsls.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/dylan.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/ecl.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/eiffel.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/elm.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/email.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/erlang.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/esoteric.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/ezhil.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/factor.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/fantom.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/felix.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/floscript.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/forth.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/fortran.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/foxpro.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/freefem.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/functional.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/futhark.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/gdscript.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/go.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/grammar_notation.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/graph.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/graphics.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/graphviz.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/haskell.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/haxe.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/hdl.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/hexdump.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/html.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/idl.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/igor.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/inferno.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/installers.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/int_fiction.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/iolang.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/j.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/javascript.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/julia.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/jvm.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/lisp.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/make.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/markup.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/math.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/matlab.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/mime.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/ml.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/modeling.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/modula2.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/monte.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/mosel.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/ncl.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/nimrod.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/nit.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/nix.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/oberon.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/objective.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/ooc.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/other.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/parasail.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/parsers.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/pascal.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/pawn.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/perl.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/php.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/pointless.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/pony.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/praat.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/prolog.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/promql.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/python.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/qvt.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/r.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/rdf.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/rebol.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/resource.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/ride.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/rnc.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/roboconf.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/robotframework.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/ruby.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/rust.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/sas.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/scdoc.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/scripting.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/sgf.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/shell.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/sieve.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/slash.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/smalltalk.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/smv.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/snobol.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/solidity.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/special.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/sql.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/stata.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/supercollider.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/tcl.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/templates.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/teraterm.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/testing.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/text.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/textedit.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/textfmts.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/theorem.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/tnt.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/trafficscript.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/typoscript.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/unicon.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/urbi.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/usd.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/varnish.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/verification.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/web.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/webidl.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/webmisc.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/whiley.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/x10.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/xorg.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/yang.cpython-38.pyc",
+    "Lib/site-packages/pygments/lexers/__pycache__/zig.cpython-38.pyc",
+    "Lib/site-packages/pygments/__pycache__/modeline.cpython-38.pyc",
+    "Lib/site-packages/pygments/__pycache__/plugin.cpython-38.pyc",
+    "Lib/site-packages/pygments/__pycache__/regexopt.cpython-38.pyc",
+    "Lib/site-packages/pygments/__pycache__/scanner.cpython-38.pyc",
+    "Lib/site-packages/pygments/__pycache__/sphinxext.cpython-38.pyc",
+    "Lib/site-packages/pygments/__pycache__/style.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/abap.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/algol.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/algol_nu.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/arduino.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/autumn.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/borland.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/bw.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/colorful.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/default.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/emacs.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/friendly.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/fruity.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/igor.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/inkpot.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/lovelace.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/manni.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/material.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/monokai.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/murphy.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/native.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/paraiso_dark.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/paraiso_light.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/pastie.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/perldoc.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/rainbow_dash.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/rrt.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/sas.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/solarized.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/stata_dark.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/stata_light.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/tango.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/trac.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/vim.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/vs.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/xcode.cpython-38.pyc",
+    "Lib/site-packages/pygments/styles/__pycache__/zenburn.cpython-38.pyc",
+    "Lib/site-packages/pygments/__pycache__/token.cpython-38.pyc",
+    "Lib/site-packages/pygments/__pycache__/unistring.cpython-38.pyc",
+    "Lib/site-packages/pygments/__pycache__/util.cpython-38.pyc",
+    "Scripts/pygmentize-script.py",
+    "Scripts/pygmentize.exe"
+  ],
+  "fn": "pygments-2.8.1-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "e9306bf21248482d3edb1859dda2acd7",
+  "legacy_bz2_size": 754494,
+  "license": "BSD-2-clause",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pygments-2.8.1-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "a82ee5f18dc1890d29b33d5e17d91a5d",
+  "name": "pygments",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pygments-2.8.1-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/pygments/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/__pycache__/__main__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/__pycache__/cmdline.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/__pycache__/console.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/__pycache__/filter.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/filters/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/__pycache__/formatter.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/formatters/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/formatters/__pycache__/_mapping.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/formatters/__pycache__/bbcode.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/formatters/__pycache__/html.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/formatters/__pycache__/img.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/formatters/__pycache__/irc.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/formatters/__pycache__/latex.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/formatters/__pycache__/other.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/formatters/__pycache__/rtf.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/formatters/__pycache__/svg.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/formatters/__pycache__/terminal.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/formatters/__pycache__/terminal256.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/__pycache__/lexer.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/_asy_builtins.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/_cl_builtins.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/_cocoa_builtins.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/_csound_builtins.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/_lasso_builtins.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/_lua_builtins.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/_mapping.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/_mql_builtins.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/_mysql_builtins.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/_openedge_builtins.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/_php_builtins.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/_postgres_builtins.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/_scilab_builtins.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/_sourcemod_builtins.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/_stan_builtins.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/_stata_builtins.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/_tsql_builtins.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/_usd_builtins.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/_vbscript_builtins.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/_vim_builtins.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/actionscript.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/agile.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/algebra.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/ambient.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/amdgpu.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/ampl.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/apl.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/archetype.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/arrow.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/asm.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/automation.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/bare.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/basic.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/bibtex.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/boa.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/business.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/c_cpp.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/c_like.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/capnproto.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/cddl.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/chapel.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/clean.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/compiled.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/configs.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/console.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/crystal.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/csound.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/css.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/d.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/dalvik.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/data.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/devicetree.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/diff.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/dotnet.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/dsls.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/dylan.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/ecl.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/eiffel.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/elm.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/email.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/erlang.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/esoteric.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/ezhil.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/factor.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/fantom.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/felix.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/floscript.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/forth.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/fortran.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/foxpro.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/freefem.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/functional.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/futhark.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/gdscript.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/go.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/grammar_notation.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/graph.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/graphics.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/graphviz.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/haskell.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/haxe.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/hdl.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/hexdump.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/html.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/idl.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/igor.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/inferno.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/installers.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/int_fiction.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/iolang.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/j.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/javascript.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/julia.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/jvm.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/lisp.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/make.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/markup.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/math.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/matlab.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/mime.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/ml.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/modeling.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/modula2.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/monte.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/mosel.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/ncl.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/nimrod.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/nit.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/nix.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/oberon.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/objective.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/ooc.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/other.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/parasail.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/parsers.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/pascal.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/pawn.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/perl.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/php.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/pointless.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/pony.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/praat.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/prolog.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/promql.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/python.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/qvt.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/r.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/rdf.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/rebol.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/resource.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/ride.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/rnc.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/roboconf.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/robotframework.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/ruby.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/rust.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/sas.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/scdoc.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/scripting.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/sgf.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/shell.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/sieve.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/slash.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/smalltalk.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/smv.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/snobol.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/solidity.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/special.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/sql.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/stata.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/supercollider.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/tcl.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/templates.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/teraterm.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/testing.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/text.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/textedit.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/textfmts.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/theorem.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/tnt.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/trafficscript.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/typoscript.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/unicon.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/urbi.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/usd.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/varnish.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/verification.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/web.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/webidl.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/webmisc.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/whiley.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/x10.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/xorg.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/yang.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/lexers/__pycache__/zig.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/__pycache__/modeline.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/__pycache__/plugin.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/__pycache__/regexopt.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/__pycache__/scanner.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/__pycache__/sphinxext.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/__pycache__/style.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/abap.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/algol.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/algol_nu.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/arduino.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/autumn.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/borland.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/bw.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/colorful.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/default.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/emacs.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/friendly.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/fruity.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/igor.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/inkpot.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/lovelace.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/manni.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/material.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/monokai.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/murphy.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/native.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/paraiso_dark.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/paraiso_light.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/pastie.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/perldoc.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/rainbow_dash.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/rrt.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/sas.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/solarized.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/stata_dark.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/stata_light.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/tango.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/trac.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/vim.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/vs.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/xcode.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/styles/__pycache__/zenburn.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/__pycache__/token.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/__pycache__/unistring.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pygments/__pycache__/util.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/pygmentize-script.py",
+        "path_type": "windows_python_entry_point_script"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "pygments==2.8.1=pyhd3eb1b0_0",
+  "sha256": "d532cd8e18715f2d2e4b7b00b1b23debe30310a6844a5969f9bacbaa0221346d",
+  "size": 720250,
+  "subdir": "noarch",
+  "timestamp": 1615143383540,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/pygments-2.8.1-pyhd3eb1b0_0.conda",
+  "version": "2.8.1"
+}

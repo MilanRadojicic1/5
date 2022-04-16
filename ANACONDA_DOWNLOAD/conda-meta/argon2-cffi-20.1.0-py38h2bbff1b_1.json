@@ -1,0 +1,69 @@
+{
+  "build": "py38h2bbff1b_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [
+    "argon2_cffi ==999"
+  ],
+  "depends": [
+    "cffi >=1.0.0",
+    "python >=3.8,<3.9.0a0",
+    "six",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\argon2-cffi-20.1.0-py38h2bbff1b_1",
+  "features": "",
+  "files": [
+    "Lib/site-packages/argon2/__init__.py",
+    "Lib/site-packages/argon2/__main__.py",
+    "Lib/site-packages/argon2/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/argon2/__pycache__/__main__.cpython-38.pyc",
+    "Lib/site-packages/argon2/__pycache__/_ffi_build.cpython-38.pyc",
+    "Lib/site-packages/argon2/__pycache__/_legacy.cpython-38.pyc",
+    "Lib/site-packages/argon2/__pycache__/_password_hasher.cpython-38.pyc",
+    "Lib/site-packages/argon2/__pycache__/_utils.cpython-38.pyc",
+    "Lib/site-packages/argon2/__pycache__/exceptions.cpython-38.pyc",
+    "Lib/site-packages/argon2/__pycache__/low_level.cpython-38.pyc",
+    "Lib/site-packages/argon2/_ffi.pyd",
+    "Lib/site-packages/argon2/_ffi_build.py",
+    "Lib/site-packages/argon2/_legacy.py",
+    "Lib/site-packages/argon2/_password_hasher.py",
+    "Lib/site-packages/argon2/_utils.py",
+    "Lib/site-packages/argon2/exceptions.py",
+    "Lib/site-packages/argon2/low_level.py",
+    "Lib/site-packages/argon2_cffi-20.1.0.dist-info/AUTHORS.rst",
+    "Lib/site-packages/argon2_cffi-20.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/argon2_cffi-20.1.0.dist-info/LICENSE",
+    "Lib/site-packages/argon2_cffi-20.1.0.dist-info/METADATA",
+    "Lib/site-packages/argon2_cffi-20.1.0.dist-info/RECORD",
+    "Lib/site-packages/argon2_cffi-20.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/argon2_cffi-20.1.0.dist-info/WHEEL",
+    "Lib/site-packages/argon2_cffi-20.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/argon2_cffi-20.1.0.dist-info/top_level.txt"
+  ],
+  "fn": "argon2-cffi-20.1.0-py38h2bbff1b_1.conda",
+  "legacy_bz2_md5": "c6ffe834cc1835eeaa2a610e8ec3bd57",
+  "legacy_bz2_size": 54244,
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\argon2-cffi-20.1.0-py38h2bbff1b_1",
+    "type": 1
+  },
+  "md5": "a9a05de8f063674451d1c7edc26c2b89",
+  "name": "argon2-cffi",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\argon2-cffi-20.1.0-py38h2bbff1b_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "argon2-cffi==20.1.0=py38h2bbff1b_1",
+  "sha256": "c4143688e0757f7e3c926cd4767f78e8ce79bcb01f178a1c7da5dcdcc718ffdc",
+  "size": 50309,
+  "subdir": "win-64",
+  "timestamp": 1613038062718,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/argon2-cffi-20.1.0-py38h2bbff1b_1.conda",
+  "version": "20.1.0"
+}

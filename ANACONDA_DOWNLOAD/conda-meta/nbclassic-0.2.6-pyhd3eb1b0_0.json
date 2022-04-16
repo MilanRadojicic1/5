@@ -1,0 +1,141 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "jupyter_server >=1.0.1,<2.0.0",
+    "notebook <7",
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\nbclassic-0.2.6-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "etc/jupyter/jupyter_server_config.d/nbclassic.json",
+    "Lib/site-packages/nbclassic-0.2.6.dist-info/INSTALLER",
+    "Lib/site-packages/nbclassic-0.2.6.dist-info/LICENSE",
+    "Lib/site-packages/nbclassic-0.2.6.dist-info/METADATA",
+    "Lib/site-packages/nbclassic-0.2.6.dist-info/RECORD",
+    "Lib/site-packages/nbclassic-0.2.6.dist-info/REQUESTED",
+    "Lib/site-packages/nbclassic-0.2.6.dist-info/WHEEL",
+    "Lib/site-packages/nbclassic-0.2.6.dist-info/direct_url.json",
+    "Lib/site-packages/nbclassic-0.2.6.dist-info/entry_points.txt",
+    "Lib/site-packages/nbclassic-0.2.6.dist-info/top_level.txt",
+    "Lib/site-packages/nbclassic/__init__.py",
+    "Lib/site-packages/nbclassic/__version__.py",
+    "Lib/site-packages/nbclassic/edit/__init__.py",
+    "Lib/site-packages/nbclassic/edit/handlers.py",
+    "Lib/site-packages/nbclassic/nbserver.py",
+    "Lib/site-packages/nbclassic/notebook/__init__.py",
+    "Lib/site-packages/nbclassic/notebook/handlers.py",
+    "Lib/site-packages/nbclassic/notebookapp.py",
+    "Lib/site-packages/nbclassic/shim.py",
+    "Lib/site-packages/nbclassic/terminal/__init__.py",
+    "Lib/site-packages/nbclassic/terminal/handlers.py",
+    "Lib/site-packages/nbclassic/traits.py",
+    "Lib/site-packages/nbclassic/tree/__init__.py",
+    "Lib/site-packages/nbclassic/tree/handlers.py",
+    "Lib/site-packages/nbclassic/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/nbclassic/__pycache__/__version__.cpython-38.pyc",
+    "Lib/site-packages/nbclassic/edit/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/nbclassic/edit/__pycache__/handlers.cpython-38.pyc",
+    "Lib/site-packages/nbclassic/__pycache__/nbserver.cpython-38.pyc",
+    "Lib/site-packages/nbclassic/notebook/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/nbclassic/notebook/__pycache__/handlers.cpython-38.pyc",
+    "Lib/site-packages/nbclassic/__pycache__/notebookapp.cpython-38.pyc",
+    "Lib/site-packages/nbclassic/__pycache__/shim.cpython-38.pyc",
+    "Lib/site-packages/nbclassic/terminal/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/nbclassic/terminal/__pycache__/handlers.cpython-38.pyc",
+    "Lib/site-packages/nbclassic/__pycache__/traits.cpython-38.pyc",
+    "Lib/site-packages/nbclassic/tree/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/nbclassic/tree/__pycache__/handlers.cpython-38.pyc",
+    "Scripts/jupyter-nbclassic-script.py",
+    "Scripts/jupyter-nbclassic.exe"
+  ],
+  "fn": "nbclassic-0.2.6-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "5eb266f0aa05121a273afb6ab9eada9b",
+  "legacy_bz2_size": 19015,
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\nbclassic-0.2.6-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "f704f65d82c2e9061f47a351bd770d79",
+  "name": "nbclassic",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\nbclassic-0.2.6-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/nbclassic/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclassic/__pycache__/__version__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclassic/edit/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclassic/edit/__pycache__/handlers.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclassic/__pycache__/nbserver.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclassic/notebook/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclassic/notebook/__pycache__/handlers.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclassic/__pycache__/notebookapp.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclassic/__pycache__/shim.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclassic/terminal/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclassic/terminal/__pycache__/handlers.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclassic/__pycache__/traits.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclassic/tree/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclassic/tree/__pycache__/handlers.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/jupyter-nbclassic-script.py",
+        "path_type": "windows_python_entry_point_script"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "nbclassic==0.2.6=pyhd3eb1b0_0",
+  "sha256": "50c9c3f65c171ffeff433e46e7a035bb084f37784b5cf1847d5c7b678a73fc24",
+  "size": 19084,
+  "subdir": "noarch",
+  "timestamp": 1616085414086,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/nbclassic-0.2.6-pyhd3eb1b0_0.conda",
+  "version": "0.2.6"
+}

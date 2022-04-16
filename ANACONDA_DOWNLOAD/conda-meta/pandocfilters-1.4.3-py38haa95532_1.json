@@ -1,0 +1,47 @@
+{
+  "build": "py38haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pandocfilters-1.4.3-py38haa95532_1",
+  "features": "",
+  "files": [
+    "Lib/site-packages/__pycache__/pandocfilters.cpython-38.pyc",
+    "Lib/site-packages/pandocfilters-1.4.3.dist-info/INSTALLER",
+    "Lib/site-packages/pandocfilters-1.4.3.dist-info/LICENSE",
+    "Lib/site-packages/pandocfilters-1.4.3.dist-info/METADATA",
+    "Lib/site-packages/pandocfilters-1.4.3.dist-info/RECORD",
+    "Lib/site-packages/pandocfilters-1.4.3.dist-info/REQUESTED",
+    "Lib/site-packages/pandocfilters-1.4.3.dist-info/WHEEL",
+    "Lib/site-packages/pandocfilters-1.4.3.dist-info/direct_url.json",
+    "Lib/site-packages/pandocfilters-1.4.3.dist-info/top_level.txt",
+    "Lib/site-packages/pandocfilters.py"
+  ],
+  "fn": "pandocfilters-1.4.3-py38haa95532_1.conda",
+  "legacy_bz2_md5": "245fb2fbc5f45388c572e3af4bfa136d",
+  "legacy_bz2_size": 14535,
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pandocfilters-1.4.3-py38haa95532_1",
+    "type": 1
+  },
+  "md5": "7635aa510ebd094fcf2321042d2a9091",
+  "name": "pandocfilters",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pandocfilters-1.4.3-py38haa95532_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "pandocfilters==1.4.3=py38haa95532_1",
+  "sha256": "55bf8074438d9a45249d19a29bb7116e0be519157d5ccbaaedaf49a9e7565dde",
+  "size": 14351,
+  "subdir": "win-64",
+  "timestamp": 1605102536844,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pandocfilters-1.4.3-py38haa95532_1.conda",
+  "version": "1.4.3"
+}

@@ -1,0 +1,593 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.6",
+    "setuptools"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\joblib-1.0.1-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/joblib-1.0.1.dist-info/INSTALLER",
+    "Lib/site-packages/joblib-1.0.1.dist-info/LICENSE.txt",
+    "Lib/site-packages/joblib-1.0.1.dist-info/METADATA",
+    "Lib/site-packages/joblib-1.0.1.dist-info/RECORD",
+    "Lib/site-packages/joblib-1.0.1.dist-info/REQUESTED",
+    "Lib/site-packages/joblib-1.0.1.dist-info/WHEEL",
+    "Lib/site-packages/joblib-1.0.1.dist-info/direct_url.json",
+    "Lib/site-packages/joblib-1.0.1.dist-info/top_level.txt",
+    "Lib/site-packages/joblib/__init__.py",
+    "Lib/site-packages/joblib/_dask.py",
+    "Lib/site-packages/joblib/_deprecated_format_stack.py",
+    "Lib/site-packages/joblib/_deprecated_my_exceptions.py",
+    "Lib/site-packages/joblib/_memmapping_reducer.py",
+    "Lib/site-packages/joblib/_multiprocessing_helpers.py",
+    "Lib/site-packages/joblib/_parallel_backends.py",
+    "Lib/site-packages/joblib/_store_backends.py",
+    "Lib/site-packages/joblib/backports.py",
+    "Lib/site-packages/joblib/compressor.py",
+    "Lib/site-packages/joblib/disk.py",
+    "Lib/site-packages/joblib/executor.py",
+    "Lib/site-packages/joblib/externals/__init__.py",
+    "Lib/site-packages/joblib/externals/cloudpickle/__init__.py",
+    "Lib/site-packages/joblib/externals/cloudpickle/cloudpickle.py",
+    "Lib/site-packages/joblib/externals/cloudpickle/cloudpickle_fast.py",
+    "Lib/site-packages/joblib/externals/cloudpickle/compat.py",
+    "Lib/site-packages/joblib/externals/loky/__init__.py",
+    "Lib/site-packages/joblib/externals/loky/_base.py",
+    "Lib/site-packages/joblib/externals/loky/backend/__init__.py",
+    "Lib/site-packages/joblib/externals/loky/backend/_posix_reduction.py",
+    "Lib/site-packages/joblib/externals/loky/backend/_posix_wait.py",
+    "Lib/site-packages/joblib/externals/loky/backend/_win_reduction.py",
+    "Lib/site-packages/joblib/externals/loky/backend/_win_wait.py",
+    "Lib/site-packages/joblib/externals/loky/backend/compat.py",
+    "Lib/site-packages/joblib/externals/loky/backend/compat_posix.py",
+    "Lib/site-packages/joblib/externals/loky/backend/compat_win32.py",
+    "Lib/site-packages/joblib/externals/loky/backend/context.py",
+    "Lib/site-packages/joblib/externals/loky/backend/fork_exec.py",
+    "Lib/site-packages/joblib/externals/loky/backend/managers.py",
+    "Lib/site-packages/joblib/externals/loky/backend/popen_loky_posix.py",
+    "Lib/site-packages/joblib/externals/loky/backend/popen_loky_win32.py",
+    "Lib/site-packages/joblib/externals/loky/backend/process.py",
+    "Lib/site-packages/joblib/externals/loky/backend/queues.py",
+    "Lib/site-packages/joblib/externals/loky/backend/reduction.py",
+    "Lib/site-packages/joblib/externals/loky/backend/resource_tracker.py",
+    "Lib/site-packages/joblib/externals/loky/backend/semlock.py",
+    "Lib/site-packages/joblib/externals/loky/backend/spawn.py",
+    "Lib/site-packages/joblib/externals/loky/backend/synchronize.py",
+    "Lib/site-packages/joblib/externals/loky/backend/utils.py",
+    "Lib/site-packages/joblib/externals/loky/cloudpickle_wrapper.py",
+    "Lib/site-packages/joblib/externals/loky/process_executor.py",
+    "Lib/site-packages/joblib/externals/loky/reusable_executor.py",
+    "Lib/site-packages/joblib/format_stack.py",
+    "Lib/site-packages/joblib/func_inspect.py",
+    "Lib/site-packages/joblib/hashing.py",
+    "Lib/site-packages/joblib/logger.py",
+    "Lib/site-packages/joblib/memory.py",
+    "Lib/site-packages/joblib/my_exceptions.py",
+    "Lib/site-packages/joblib/numpy_pickle.py",
+    "Lib/site-packages/joblib/numpy_pickle_compat.py",
+    "Lib/site-packages/joblib/numpy_pickle_utils.py",
+    "Lib/site-packages/joblib/parallel.py",
+    "Lib/site-packages/joblib/pool.py",
+    "Lib/site-packages/joblib/test/__init__.py",
+    "Lib/site-packages/joblib/test/common.py",
+    "Lib/site-packages/joblib/test/data/__init__.py",
+    "Lib/site-packages/joblib/test/data/create_numpy_pickle.py",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_compressed_pickle_py27_np16.gz",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_compressed_pickle_py27_np17.gz",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_compressed_pickle_py33_np18.gz",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_compressed_pickle_py34_np19.gz",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_compressed_pickle_py35_np19.gz",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py27_np17.pkl",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py27_np17.pkl.bz2",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py27_np17.pkl.gzip",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py27_np17.pkl.lzma",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py27_np17.pkl.xz",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py33_np18.pkl",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py33_np18.pkl.bz2",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py33_np18.pkl.gzip",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py33_np18.pkl.lzma",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py33_np18.pkl.xz",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py34_np19.pkl",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py34_np19.pkl.bz2",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py34_np19.pkl.gzip",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py34_np19.pkl.lzma",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py34_np19.pkl.xz",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py35_np19.pkl",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py35_np19.pkl.bz2",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py35_np19.pkl.gzip",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py35_np19.pkl.lzma",
+    "Lib/site-packages/joblib/test/data/joblib_0.10.0_pickle_py35_np19.pkl.xz",
+    "Lib/site-packages/joblib/test/data/joblib_0.11.0_compressed_pickle_py36_np111.gz",
+    "Lib/site-packages/joblib/test/data/joblib_0.11.0_pickle_py36_np111.pkl",
+    "Lib/site-packages/joblib/test/data/joblib_0.11.0_pickle_py36_np111.pkl.bz2",
+    "Lib/site-packages/joblib/test/data/joblib_0.11.0_pickle_py36_np111.pkl.gzip",
+    "Lib/site-packages/joblib/test/data/joblib_0.11.0_pickle_py36_np111.pkl.lzma",
+    "Lib/site-packages/joblib/test/data/joblib_0.11.0_pickle_py36_np111.pkl.xz",
+    "Lib/site-packages/joblib/test/data/joblib_0.8.4_compressed_pickle_py27_np17.gz",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_compressed_pickle_py27_np16.gz",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_compressed_pickle_py27_np17.gz",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_compressed_pickle_py34_np19.gz",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_compressed_pickle_py35_np19.gz",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py27_np16.pkl",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py27_np16.pkl_01.npy",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py27_np16.pkl_02.npy",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py27_np16.pkl_03.npy",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py27_np16.pkl_04.npy",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py27_np17.pkl",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py27_np17.pkl_01.npy",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py27_np17.pkl_02.npy",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py27_np17.pkl_03.npy",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py27_np17.pkl_04.npy",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py33_np18.pkl",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py33_np18.pkl_01.npy",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py33_np18.pkl_02.npy",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py33_np18.pkl_03.npy",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py33_np18.pkl_04.npy",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py34_np19.pkl",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py34_np19.pkl_01.npy",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py34_np19.pkl_02.npy",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py34_np19.pkl_03.npy",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py34_np19.pkl_04.npy",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py35_np19.pkl",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py35_np19.pkl_01.npy",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py35_np19.pkl_02.npy",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py35_np19.pkl_03.npy",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.2_pickle_py35_np19.pkl_04.npy",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.4.dev0_compressed_cache_size_pickle_py35_np19.gz",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.4.dev0_compressed_cache_size_pickle_py35_np19.gz_01.npy.z",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.4.dev0_compressed_cache_size_pickle_py35_np19.gz_02.npy.z",
+    "Lib/site-packages/joblib/test/data/joblib_0.9.4.dev0_compressed_cache_size_pickle_py35_np19.gz_03.npy.z",
+    "Lib/site-packages/joblib/test/test_backports.py",
+    "Lib/site-packages/joblib/test/test_dask.py",
+    "Lib/site-packages/joblib/test/test_deprecated_objects.py",
+    "Lib/site-packages/joblib/test/test_disk.py",
+    "Lib/site-packages/joblib/test/test_format_stack.py",
+    "Lib/site-packages/joblib/test/test_func_inspect.py",
+    "Lib/site-packages/joblib/test/test_func_inspect_special_encoding.py",
+    "Lib/site-packages/joblib/test/test_hashing.py",
+    "Lib/site-packages/joblib/test/test_init.py",
+    "Lib/site-packages/joblib/test/test_logger.py",
+    "Lib/site-packages/joblib/test/test_memmapping.py",
+    "Lib/site-packages/joblib/test/test_memory.py",
+    "Lib/site-packages/joblib/test/test_module.py",
+    "Lib/site-packages/joblib/test/test_my_exceptions.py",
+    "Lib/site-packages/joblib/test/test_numpy_pickle.py",
+    "Lib/site-packages/joblib/test/test_numpy_pickle_compat.py",
+    "Lib/site-packages/joblib/test/test_numpy_pickle_utils.py",
+    "Lib/site-packages/joblib/test/test_parallel.py",
+    "Lib/site-packages/joblib/test/test_store_backends.py",
+    "Lib/site-packages/joblib/test/test_testing.py",
+    "Lib/site-packages/joblib/test/testutils.py",
+    "Lib/site-packages/joblib/testing.py",
+    "Lib/site-packages/joblib/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/_dask.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/_deprecated_format_stack.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/_deprecated_my_exceptions.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/_memmapping_reducer.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/_multiprocessing_helpers.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/_parallel_backends.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/_store_backends.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/backports.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/compressor.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/disk.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/executor.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/cloudpickle/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/cloudpickle/__pycache__/cloudpickle.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/cloudpickle/__pycache__/cloudpickle_fast.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/cloudpickle/__pycache__/compat.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/__pycache__/_base.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/backend/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/backend/__pycache__/_posix_reduction.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/backend/__pycache__/_posix_wait.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/backend/__pycache__/_win_reduction.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/backend/__pycache__/_win_wait.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/backend/__pycache__/compat.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/backend/__pycache__/compat_posix.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/backend/__pycache__/compat_win32.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/backend/__pycache__/context.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/backend/__pycache__/fork_exec.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/backend/__pycache__/managers.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/backend/__pycache__/popen_loky_posix.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/backend/__pycache__/popen_loky_win32.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/backend/__pycache__/process.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/backend/__pycache__/queues.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/backend/__pycache__/reduction.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/backend/__pycache__/resource_tracker.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/backend/__pycache__/semlock.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/backend/__pycache__/spawn.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/backend/__pycache__/synchronize.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/backend/__pycache__/utils.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/__pycache__/cloudpickle_wrapper.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/__pycache__/process_executor.cpython-38.pyc",
+    "Lib/site-packages/joblib/externals/loky/__pycache__/reusable_executor.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/format_stack.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/func_inspect.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/hashing.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/logger.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/memory.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/my_exceptions.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/numpy_pickle.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/numpy_pickle_compat.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/numpy_pickle_utils.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/parallel.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/pool.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/common.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/data/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/data/__pycache__/create_numpy_pickle.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/test_backports.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/test_dask.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/test_deprecated_objects.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/test_disk.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/test_format_stack.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/test_func_inspect.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/test_func_inspect_special_encoding.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/test_hashing.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/test_init.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/test_logger.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/test_memmapping.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/test_memory.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/test_module.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/test_my_exceptions.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/test_numpy_pickle.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/test_numpy_pickle_compat.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/test_numpy_pickle_utils.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/test_parallel.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/test_store_backends.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/test_testing.cpython-38.pyc",
+    "Lib/site-packages/joblib/test/__pycache__/testutils.cpython-38.pyc",
+    "Lib/site-packages/joblib/__pycache__/testing.cpython-38.pyc"
+  ],
+  "fn": "joblib-1.0.1-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "ad99b4d4c4dc031ac31d5d85079972c7",
+  "legacy_bz2_size": 211733,
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\joblib-1.0.1-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "27f437079d0608383b5a5347a84621ac",
+  "name": "joblib",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\joblib-1.0.1-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/_dask.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/_deprecated_format_stack.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/_deprecated_my_exceptions.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/_memmapping_reducer.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/_multiprocessing_helpers.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/_parallel_backends.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/_store_backends.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/backports.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/compressor.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/disk.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/executor.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/cloudpickle/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/cloudpickle/__pycache__/cloudpickle.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/cloudpickle/__pycache__/cloudpickle_fast.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/cloudpickle/__pycache__/compat.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/__pycache__/_base.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/backend/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/backend/__pycache__/_posix_reduction.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/backend/__pycache__/_posix_wait.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/backend/__pycache__/_win_reduction.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/backend/__pycache__/_win_wait.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/backend/__pycache__/compat.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/backend/__pycache__/compat_posix.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/backend/__pycache__/compat_win32.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/backend/__pycache__/context.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/backend/__pycache__/fork_exec.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/backend/__pycache__/managers.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/backend/__pycache__/popen_loky_posix.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/backend/__pycache__/popen_loky_win32.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/backend/__pycache__/process.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/backend/__pycache__/queues.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/backend/__pycache__/reduction.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/backend/__pycache__/resource_tracker.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/backend/__pycache__/semlock.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/backend/__pycache__/spawn.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/backend/__pycache__/synchronize.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/backend/__pycache__/utils.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/__pycache__/cloudpickle_wrapper.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/__pycache__/process_executor.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/externals/loky/__pycache__/reusable_executor.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/format_stack.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/func_inspect.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/hashing.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/logger.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/memory.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/my_exceptions.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/numpy_pickle.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/numpy_pickle_compat.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/numpy_pickle_utils.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/parallel.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/pool.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/common.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/data/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/data/__pycache__/create_numpy_pickle.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/test_backports.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/test_dask.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/test_deprecated_objects.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/test_disk.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/test_format_stack.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/test_func_inspect.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/test_func_inspect_special_encoding.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/test_hashing.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/test_init.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/test_logger.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/test_memmapping.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/test_memory.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/test_module.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/test_my_exceptions.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/test_numpy_pickle.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/test_numpy_pickle_compat.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/test_numpy_pickle_utils.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/test_parallel.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/test_store_backends.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/test_testing.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/test/__pycache__/testutils.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/joblib/__pycache__/testing.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "joblib==1.0.1=pyhd3eb1b0_0",
+  "sha256": "8e3274510a49d1a13a0d7238f11c576c33a4d4385e16a5d5bd10c3cc4a0e570f",
+  "size": 213462,
+  "subdir": "noarch",
+  "timestamp": 1613502684514,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/joblib-1.0.1-pyhd3eb1b0_0.conda",
+  "version": "1.0.1"
+}

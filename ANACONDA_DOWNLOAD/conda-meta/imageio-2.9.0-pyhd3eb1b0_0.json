@@ -1,0 +1,286 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "numpy",
+    "pillow",
+    "python >=3"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\imageio-2.9.0-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/imageio-2.9.0.dist-info/INSTALLER",
+    "Lib/site-packages/imageio-2.9.0.dist-info/LICENSE",
+    "Lib/site-packages/imageio-2.9.0.dist-info/METADATA",
+    "Lib/site-packages/imageio-2.9.0.dist-info/RECORD",
+    "Lib/site-packages/imageio-2.9.0.dist-info/REQUESTED",
+    "Lib/site-packages/imageio-2.9.0.dist-info/WHEEL",
+    "Lib/site-packages/imageio-2.9.0.dist-info/direct_url.json",
+    "Lib/site-packages/imageio-2.9.0.dist-info/entry_points.txt",
+    "Lib/site-packages/imageio-2.9.0.dist-info/top_level.txt",
+    "Lib/site-packages/imageio/__init__.py",
+    "Lib/site-packages/imageio/__main__.py",
+    "Lib/site-packages/imageio/core/__init__.py",
+    "Lib/site-packages/imageio/core/fetching.py",
+    "Lib/site-packages/imageio/core/findlib.py",
+    "Lib/site-packages/imageio/core/format.py",
+    "Lib/site-packages/imageio/core/functions.py",
+    "Lib/site-packages/imageio/core/request.py",
+    "Lib/site-packages/imageio/core/util.py",
+    "Lib/site-packages/imageio/freeze.py",
+    "Lib/site-packages/imageio/plugins/__init__.py",
+    "Lib/site-packages/imageio/plugins/_bsdf.py",
+    "Lib/site-packages/imageio/plugins/_dicom.py",
+    "Lib/site-packages/imageio/plugins/_freeimage.py",
+    "Lib/site-packages/imageio/plugins/_swf.py",
+    "Lib/site-packages/imageio/plugins/_tifffile.py",
+    "Lib/site-packages/imageio/plugins/bsdf.py",
+    "Lib/site-packages/imageio/plugins/dicom.py",
+    "Lib/site-packages/imageio/plugins/example.py",
+    "Lib/site-packages/imageio/plugins/feisem.py",
+    "Lib/site-packages/imageio/plugins/ffmpeg.py",
+    "Lib/site-packages/imageio/plugins/fits.py",
+    "Lib/site-packages/imageio/plugins/freeimage.py",
+    "Lib/site-packages/imageio/plugins/freeimagemulti.py",
+    "Lib/site-packages/imageio/plugins/gdal.py",
+    "Lib/site-packages/imageio/plugins/grab.py",
+    "Lib/site-packages/imageio/plugins/lytro.py",
+    "Lib/site-packages/imageio/plugins/npz.py",
+    "Lib/site-packages/imageio/plugins/pillow.py",
+    "Lib/site-packages/imageio/plugins/pillow_info.py",
+    "Lib/site-packages/imageio/plugins/pillowmulti.py",
+    "Lib/site-packages/imageio/plugins/simpleitk.py",
+    "Lib/site-packages/imageio/plugins/spe.py",
+    "Lib/site-packages/imageio/plugins/swf.py",
+    "Lib/site-packages/imageio/plugins/tifffile.py",
+    "Lib/site-packages/imageio/resources/images/astronaut.png",
+    "Lib/site-packages/imageio/resources/images/chelsea.png",
+    "Lib/site-packages/imageio/resources/images/chelsea.zip",
+    "Lib/site-packages/imageio/resources/images/cockatoo.mp4",
+    "Lib/site-packages/imageio/resources/images/newtonscradle.gif",
+    "Lib/site-packages/imageio/resources/images/realshort.mp4",
+    "Lib/site-packages/imageio/resources/images/stent.npz",
+    "Lib/site-packages/imageio/resources/shipped_resources_go_here",
+    "Lib/site-packages/imageio/testing.py",
+    "Lib/site-packages/imageio/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/imageio/__pycache__/__main__.cpython-38.pyc",
+    "Lib/site-packages/imageio/core/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/imageio/core/__pycache__/fetching.cpython-38.pyc",
+    "Lib/site-packages/imageio/core/__pycache__/findlib.cpython-38.pyc",
+    "Lib/site-packages/imageio/core/__pycache__/format.cpython-38.pyc",
+    "Lib/site-packages/imageio/core/__pycache__/functions.cpython-38.pyc",
+    "Lib/site-packages/imageio/core/__pycache__/request.cpython-38.pyc",
+    "Lib/site-packages/imageio/core/__pycache__/util.cpython-38.pyc",
+    "Lib/site-packages/imageio/__pycache__/freeze.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/_bsdf.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/_dicom.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/_freeimage.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/_swf.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/_tifffile.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/bsdf.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/dicom.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/example.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/feisem.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/ffmpeg.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/fits.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/freeimage.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/freeimagemulti.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/gdal.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/grab.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/lytro.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/npz.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/pillow.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/pillow_info.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/pillowmulti.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/simpleitk.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/spe.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/swf.cpython-38.pyc",
+    "Lib/site-packages/imageio/plugins/__pycache__/tifffile.cpython-38.pyc",
+    "Lib/site-packages/imageio/__pycache__/testing.cpython-38.pyc",
+    "Scripts/imageio_download_bin-script.py",
+    "Scripts/imageio_remove_bin-script.py",
+    "Scripts/imageio_download_bin.exe",
+    "Scripts/imageio_remove_bin.exe"
+  ],
+  "fn": "imageio-2.9.0-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "a353b3fbfdf46d9ddaa757e44e0ba389",
+  "legacy_bz2_size": 3271147,
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\imageio-2.9.0-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "4f1d37bdc3afdb2d237fd9b6b920ec3d",
+  "name": "imageio",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\imageio-2.9.0-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/imageio/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/__pycache__/__main__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/core/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/core/__pycache__/fetching.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/core/__pycache__/findlib.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/core/__pycache__/format.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/core/__pycache__/functions.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/core/__pycache__/request.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/core/__pycache__/util.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/__pycache__/freeze.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/_bsdf.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/_dicom.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/_freeimage.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/_swf.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/_tifffile.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/bsdf.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/dicom.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/example.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/feisem.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/ffmpeg.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/fits.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/freeimage.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/freeimagemulti.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/gdal.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/grab.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/lytro.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/npz.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/pillow.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/pillow_info.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/pillowmulti.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/simpleitk.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/spe.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/swf.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/plugins/__pycache__/tifffile.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/imageio/__pycache__/testing.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/imageio_download_bin-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/imageio_remove_bin-script.py",
+        "path_type": "windows_python_entry_point_script"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "imageio==2.9.0=pyhd3eb1b0_0",
+  "sha256": "28c1a7ad62b93af09bcee1820b86660789838a40ca7be783d34bdf238d5381f8",
+  "size": 3170023,
+  "subdir": "noarch",
+  "timestamp": 1617700309891,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/imageio-2.9.0-pyhd3eb1b0_0.conda",
+  "version": "2.9.0"
+}

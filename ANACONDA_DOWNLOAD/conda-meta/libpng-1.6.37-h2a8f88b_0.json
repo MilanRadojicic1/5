@@ -1,0 +1,85 @@
+{
+  "build": "h2a8f88b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "zlib >=1.2.11,<1.3.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\libpng-1.6.37-h2a8f88b_0",
+  "features": "",
+  "files": [
+    "Library/bin/libpng16.dll",
+    "Library/bin/png-fix-itxt.exe",
+    "Library/bin/pngfix.exe",
+    "Library/include/libpng16/png.h",
+    "Library/include/libpng16/pngconf.h",
+    "Library/include/libpng16/pnglibconf.h",
+    "Library/include/png.h",
+    "Library/include/pngconf.h",
+    "Library/include/pnglibconf.h",
+    "Library/lib/libpng.lib",
+    "Library/lib/libpng/libpng16-release.cmake",
+    "Library/lib/libpng/libpng16.cmake",
+    "Library/lib/libpng16.lib",
+    "Library/lib/libpng16_static.lib",
+    "Library/lib/libpng_static.lib",
+    "Library/lib/pkgconfig/libpng.pc",
+    "Library/lib/pkgconfig/libpng16.pc",
+    "Library/share/man/man3/libpng.3",
+    "Library/share/man/man3/libpngpf.3",
+    "Library/share/man/man5/png.5"
+  ],
+  "fn": "libpng-1.6.37-h2a8f88b_0.conda",
+  "legacy_bz2_md5": "351328bf2bee7fd7ee7e9c158aeb1be2",
+  "legacy_bz2_size": 612334,
+  "license": "zlib/libpng",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\libpng-1.6.37-h2a8f88b_0",
+    "type": 1
+  },
+  "md5": "d99c2cf18a0d5a65e8f2928fa4ddbee4",
+  "name": "libpng",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\libpng-1.6.37-h2a8f88b_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/lib/libpng/libpng16.cmake",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:\\\\ci\\\\libpng_1556041840193\\\\_h_env",
+        "sha256": "68453fc56ee12192dd494d57536885a30dd98495505ca949d6c65116ca67ae9f",
+        "sha256_in_prefix": "bf4f5dfc112e6f2673761e097600485d1178229b02747f9f658c9d1d5461836c",
+        "size_in_bytes": 3630
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libpng.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/ci/libpng_1556041840193/_h_env",
+        "sha256": "ed2f83572b3005554889eef864e544dfaf802ffa5fcb02f85ee4194f8f20429b",
+        "sha256_in_prefix": "3e889358c7efbdcc5657215badfd54123834bfe1a32f9248d0be66a6cbfcda54",
+        "size_in_bytes": 394
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libpng16.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/ci/libpng_1556041840193/_h_env",
+        "sha256": "ed2f83572b3005554889eef864e544dfaf802ffa5fcb02f85ee4194f8f20429b",
+        "sha256_in_prefix": "3e889358c7efbdcc5657215badfd54123834bfe1a32f9248d0be66a6cbfcda54",
+        "size_in_bytes": 394
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "libpng==1.6.37=h2a8f88b_0",
+  "sha256": "9f7aad0ce3596b66d0cf0ce9e4d42f258d9ad725b2e758f9f4229df5195253cc",
+  "size": 341145,
+  "subdir": "win-64",
+  "timestamp": 1556042067984,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libpng-1.6.37-h2a8f88b_0.conda",
+  "version": "1.6.37"
+}

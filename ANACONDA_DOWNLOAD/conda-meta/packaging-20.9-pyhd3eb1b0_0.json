@@ -1,0 +1,118 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "pyparsing >=2.0.2",
+    "python",
+    "six"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\packaging-20.9-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/packaging-20.9.dist-info/INSTALLER",
+    "Lib/site-packages/packaging-20.9.dist-info/LICENSE",
+    "Lib/site-packages/packaging-20.9.dist-info/LICENSE.APACHE",
+    "Lib/site-packages/packaging-20.9.dist-info/LICENSE.BSD",
+    "Lib/site-packages/packaging-20.9.dist-info/METADATA",
+    "Lib/site-packages/packaging-20.9.dist-info/RECORD",
+    "Lib/site-packages/packaging-20.9.dist-info/REQUESTED",
+    "Lib/site-packages/packaging-20.9.dist-info/WHEEL",
+    "Lib/site-packages/packaging-20.9.dist-info/direct_url.json",
+    "Lib/site-packages/packaging-20.9.dist-info/top_level.txt",
+    "Lib/site-packages/packaging/__about__.py",
+    "Lib/site-packages/packaging/__init__.py",
+    "Lib/site-packages/packaging/_compat.py",
+    "Lib/site-packages/packaging/_structures.py",
+    "Lib/site-packages/packaging/_typing.py",
+    "Lib/site-packages/packaging/markers.py",
+    "Lib/site-packages/packaging/py.typed",
+    "Lib/site-packages/packaging/requirements.py",
+    "Lib/site-packages/packaging/specifiers.py",
+    "Lib/site-packages/packaging/tags.py",
+    "Lib/site-packages/packaging/utils.py",
+    "Lib/site-packages/packaging/version.py",
+    "Lib/site-packages/packaging/__pycache__/__about__.cpython-38.pyc",
+    "Lib/site-packages/packaging/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/packaging/__pycache__/_compat.cpython-38.pyc",
+    "Lib/site-packages/packaging/__pycache__/_structures.cpython-38.pyc",
+    "Lib/site-packages/packaging/__pycache__/_typing.cpython-38.pyc",
+    "Lib/site-packages/packaging/__pycache__/markers.cpython-38.pyc",
+    "Lib/site-packages/packaging/__pycache__/requirements.cpython-38.pyc",
+    "Lib/site-packages/packaging/__pycache__/specifiers.cpython-38.pyc",
+    "Lib/site-packages/packaging/__pycache__/tags.cpython-38.pyc",
+    "Lib/site-packages/packaging/__pycache__/utils.cpython-38.pyc",
+    "Lib/site-packages/packaging/__pycache__/version.cpython-38.pyc"
+  ],
+  "fn": "packaging-20.9-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "bad6da0fa4ef549f2d3e7edae7aff7b5",
+  "legacy_bz2_size": 36188,
+  "license": "Apache 2.0 or BSD 2-Clause",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\packaging-20.9-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "ef4f0064540c6aa810659232158829a9",
+  "name": "packaging",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\packaging-20.9-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/packaging/__pycache__/__about__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/packaging/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/packaging/__pycache__/_compat.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/packaging/__pycache__/_structures.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/packaging/__pycache__/_typing.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/packaging/__pycache__/markers.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/packaging/__pycache__/requirements.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/packaging/__pycache__/specifiers.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/packaging/__pycache__/tags.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/packaging/__pycache__/utils.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/packaging/__pycache__/version.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "packaging==20.9=pyhd3eb1b0_0",
+  "sha256": "4b57e9fb3b7ae36348bf4ec72ef452e5ba4f137ebf5ff8a2ef13fb03640bcc32",
+  "size": 37389,
+  "subdir": "noarch",
+  "timestamp": 1611952230487,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/packaging-20.9-pyhd3eb1b0_0.conda",
+  "version": "20.9"
+}

@@ -1,0 +1,212 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "markupsafe >=0.23",
+    "python",
+    "setuptools"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\jinja2-2.11.3-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/Jinja2-2.11.3.dist-info/INSTALLER",
+    "Lib/site-packages/Jinja2-2.11.3.dist-info/LICENSE.rst",
+    "Lib/site-packages/Jinja2-2.11.3.dist-info/METADATA",
+    "Lib/site-packages/Jinja2-2.11.3.dist-info/RECORD",
+    "Lib/site-packages/Jinja2-2.11.3.dist-info/REQUESTED",
+    "Lib/site-packages/Jinja2-2.11.3.dist-info/WHEEL",
+    "Lib/site-packages/Jinja2-2.11.3.dist-info/direct_url.json",
+    "Lib/site-packages/Jinja2-2.11.3.dist-info/entry_points.txt",
+    "Lib/site-packages/Jinja2-2.11.3.dist-info/top_level.txt",
+    "Lib/site-packages/jinja2/__init__.py",
+    "Lib/site-packages/jinja2/_compat.py",
+    "Lib/site-packages/jinja2/_identifier.py",
+    "Lib/site-packages/jinja2/asyncfilters.py",
+    "Lib/site-packages/jinja2/asyncsupport.py",
+    "Lib/site-packages/jinja2/bccache.py",
+    "Lib/site-packages/jinja2/compiler.py",
+    "Lib/site-packages/jinja2/constants.py",
+    "Lib/site-packages/jinja2/debug.py",
+    "Lib/site-packages/jinja2/defaults.py",
+    "Lib/site-packages/jinja2/environment.py",
+    "Lib/site-packages/jinja2/exceptions.py",
+    "Lib/site-packages/jinja2/ext.py",
+    "Lib/site-packages/jinja2/filters.py",
+    "Lib/site-packages/jinja2/idtracking.py",
+    "Lib/site-packages/jinja2/lexer.py",
+    "Lib/site-packages/jinja2/loaders.py",
+    "Lib/site-packages/jinja2/meta.py",
+    "Lib/site-packages/jinja2/nativetypes.py",
+    "Lib/site-packages/jinja2/nodes.py",
+    "Lib/site-packages/jinja2/optimizer.py",
+    "Lib/site-packages/jinja2/parser.py",
+    "Lib/site-packages/jinja2/runtime.py",
+    "Lib/site-packages/jinja2/sandbox.py",
+    "Lib/site-packages/jinja2/tests.py",
+    "Lib/site-packages/jinja2/utils.py",
+    "Lib/site-packages/jinja2/visitor.py",
+    "Lib/site-packages/jinja2/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/_compat.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/_identifier.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/asyncfilters.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/asyncsupport.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/bccache.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/compiler.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/constants.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/debug.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/defaults.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/environment.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/exceptions.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/ext.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/filters.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/idtracking.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/lexer.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/loaders.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/meta.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/nativetypes.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/nodes.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/optimizer.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/parser.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/runtime.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/sandbox.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/tests.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/utils.cpython-38.pyc",
+    "Lib/site-packages/jinja2/__pycache__/visitor.cpython-38.pyc"
+  ],
+  "fn": "jinja2-2.11.3-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "e3d2afca7f53449172cb027b2164df6b",
+  "legacy_bz2_size": 96029,
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\jinja2-2.11.3-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "ca09ae9e8fd75176f050af93410ef8ac",
+  "name": "jinja2",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\jinja2-2.11.3-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/_compat.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/_identifier.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/asyncfilters.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/asyncsupport.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/bccache.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/compiler.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/constants.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/debug.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/defaults.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/environment.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/exceptions.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/ext.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/filters.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/idtracking.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/lexer.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/loaders.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/meta.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/nativetypes.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/nodes.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/optimizer.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/parser.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/runtime.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/sandbox.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/tests.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/utils.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jinja2/__pycache__/visitor.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "jinja2==2.11.3=pyhd3eb1b0_0",
+  "sha256": "5fd30327b23ebade55e571c65eef8b7d54b10512df56ffb2678981cc384dd34e",
+  "size": 103502,
+  "subdir": "noarch",
+  "timestamp": 1612213176846,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/jinja2-2.11.3-pyhd3eb1b0_0.conda",
+  "version": "2.11.3"
+}

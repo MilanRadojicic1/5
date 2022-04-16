@@ -1,0 +1,80 @@
+{
+  "build": "py38hb80d3ca_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "blas 1.0 mkl",
+    "mkl >=2021.2.0,<2022.0a0",
+    "mkl-service >=2.3.0,<3.0a0",
+    "numpy >=1.16.6,<2.0a0",
+    "python >=3.8,<3.9.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\numexpr-2.7.3-py38hb80d3ca_1",
+  "features": "",
+  "files": [
+    "Lib/site-packages/numexpr-2.7.3.dist-info/AUTHORS.txt",
+    "Lib/site-packages/numexpr-2.7.3.dist-info/INSTALLER",
+    "Lib/site-packages/numexpr-2.7.3.dist-info/LICENSE.txt",
+    "Lib/site-packages/numexpr-2.7.3.dist-info/METADATA",
+    "Lib/site-packages/numexpr-2.7.3.dist-info/RECORD",
+    "Lib/site-packages/numexpr-2.7.3.dist-info/REQUESTED",
+    "Lib/site-packages/numexpr-2.7.3.dist-info/WHEEL",
+    "Lib/site-packages/numexpr-2.7.3.dist-info/direct_url.json",
+    "Lib/site-packages/numexpr-2.7.3.dist-info/top_level.txt",
+    "Lib/site-packages/numexpr/__config__.py",
+    "Lib/site-packages/numexpr/__init__.py",
+    "Lib/site-packages/numexpr/__pycache__/__config__.cpython-38.pyc",
+    "Lib/site-packages/numexpr/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/numexpr/__pycache__/cpuinfo.cpython-38.pyc",
+    "Lib/site-packages/numexpr/__pycache__/expressions.cpython-38.pyc",
+    "Lib/site-packages/numexpr/__pycache__/necompiler.cpython-38.pyc",
+    "Lib/site-packages/numexpr/__pycache__/utils.cpython-38.pyc",
+    "Lib/site-packages/numexpr/__pycache__/version.cpython-38.pyc",
+    "Lib/site-packages/numexpr/cpuinfo.py",
+    "Lib/site-packages/numexpr/expressions.py",
+    "Lib/site-packages/numexpr/interpreter.cp38-win_amd64.pyd",
+    "Lib/site-packages/numexpr/necompiler.py",
+    "Lib/site-packages/numexpr/tests/__init__.py",
+    "Lib/site-packages/numexpr/tests/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/numexpr/tests/__pycache__/test_numexpr.cpython-38.pyc",
+    "Lib/site-packages/numexpr/tests/test_numexpr.py",
+    "Lib/site-packages/numexpr/utils.py",
+    "Lib/site-packages/numexpr/version.py"
+  ],
+  "fn": "numexpr-2.7.3-py38hb80d3ca_1.conda",
+  "legacy_bz2_md5": "9bc9ec7ce287d690cf7f538db057ece9",
+  "legacy_bz2_size": 140857,
+  "license": "MIT",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\numexpr-2.7.3-py38hb80d3ca_1",
+    "type": 1
+  },
+  "md5": "1b10abfa69b1373d9a67c7f25f84463a",
+  "name": "numexpr",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\numexpr-2.7.3-py38hb80d3ca_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/numexpr/__config__.py",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/ci/numexpr_1618856738664/_h_env",
+        "sha256": "340b544090deaddd298934b567456dbe1960c8f25c873613204d7c33d7299614",
+        "sha256_in_prefix": "6e1e35f820b39e036bb42978f8e317dfba26c8f3f12ca16ca560ea6e0f96b5e7",
+        "size_in_bytes": 1195
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "numexpr==2.7.3=py38hb80d3ca_1",
+  "sha256": "7266b32ba9c62db3381f83e11c7e007661333a3b6ca15cdfed39da632e2a94bb",
+  "size": 129630,
+  "subdir": "win-64",
+  "timestamp": 1618856872541,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/numexpr-2.7.3-py38hb80d3ca_1.conda",
+  "version": "2.7.3"
+}

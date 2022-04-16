@@ -1,0 +1,55 @@
+{
+  "build": "h19a0ad4_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0",
+    "zlib >=1.2.11,<1.3.0a0",
+    "zstd >=1.4.5,<1.4.6.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\blosc-1.21.0-h19a0ad4_0",
+  "features": "",
+  "files": [
+    "Library/bin/blosc.dll",
+    "Library/include/blosc-export.h",
+    "Library/include/blosc.h",
+    "Library/lib/blosc.lib",
+    "Library/lib/libblosc.lib",
+    "Library/lib/pkgconfig/blosc.pc"
+  ],
+  "fn": "blosc-1.21.0-h19a0ad4_0.conda",
+  "legacy_bz2_md5": "336a556050ee7b3c0ab5a170bff2b2eb",
+  "legacy_bz2_size": 168064,
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\blosc-1.21.0-h19a0ad4_0",
+    "type": 1
+  },
+  "md5": "ce921ec985a12aa88ab265987c238c30",
+  "name": "blosc",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\blosc-1.21.0-h19a0ad4_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/blosc.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/ci/blosc_1613249532629/_h_env",
+        "sha256": "00b67bb7779ce4560fcf68ce39969de3d081a1828db1fcc3097b5cb32dfc3125",
+        "sha256_in_prefix": "b183b305bf7a96498933868400c2ab4cae670747204eae5189bc6546de28cad4",
+        "size_in_bytes": 361
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "blosc==1.21.0=h19a0ad4_0",
+  "sha256": "6f0da5f2bfeb6ab9e8d1f8502353d34ea0d590898c30a1d7a3782734a1259bf6",
+  "size": 142071,
+  "subdir": "win-64",
+  "timestamp": 1613249726370,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/blosc-1.21.0-h19a0ad4_0.conda",
+  "version": "1.21.0"
+}

@@ -1,0 +1,52 @@
+{
+  "build": "py38_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "setuptools"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\zope.event-4.5.0-py38_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/zope.event-4.5.0-py3.8-nspkg.pth",
+    "Lib/site-packages/zope.event-4.5.0-py3.8.egg-info/PKG-INFO",
+    "Lib/site-packages/zope.event-4.5.0-py3.8.egg-info/SOURCES.txt",
+    "Lib/site-packages/zope.event-4.5.0-py3.8.egg-info/dependency_links.txt",
+    "Lib/site-packages/zope.event-4.5.0-py3.8.egg-info/namespace_packages.txt",
+    "Lib/site-packages/zope.event-4.5.0-py3.8.egg-info/not-zip-safe",
+    "Lib/site-packages/zope.event-4.5.0-py3.8.egg-info/requires.txt",
+    "Lib/site-packages/zope.event-4.5.0-py3.8.egg-info/top_level.txt",
+    "Lib/site-packages/zope/event/__init__.py",
+    "Lib/site-packages/zope/event/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/zope/event/__pycache__/classhandler.cpython-38.pyc",
+    "Lib/site-packages/zope/event/__pycache__/tests.cpython-38.pyc",
+    "Lib/site-packages/zope/event/classhandler.py",
+    "Lib/site-packages/zope/event/tests.py"
+  ],
+  "fn": "zope.event-4.5.0-py38_0.conda",
+  "legacy_bz2_md5": "1c17ea8bb335a984d53a36db5bff904c",
+  "legacy_bz2_size": 190282,
+  "license": "Zope Public License",
+  "license_family": "OTHER",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\zope.event-4.5.0-py38_0",
+    "type": 1
+  },
+  "md5": "5347e73c161a4191bc6f0391b4c9bf01",
+  "name": "zope.event",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\zope.event-4.5.0-py38_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "zope.event==4.5.0=py38_0",
+  "sha256": "0949fe5c0e30cc4b9e977b2f34170edeafe79e258111ac77ca2c701f9228e24a",
+  "size": 215160,
+  "subdir": "win-64",
+  "timestamp": 1602664880279,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/zope.event-4.5.0-py38_0.conda",
+  "version": "4.5.0"
+}

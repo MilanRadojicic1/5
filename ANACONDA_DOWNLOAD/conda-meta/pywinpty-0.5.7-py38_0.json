@@ -1,0 +1,61 @@
+{
+  "build": "py38_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "m2w64-gcc-libs",
+    "python >=3.8,<3.9.0a0",
+    "winpty"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pywinpty-0.5.7-py38_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/pywinpty-0.5.7.dist-info/INSTALLER",
+    "Lib/site-packages/pywinpty-0.5.7.dist-info/LICENSE.txt",
+    "Lib/site-packages/pywinpty-0.5.7.dist-info/METADATA",
+    "Lib/site-packages/pywinpty-0.5.7.dist-info/RECORD",
+    "Lib/site-packages/pywinpty-0.5.7.dist-info/WHEEL",
+    "Lib/site-packages/pywinpty-0.5.7.dist-info/top_level.txt",
+    "Lib/site-packages/winpty/__init__.py",
+    "Lib/site-packages/winpty/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/winpty/__pycache__/ptyprocess.cpython-38.pyc",
+    "Lib/site-packages/winpty/__pycache__/winpty_wrapper.cpython-38.pyc",
+    "Lib/site-packages/winpty/_winpty/__init__.py",
+    "Lib/site-packages/winpty/_winpty/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/winpty/cywinpty.cp38-win_amd64.pyd",
+    "Lib/site-packages/winpty/ptyprocess.py",
+    "Lib/site-packages/winpty/tests/__init__.py",
+    "Lib/site-packages/winpty/tests/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/winpty/tests/__pycache__/test_cywinpty.cpython-38.pyc",
+    "Lib/site-packages/winpty/tests/__pycache__/test_ptyprocess.cpython-38.pyc",
+    "Lib/site-packages/winpty/tests/__pycache__/test_winpty_wrapper.cpython-38.pyc",
+    "Lib/site-packages/winpty/tests/test_cywinpty.py",
+    "Lib/site-packages/winpty/tests/test_ptyprocess.py",
+    "Lib/site-packages/winpty/tests/test_winpty_wrapper.py",
+    "Lib/site-packages/winpty/winpty_wrapper.py"
+  ],
+  "fn": "pywinpty-0.5.7-py38_0.conda",
+  "legacy_bz2_md5": "cb0d4e26343e0233db9c70020263fadb",
+  "legacy_bz2_size": 56817,
+  "license": "MIT",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pywinpty-0.5.7-py38_0",
+    "type": 1
+  },
+  "md5": "94ca30c9b7fc525c144c2886b6d3ffd3",
+  "name": "pywinpty",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pywinpty-0.5.7-py38_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "pywinpty==0.5.7=py38_0",
+  "sha256": "ea203caac0ae1a93c36847e87965ae7ed8662c2b2b9a4ecff4b70b07a0aa11d2",
+  "size": 52786,
+  "subdir": "win-64",
+  "timestamp": 1576513663139,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pywinpty-0.5.7-py38_0.conda",
+  "version": "0.5.7"
+}

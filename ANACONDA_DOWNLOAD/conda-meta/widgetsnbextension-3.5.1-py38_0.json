@@ -1,0 +1,53 @@
+{
+  "build": "py38_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "notebook >=4.4.1",
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\widgetsnbextension-3.5.1-py38_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/widgetsnbextension-3.5.1.dist-info/INSTALLER",
+    "Lib/site-packages/widgetsnbextension-3.5.1.dist-info/LICENSE",
+    "Lib/site-packages/widgetsnbextension-3.5.1.dist-info/METADATA",
+    "Lib/site-packages/widgetsnbextension-3.5.1.dist-info/RECORD",
+    "Lib/site-packages/widgetsnbextension-3.5.1.dist-info/WHEEL",
+    "Lib/site-packages/widgetsnbextension-3.5.1.dist-info/top_level.txt",
+    "Lib/site-packages/widgetsnbextension/__init__.py",
+    "Lib/site-packages/widgetsnbextension/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/widgetsnbextension/__pycache__/_version.cpython-38.pyc",
+    "Lib/site-packages/widgetsnbextension/_version.py",
+    "Lib/site-packages/widgetsnbextension/static/extension.js",
+    "Lib/site-packages/widgetsnbextension/static/extension.js.map",
+    "etc/jupyter/nbconfig/notebook.d/widgetsnbextension.json",
+    "share/jupyter/nbextensions/jupyter-js-widgets/extension.js",
+    "share/jupyter/nbextensions/jupyter-js-widgets/extension.js.map"
+  ],
+  "fn": "widgetsnbextension-3.5.1-py38_0.conda",
+  "legacy_bz2_md5": "df20f97cd879ca189cac17e86ecfa7e9",
+  "legacy_bz2_size": 1895841,
+  "license": "BSD 3-clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\widgetsnbextension-3.5.1-py38_0",
+    "type": 1
+  },
+  "md5": "79f7fabebc4463d92e97b5c13e00d264",
+  "name": "widgetsnbextension",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\widgetsnbextension-3.5.1-py38_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "widgetsnbextension==3.5.1=py38_0",
+  "sha256": "94a9c773c9244b901186881bf37c6ec6f2cef84b1b2d5ad30bb16dfd4d8a11af",
+  "size": 883955,
+  "subdir": "win-64",
+  "timestamp": 1580237280838,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/widgetsnbextension-3.5.1-py38_0.conda",
+  "version": "3.5.1"
+}

@@ -1,0 +1,118 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\xlrd-2.0.1-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "Scripts/runxlrd.py",
+    "Lib/site-packages/xlrd-2.0.1.dist-info/INSTALLER",
+    "Lib/site-packages/xlrd-2.0.1.dist-info/LICENSE",
+    "Lib/site-packages/xlrd-2.0.1.dist-info/METADATA",
+    "Lib/site-packages/xlrd-2.0.1.dist-info/RECORD",
+    "Lib/site-packages/xlrd-2.0.1.dist-info/REQUESTED",
+    "Lib/site-packages/xlrd-2.0.1.dist-info/WHEEL",
+    "Lib/site-packages/xlrd-2.0.1.dist-info/direct_url.json",
+    "Lib/site-packages/xlrd-2.0.1.dist-info/top_level.txt",
+    "Lib/site-packages/xlrd/__init__.py",
+    "Lib/site-packages/xlrd/biffh.py",
+    "Lib/site-packages/xlrd/book.py",
+    "Lib/site-packages/xlrd/compdoc.py",
+    "Lib/site-packages/xlrd/formatting.py",
+    "Lib/site-packages/xlrd/formula.py",
+    "Lib/site-packages/xlrd/info.py",
+    "Lib/site-packages/xlrd/sheet.py",
+    "Lib/site-packages/xlrd/timemachine.py",
+    "Lib/site-packages/xlrd/xldate.py",
+    "Lib/site-packages/xlrd/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/xlrd/__pycache__/biffh.cpython-38.pyc",
+    "Lib/site-packages/xlrd/__pycache__/book.cpython-38.pyc",
+    "Lib/site-packages/xlrd/__pycache__/compdoc.cpython-38.pyc",
+    "Lib/site-packages/xlrd/__pycache__/formatting.cpython-38.pyc",
+    "Lib/site-packages/xlrd/__pycache__/formula.cpython-38.pyc",
+    "Lib/site-packages/xlrd/__pycache__/info.cpython-38.pyc",
+    "Lib/site-packages/xlrd/__pycache__/sheet.cpython-38.pyc",
+    "Lib/site-packages/xlrd/__pycache__/timemachine.cpython-38.pyc",
+    "Lib/site-packages/xlrd/__pycache__/xldate.cpython-38.pyc"
+  ],
+  "fn": "xlrd-2.0.1-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "9b4bf6b3a138e052c69afe906cdf54ae",
+  "legacy_bz2_size": 94380,
+  "license": "BSD 3-Clause and BSD with advertising",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\xlrd-2.0.1-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "a1b5a33a6098c182d359ecf7d73da6e1",
+  "name": "xlrd",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\xlrd-2.0.1-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "python-scripts/runxlrd.py",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/tmp/build/80754af9/xlrd_1608072521494/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "e75d487489fbd5d71c55847a724c2ac860b51920bf6f6c62102b159e5742372c",
+        "sha256_in_prefix": "8984db4e4ef27df218fdf426bf1820033ae9cc283405229779f1cf7839c9114a",
+        "size_in_bytes": 16320
+      },
+      {
+        "_path": "Lib/site-packages/xlrd/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/xlrd/__pycache__/biffh.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/xlrd/__pycache__/book.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/xlrd/__pycache__/compdoc.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/xlrd/__pycache__/formatting.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/xlrd/__pycache__/formula.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/xlrd/__pycache__/info.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/xlrd/__pycache__/sheet.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/xlrd/__pycache__/timemachine.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/xlrd/__pycache__/xldate.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "xlrd==2.0.1=pyhd3eb1b0_0",
+  "sha256": "588acd745446b989612a1dcea9af90a428da2ba01097d5adaaf0510e9488b299",
+  "size": 92286,
+  "subdir": "noarch",
+  "timestamp": 1608072552786,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/xlrd-2.0.1-pyhd3eb1b0_0.conda",
+  "version": "2.0.1"
+}

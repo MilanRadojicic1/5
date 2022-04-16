@@ -1,0 +1,139 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "locket",
+    "python >=3.5",
+    "toolz"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\partd-1.2.0-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/partd-1.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/partd-1.2.0.dist-info/LICENSE.txt",
+    "Lib/site-packages/partd-1.2.0.dist-info/METADATA",
+    "Lib/site-packages/partd-1.2.0.dist-info/RECORD",
+    "Lib/site-packages/partd-1.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/partd-1.2.0.dist-info/WHEEL",
+    "Lib/site-packages/partd-1.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/partd-1.2.0.dist-info/top_level.txt",
+    "Lib/site-packages/partd/__init__.py",
+    "Lib/site-packages/partd/_version.py",
+    "Lib/site-packages/partd/buffer.py",
+    "Lib/site-packages/partd/compatibility.py",
+    "Lib/site-packages/partd/compressed.py",
+    "Lib/site-packages/partd/core.py",
+    "Lib/site-packages/partd/dict.py",
+    "Lib/site-packages/partd/encode.py",
+    "Lib/site-packages/partd/file.py",
+    "Lib/site-packages/partd/numpy.py",
+    "Lib/site-packages/partd/pandas.py",
+    "Lib/site-packages/partd/pickle.py",
+    "Lib/site-packages/partd/python.py",
+    "Lib/site-packages/partd/utils.py",
+    "Lib/site-packages/partd/zmq.py",
+    "Lib/site-packages/partd/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/partd/__pycache__/_version.cpython-38.pyc",
+    "Lib/site-packages/partd/__pycache__/buffer.cpython-38.pyc",
+    "Lib/site-packages/partd/__pycache__/compatibility.cpython-38.pyc",
+    "Lib/site-packages/partd/__pycache__/compressed.cpython-38.pyc",
+    "Lib/site-packages/partd/__pycache__/core.cpython-38.pyc",
+    "Lib/site-packages/partd/__pycache__/dict.cpython-38.pyc",
+    "Lib/site-packages/partd/__pycache__/encode.cpython-38.pyc",
+    "Lib/site-packages/partd/__pycache__/file.cpython-38.pyc",
+    "Lib/site-packages/partd/__pycache__/numpy.cpython-38.pyc",
+    "Lib/site-packages/partd/__pycache__/pandas.cpython-38.pyc",
+    "Lib/site-packages/partd/__pycache__/pickle.cpython-38.pyc",
+    "Lib/site-packages/partd/__pycache__/python.cpython-38.pyc",
+    "Lib/site-packages/partd/__pycache__/utils.cpython-38.pyc",
+    "Lib/site-packages/partd/__pycache__/zmq.cpython-38.pyc"
+  ],
+  "fn": "partd-1.2.0-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "b1272d5ffa192e48845d9ff6e95cd8fe",
+  "legacy_bz2_size": 18848,
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\partd-1.2.0-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "18acaf563820aea10c11d925e0bddfb4",
+  "name": "partd",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\partd-1.2.0-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/_version.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/buffer.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/compatibility.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/compressed.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/core.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/dict.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/encode.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/file.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/numpy.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/pandas.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/pickle.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/python.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/utils.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/zmq.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "partd==1.2.0=pyhd3eb1b0_0",
+  "sha256": "609d0260f1fecf33edd3200b28c732efaef0f26ec303c02489309ce5da0ae2f7",
+  "size": 18987,
+  "subdir": "noarch",
+  "timestamp": 1618000128123,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/partd-1.2.0-pyhd3eb1b0_0.conda",
+  "version": "1.2.0"
+}

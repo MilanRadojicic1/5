@@ -1,0 +1,49 @@
+{
+  "build": "py38haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\certifi-2020.12.5-py38haa95532_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/certifi-2020.12.5-py3.8.egg-info/PKG-INFO",
+    "Lib/site-packages/certifi-2020.12.5-py3.8.egg-info/SOURCES.txt",
+    "Lib/site-packages/certifi-2020.12.5-py3.8.egg-info/dependency_links.txt",
+    "Lib/site-packages/certifi-2020.12.5-py3.8.egg-info/installed-files.txt",
+    "Lib/site-packages/certifi-2020.12.5-py3.8.egg-info/not-zip-safe",
+    "Lib/site-packages/certifi-2020.12.5-py3.8.egg-info/top_level.txt",
+    "Lib/site-packages/certifi/__init__.py",
+    "Lib/site-packages/certifi/__main__.py",
+    "Lib/site-packages/certifi/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/certifi/__pycache__/__main__.cpython-38.pyc",
+    "Lib/site-packages/certifi/__pycache__/core.cpython-38.pyc",
+    "Lib/site-packages/certifi/cacert.pem",
+    "Lib/site-packages/certifi/core.py"
+  ],
+  "fn": "certifi-2020.12.5-py38haa95532_0.conda",
+  "legacy_bz2_md5": "e573caaac80f120c703c04198f8fcfbf",
+  "legacy_bz2_size": 147047,
+  "license": "ISC",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\certifi-2020.12.5-py38haa95532_0",
+    "type": 1
+  },
+  "md5": "0ec51753504acd3eba233f08f9ab194f",
+  "name": "certifi",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\certifi-2020.12.5-py38haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "certifi==2020.12.5=py38haa95532_0",
+  "sha256": "560a8cf5d123a6771d476f58f229a75a0324b9273a597c6a3871d3668f45fd44",
+  "size": 144406,
+  "subdir": "win-64",
+  "timestamp": 1607347750297,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/certifi-2020.12.5-py38haa95532_0.conda",
+  "version": "2020.12.5"
+}

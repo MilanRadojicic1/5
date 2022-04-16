@@ -1,0 +1,38 @@
+{
+  "build": "py38haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\locket-0.2.1-py38haa95532_1",
+  "features": "",
+  "files": [
+    "Lib/site-packages/locket-0.2.1-py3.8.egg",
+    "Lib/site-packages/locket.pth"
+  ],
+  "fn": "locket-0.2.1-py38haa95532_1.conda",
+  "legacy_bz2_md5": "868afa9736dd93d074d0582fd5ee835b",
+  "legacy_bz2_size": 10962,
+  "license": "BSD 2-Clause",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\locket-0.2.1-py38haa95532_1",
+    "type": 1
+  },
+  "md5": "efbdd8f647fd15c5e83980b0259edd16",
+  "name": "locket",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\locket-0.2.1-py38haa95532_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "locket==0.2.1=py38haa95532_1",
+  "sha256": "29dd8f30408bc527f5fadf91a4b966c06421d99814ff725cce48a89f72e35c6a",
+  "size": 10514,
+  "subdir": "win-64",
+  "timestamp": 1611165139047,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/locket-0.2.1-py38haa95532_1.conda",
+  "version": "0.2.1"
+}

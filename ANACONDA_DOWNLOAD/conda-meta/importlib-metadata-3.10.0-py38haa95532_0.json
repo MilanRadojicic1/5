@@ -1,0 +1,57 @@
+{
+  "build": "py38haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "zipp >=0.5"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\importlib-metadata-3.10.0-py38haa95532_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/importlib_metadata-3.10.0.dist-info/INSTALLER",
+    "Lib/site-packages/importlib_metadata-3.10.0.dist-info/LICENSE",
+    "Lib/site-packages/importlib_metadata-3.10.0.dist-info/METADATA",
+    "Lib/site-packages/importlib_metadata-3.10.0.dist-info/RECORD",
+    "Lib/site-packages/importlib_metadata-3.10.0.dist-info/REQUESTED",
+    "Lib/site-packages/importlib_metadata-3.10.0.dist-info/WHEEL",
+    "Lib/site-packages/importlib_metadata-3.10.0.dist-info/direct_url.json",
+    "Lib/site-packages/importlib_metadata-3.10.0.dist-info/top_level.txt",
+    "Lib/site-packages/importlib_metadata/__init__.py",
+    "Lib/site-packages/importlib_metadata/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_collections.cpython-38.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_compat.cpython-38.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_functools.cpython-38.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_itertools.cpython-38.pyc",
+    "Lib/site-packages/importlib_metadata/_collections.py",
+    "Lib/site-packages/importlib_metadata/_compat.py",
+    "Lib/site-packages/importlib_metadata/_functools.py",
+    "Lib/site-packages/importlib_metadata/_itertools.py",
+    "Lib/site-packages/importlib_metadata/py.typed"
+  ],
+  "fn": "importlib-metadata-3.10.0-py38haa95532_0.conda",
+  "legacy_bz2_md5": "f1a689d767532c1809ad70131c11ee8e",
+  "legacy_bz2_size": 34192,
+  "license": "Apache-2.0",
+  "license_family": "APACHE",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\importlib-metadata-3.10.0-py38haa95532_0",
+    "type": 1
+  },
+  "md5": "abbc79b27530474d3604a4193c5521b3",
+  "name": "importlib-metadata",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\importlib-metadata-3.10.0-py38haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "importlib-metadata==3.10.0=py38haa95532_0",
+  "sha256": "ba1a52be099dc4752823ca9c0633eb632267250792111106ecdd4f4893d78c6f",
+  "size": 34630,
+  "subdir": "win-64",
+  "timestamp": 1617877539228,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/importlib-metadata-3.10.0-py38haa95532_0.conda",
+  "version": "3.10.0"
+}

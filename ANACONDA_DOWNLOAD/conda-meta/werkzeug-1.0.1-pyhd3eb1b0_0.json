@@ -1,0 +1,313 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\werkzeug-1.0.1-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/Werkzeug-1.0.1.dist-info/INSTALLER",
+    "Lib/site-packages/Werkzeug-1.0.1.dist-info/LICENSE.rst",
+    "Lib/site-packages/Werkzeug-1.0.1.dist-info/METADATA",
+    "Lib/site-packages/Werkzeug-1.0.1.dist-info/RECORD",
+    "Lib/site-packages/Werkzeug-1.0.1.dist-info/REQUESTED",
+    "Lib/site-packages/Werkzeug-1.0.1.dist-info/WHEEL",
+    "Lib/site-packages/Werkzeug-1.0.1.dist-info/direct_url.json",
+    "Lib/site-packages/Werkzeug-1.0.1.dist-info/top_level.txt",
+    "Lib/site-packages/werkzeug/__init__.py",
+    "Lib/site-packages/werkzeug/_compat.py",
+    "Lib/site-packages/werkzeug/_internal.py",
+    "Lib/site-packages/werkzeug/_reloader.py",
+    "Lib/site-packages/werkzeug/datastructures.py",
+    "Lib/site-packages/werkzeug/debug/__init__.py",
+    "Lib/site-packages/werkzeug/debug/console.py",
+    "Lib/site-packages/werkzeug/debug/repr.py",
+    "Lib/site-packages/werkzeug/debug/shared/FONT_LICENSE",
+    "Lib/site-packages/werkzeug/debug/shared/console.png",
+    "Lib/site-packages/werkzeug/debug/shared/debugger.js",
+    "Lib/site-packages/werkzeug/debug/shared/jquery.js",
+    "Lib/site-packages/werkzeug/debug/shared/less.png",
+    "Lib/site-packages/werkzeug/debug/shared/more.png",
+    "Lib/site-packages/werkzeug/debug/shared/source.png",
+    "Lib/site-packages/werkzeug/debug/shared/style.css",
+    "Lib/site-packages/werkzeug/debug/shared/ubuntu.ttf",
+    "Lib/site-packages/werkzeug/debug/tbtools.py",
+    "Lib/site-packages/werkzeug/exceptions.py",
+    "Lib/site-packages/werkzeug/filesystem.py",
+    "Lib/site-packages/werkzeug/formparser.py",
+    "Lib/site-packages/werkzeug/http.py",
+    "Lib/site-packages/werkzeug/local.py",
+    "Lib/site-packages/werkzeug/middleware/__init__.py",
+    "Lib/site-packages/werkzeug/middleware/dispatcher.py",
+    "Lib/site-packages/werkzeug/middleware/http_proxy.py",
+    "Lib/site-packages/werkzeug/middleware/lint.py",
+    "Lib/site-packages/werkzeug/middleware/profiler.py",
+    "Lib/site-packages/werkzeug/middleware/proxy_fix.py",
+    "Lib/site-packages/werkzeug/middleware/shared_data.py",
+    "Lib/site-packages/werkzeug/posixemulation.py",
+    "Lib/site-packages/werkzeug/routing.py",
+    "Lib/site-packages/werkzeug/security.py",
+    "Lib/site-packages/werkzeug/serving.py",
+    "Lib/site-packages/werkzeug/test.py",
+    "Lib/site-packages/werkzeug/testapp.py",
+    "Lib/site-packages/werkzeug/urls.py",
+    "Lib/site-packages/werkzeug/useragents.py",
+    "Lib/site-packages/werkzeug/utils.py",
+    "Lib/site-packages/werkzeug/wrappers/__init__.py",
+    "Lib/site-packages/werkzeug/wrappers/accept.py",
+    "Lib/site-packages/werkzeug/wrappers/auth.py",
+    "Lib/site-packages/werkzeug/wrappers/base_request.py",
+    "Lib/site-packages/werkzeug/wrappers/base_response.py",
+    "Lib/site-packages/werkzeug/wrappers/common_descriptors.py",
+    "Lib/site-packages/werkzeug/wrappers/cors.py",
+    "Lib/site-packages/werkzeug/wrappers/etag.py",
+    "Lib/site-packages/werkzeug/wrappers/json.py",
+    "Lib/site-packages/werkzeug/wrappers/request.py",
+    "Lib/site-packages/werkzeug/wrappers/response.py",
+    "Lib/site-packages/werkzeug/wrappers/user_agent.py",
+    "Lib/site-packages/werkzeug/wsgi.py",
+    "Lib/site-packages/werkzeug/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/__pycache__/_compat.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/__pycache__/_internal.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/__pycache__/_reloader.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/__pycache__/datastructures.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/debug/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/debug/__pycache__/console.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/debug/__pycache__/repr.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/debug/__pycache__/tbtools.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/__pycache__/exceptions.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/__pycache__/filesystem.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/__pycache__/formparser.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/__pycache__/http.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/__pycache__/local.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/middleware/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/middleware/__pycache__/dispatcher.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/middleware/__pycache__/http_proxy.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/middleware/__pycache__/lint.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/middleware/__pycache__/profiler.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/middleware/__pycache__/proxy_fix.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/middleware/__pycache__/shared_data.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/__pycache__/posixemulation.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/__pycache__/routing.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/__pycache__/security.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/__pycache__/serving.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/__pycache__/test.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/__pycache__/testapp.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/__pycache__/urls.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/__pycache__/useragents.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/__pycache__/utils.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/wrappers/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/wrappers/__pycache__/accept.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/wrappers/__pycache__/auth.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/wrappers/__pycache__/base_request.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/wrappers/__pycache__/base_response.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/wrappers/__pycache__/common_descriptors.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/wrappers/__pycache__/cors.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/wrappers/__pycache__/etag.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/wrappers/__pycache__/json.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/wrappers/__pycache__/request.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/wrappers/__pycache__/response.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/wrappers/__pycache__/user_agent.cpython-38.pyc",
+    "Lib/site-packages/werkzeug/__pycache__/wsgi.cpython-38.pyc"
+  ],
+  "fn": "werkzeug-1.0.1-pyhd3eb1b0_0.tar.bz2",
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\werkzeug-1.0.1-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "855ae785dd316068d0b6cd3a5a5d2939",
+  "name": "werkzeug",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\werkzeug-1.0.1-pyhd3eb1b0_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/werkzeug/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/__pycache__/_compat.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/__pycache__/_internal.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/__pycache__/_reloader.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/__pycache__/datastructures.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/debug/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/debug/__pycache__/console.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/debug/__pycache__/repr.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/debug/__pycache__/tbtools.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/__pycache__/exceptions.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/__pycache__/filesystem.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/__pycache__/formparser.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/__pycache__/http.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/__pycache__/local.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/middleware/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/middleware/__pycache__/dispatcher.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/middleware/__pycache__/http_proxy.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/middleware/__pycache__/lint.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/middleware/__pycache__/profiler.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/middleware/__pycache__/proxy_fix.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/middleware/__pycache__/shared_data.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/__pycache__/posixemulation.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/__pycache__/routing.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/__pycache__/security.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/__pycache__/serving.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/__pycache__/test.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/__pycache__/testapp.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/__pycache__/urls.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/__pycache__/useragents.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/__pycache__/utils.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/wrappers/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/wrappers/__pycache__/accept.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/wrappers/__pycache__/auth.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/wrappers/__pycache__/base_request.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/wrappers/__pycache__/base_response.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/wrappers/__pycache__/common_descriptors.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/wrappers/__pycache__/cors.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/wrappers/__pycache__/etag.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/wrappers/__pycache__/json.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/wrappers/__pycache__/request.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/wrappers/__pycache__/response.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/wrappers/__pycache__/user_agent.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/werkzeug/__pycache__/wsgi.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "werkzeug==1.0.1=pyhd3eb1b0_0",
+  "sha256": "88c7d851dc2389b06d87fdc10875acb1ecb75d4f480b00c596392d0ffe39cf96",
+  "size": 244882,
+  "subdir": "noarch",
+  "timestamp": 1611932630411,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/werkzeug-1.0.1-pyhd3eb1b0_0.tar.bz2",
+  "version": "1.0.1"
+}

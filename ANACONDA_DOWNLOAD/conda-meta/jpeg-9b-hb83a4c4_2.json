@@ -1,0 +1,49 @@
+{
+  "build": "hb83a4c4_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc 14.*"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\jpeg-9b-hb83a4c4_2",
+  "features": "",
+  "files": [
+    "Library/bin/cjpeg.exe",
+    "Library/bin/djpeg.exe",
+    "Library/bin/jpegtran.exe",
+    "Library/bin/libjpeg.dll",
+    "Library/bin/rdjpgcom.exe",
+    "Library/bin/wrjpgcom.exe",
+    "Library/include/jconfig.h",
+    "Library/include/jerror.h",
+    "Library/include/jmorecfg.h",
+    "Library/include/jpegint.h",
+    "Library/include/jpeglib.h",
+    "Library/lib/jpeg.lib",
+    "Library/lib/libjpeg.lib"
+  ],
+  "fn": "jpeg-9b-hb83a4c4_2.conda",
+  "legacy_bz2_md5": "7abafa9f9a2c609e1b77424f5ffa6a8a",
+  "legacy_bz2_size": 320107,
+  "license": "Custom free software license",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\jpeg-9b-hb83a4c4_2",
+    "type": 1
+  },
+  "md5": "b1357d1cfb8fa7feb3d77792009e0a22",
+  "name": "jpeg",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\jpeg-9b-hb83a4c4_2.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "jpeg==9b=hb83a4c4_2",
+  "sha256": "a517c4274a6b2f6552130dd39e7fec2a10bbd23484d449d96a91afdda358334e",
+  "size": 250369,
+  "subdir": "win-64",
+  "timestamp": 1510201967655,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jpeg-9b-hb83a4c4_2.conda",
+  "version": "9b"
+}

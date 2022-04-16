@@ -1,0 +1,48 @@
+{
+  "build": "py38_7",
+  "build_number": 7,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "ipykernel",
+    "ipywidgets",
+    "jupyter_console",
+    "nbconvert",
+    "notebook",
+    "python >=3.8,<3.9.0a0",
+    "qtconsole"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\jupyter-1.0.0-py38_7",
+  "features": "",
+  "files": [
+    "Lib/site-packages/jupyter-1.0.0.dist-info/INSTALLER",
+    "Lib/site-packages/jupyter-1.0.0.dist-info/LICENSE",
+    "Lib/site-packages/jupyter-1.0.0.dist-info/METADATA",
+    "Lib/site-packages/jupyter-1.0.0.dist-info/RECORD",
+    "Lib/site-packages/jupyter-1.0.0.dist-info/WHEEL",
+    "Lib/site-packages/jupyter-1.0.0.dist-info/top_level.txt"
+  ],
+  "fn": "jupyter-1.0.0-py38_7.conda",
+  "legacy_bz2_md5": "13a34121c4a8771401c3044f1abd61e7",
+  "legacy_bz2_size": 7753,
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\jupyter-1.0.0-py38_7",
+    "type": 1
+  },
+  "md5": "32b3ad58b20122ddadbca887d85989b9",
+  "name": "jupyter",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\jupyter-1.0.0-py38_7.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "jupyter==1.0.0=py38_7",
+  "sha256": "b9f6e4e8729516cd1ec5aae284bc190d2510c561d4d619d594e6cb92654aafdf",
+  "size": 8611,
+  "subdir": "win-64",
+  "timestamp": 1580249354699,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jupyter-1.0.0-py38_7.conda",
+  "version": "1.0.0"
+}

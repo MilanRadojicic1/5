@@ -1,0 +1,117 @@
+{
+  "build": "pyhd3eb1b0_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "imagecodecs >=2021.3.31",
+    "numpy >=1.15.1",
+    "python >=3.7"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\tifffile-2021.4.8-pyhd3eb1b0_2",
+  "features": "",
+  "files": [
+    "Lib/site-packages/tifffile-2021.4.8.dist-info/INSTALLER",
+    "Lib/site-packages/tifffile-2021.4.8.dist-info/LICENSE",
+    "Lib/site-packages/tifffile-2021.4.8.dist-info/METADATA",
+    "Lib/site-packages/tifffile-2021.4.8.dist-info/RECORD",
+    "Lib/site-packages/tifffile-2021.4.8.dist-info/REQUESTED",
+    "Lib/site-packages/tifffile-2021.4.8.dist-info/WHEEL",
+    "Lib/site-packages/tifffile-2021.4.8.dist-info/direct_url.json",
+    "Lib/site-packages/tifffile-2021.4.8.dist-info/entry_points.txt",
+    "Lib/site-packages/tifffile-2021.4.8.dist-info/top_level.txt",
+    "Lib/site-packages/tifffile/__init__.py",
+    "Lib/site-packages/tifffile/__main__.py",
+    "Lib/site-packages/tifffile/lsm2bin.py",
+    "Lib/site-packages/tifffile/tiff2fsspec.py",
+    "Lib/site-packages/tifffile/tiffcomment.py",
+    "Lib/site-packages/tifffile/tifffile.py",
+    "Lib/site-packages/tifffile/tifffile_geodb.py",
+    "Lib/site-packages/tifffile/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/tifffile/__pycache__/__main__.cpython-38.pyc",
+    "Lib/site-packages/tifffile/__pycache__/lsm2bin.cpython-38.pyc",
+    "Lib/site-packages/tifffile/__pycache__/tiff2fsspec.cpython-38.pyc",
+    "Lib/site-packages/tifffile/__pycache__/tiffcomment.cpython-38.pyc",
+    "Lib/site-packages/tifffile/__pycache__/tifffile.cpython-38.pyc",
+    "Lib/site-packages/tifffile/__pycache__/tifffile_geodb.cpython-38.pyc",
+    "Scripts/tifffile-script.py",
+    "Scripts/tiffcomment-script.py",
+    "Scripts/tiff2fsspec-script.py",
+    "Scripts/lsm2bin-script.py",
+    "Scripts/tifffile.exe",
+    "Scripts/tiffcomment.exe",
+    "Scripts/tiff2fsspec.exe",
+    "Scripts/lsm2bin.exe"
+  ],
+  "fn": "tifffile-2021.4.8-pyhd3eb1b0_2.conda",
+  "legacy_bz2_md5": "6f785256d095a0f3a0889f99fa59e9a0",
+  "legacy_bz2_size": 132922,
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\tifffile-2021.4.8-pyhd3eb1b0_2",
+    "type": 1
+  },
+  "md5": "2d8ba47376776bd473198af1a555827c",
+  "name": "tifffile",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\tifffile-2021.4.8-pyhd3eb1b0_2.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/tifffile/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tifffile/__pycache__/__main__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tifffile/__pycache__/lsm2bin.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tifffile/__pycache__/tiff2fsspec.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tifffile/__pycache__/tiffcomment.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tifffile/__pycache__/tifffile.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tifffile/__pycache__/tifffile_geodb.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/tifffile-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/tiffcomment-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/tiff2fsspec-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/lsm2bin-script.py",
+        "path_type": "windows_python_entry_point_script"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "tifffile==2021.4.8=pyhd3eb1b0_2",
+  "sha256": "d6db903a5b12b101b2aca6c6d4665bf23295d1c6e1d4356267a6a3f947282d06",
+  "size": 134492,
+  "subdir": "noarch",
+  "timestamp": 1619636132812,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/tifffile-2021.4.8-pyhd3eb1b0_2.conda",
+  "version": "2021.4.8"
+}

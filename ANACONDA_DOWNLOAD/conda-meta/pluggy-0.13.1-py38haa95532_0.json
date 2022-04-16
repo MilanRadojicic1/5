@@ -1,0 +1,57 @@
+{
+  "build": "py38haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pluggy-0.13.1-py38haa95532_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/pluggy-0.13.1.dist-info/INSTALLER",
+    "Lib/site-packages/pluggy-0.13.1.dist-info/LICENSE",
+    "Lib/site-packages/pluggy-0.13.1.dist-info/METADATA",
+    "Lib/site-packages/pluggy-0.13.1.dist-info/RECORD",
+    "Lib/site-packages/pluggy-0.13.1.dist-info/REQUESTED",
+    "Lib/site-packages/pluggy-0.13.1.dist-info/WHEEL",
+    "Lib/site-packages/pluggy-0.13.1.dist-info/direct_url.json",
+    "Lib/site-packages/pluggy-0.13.1.dist-info/top_level.txt",
+    "Lib/site-packages/pluggy/__init__.py",
+    "Lib/site-packages/pluggy/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_tracing.cpython-38.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_version.cpython-38.pyc",
+    "Lib/site-packages/pluggy/__pycache__/callers.cpython-38.pyc",
+    "Lib/site-packages/pluggy/__pycache__/hooks.cpython-38.pyc",
+    "Lib/site-packages/pluggy/__pycache__/manager.cpython-38.pyc",
+    "Lib/site-packages/pluggy/_tracing.py",
+    "Lib/site-packages/pluggy/_version.py",
+    "Lib/site-packages/pluggy/callers.py",
+    "Lib/site-packages/pluggy/hooks.py",
+    "Lib/site-packages/pluggy/manager.py"
+  ],
+  "fn": "pluggy-0.13.1-py38haa95532_0.conda",
+  "legacy_bz2_md5": "5d53cc215850dcc738d6872f6caf5704",
+  "legacy_bz2_size": 33636,
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pluggy-0.13.1-py38haa95532_0",
+    "type": 1
+  },
+  "md5": "87b571fff7bdb6f36d16e380ef1a72ed",
+  "name": "pluggy",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pluggy-0.13.1-py38haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "pluggy==0.13.1=py38haa95532_0",
+  "sha256": "58bf4e97eea42d0baa864071fd63f7f66c2178ea591937e8ff9200577b23d17f",
+  "size": 34324,
+  "subdir": "win-64",
+  "timestamp": 1615976401055,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pluggy-0.13.1-py38haa95532_0.conda",
+  "version": "0.13.1"
+}

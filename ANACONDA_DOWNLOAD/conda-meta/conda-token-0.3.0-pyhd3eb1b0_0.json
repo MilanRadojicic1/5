@@ -1,0 +1,88 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "conda >=4.3",
+    "conda-content-trust",
+    "packaging",
+    "python"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\conda-token-0.3.0-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/conda_token-0.3.0.dist-info/INSTALLER",
+    "Lib/site-packages/conda_token-0.3.0.dist-info/LICENSE",
+    "Lib/site-packages/conda_token-0.3.0.dist-info/METADATA",
+    "Lib/site-packages/conda_token-0.3.0.dist-info/RECORD",
+    "Lib/site-packages/conda_token-0.3.0.dist-info/REQUESTED",
+    "Lib/site-packages/conda_token-0.3.0.dist-info/WHEEL",
+    "Lib/site-packages/conda_token-0.3.0.dist-info/direct_url.json",
+    "Lib/site-packages/conda_token-0.3.0.dist-info/entry_points.txt",
+    "Lib/site-packages/conda_token-0.3.0.dist-info/top_level.txt",
+    "Lib/site-packages/conda_token/__init__.py",
+    "Lib/site-packages/conda_token/__main__.py",
+    "Lib/site-packages/conda_token/_version.py",
+    "Lib/site-packages/conda_token/cli.py",
+    "Lib/site-packages/conda_token/repo_config.py",
+    "Lib/site-packages/conda_token/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/conda_token/__pycache__/__main__.cpython-38.pyc",
+    "Lib/site-packages/conda_token/__pycache__/_version.cpython-38.pyc",
+    "Lib/site-packages/conda_token/__pycache__/cli.cpython-38.pyc",
+    "Lib/site-packages/conda_token/__pycache__/repo_config.cpython-38.pyc",
+    "Scripts/conda-token-script.py",
+    "Scripts/conda-token.exe"
+  ],
+  "fn": "conda-token-0.3.0-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "31148e8df523fbeeb9fb3880b9f50875",
+  "legacy_bz2_size": 9646,
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\conda-token-0.3.0-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "daa5fbd1ba8584f360fd5984650b6f82",
+  "name": "conda-token",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\conda-token-0.3.0-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/conda_token/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/conda_token/__pycache__/__main__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/conda_token/__pycache__/_version.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/conda_token/__pycache__/cli.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/conda_token/__pycache__/repo_config.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/conda-token-script.py",
+        "path_type": "windows_python_entry_point_script"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "conda-token==0.3.0=pyhd3eb1b0_0",
+  "sha256": "6764feb92b1da78bb2a8a769d2b660a1c562349e2ad9ffefbc3fe686f28708d6",
+  "size": 9963,
+  "subdir": "noarch",
+  "timestamp": 1620077022841,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/conda-token-0.3.0-pyhd3eb1b0_0.conda",
+  "version": "0.3.0"
+}

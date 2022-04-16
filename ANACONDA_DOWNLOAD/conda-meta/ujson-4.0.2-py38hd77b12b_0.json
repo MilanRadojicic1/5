@@ -1,0 +1,47 @@
+{
+  "build": "py38hd77b12b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\ujson-4.0.2-py38hd77b12b_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/ujson-4.0.2.dist-info/INSTALLER",
+    "Lib/site-packages/ujson-4.0.2.dist-info/LICENSE.txt",
+    "Lib/site-packages/ujson-4.0.2.dist-info/METADATA",
+    "Lib/site-packages/ujson-4.0.2.dist-info/RECORD",
+    "Lib/site-packages/ujson-4.0.2.dist-info/REQUESTED",
+    "Lib/site-packages/ujson-4.0.2.dist-info/WHEEL",
+    "Lib/site-packages/ujson-4.0.2.dist-info/direct_url.json",
+    "Lib/site-packages/ujson-4.0.2.dist-info/top_level.txt",
+    "Lib/site-packages/ujson.cp38-win_amd64.pyd"
+  ],
+  "fn": "ujson-4.0.2-py38hd77b12b_0.conda",
+  "legacy_bz2_md5": "1094b43e4ea0dc0099a1fcb38cf04ceb",
+  "legacy_bz2_size": 50689,
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\ujson-4.0.2-py38hd77b12b_0",
+    "type": 1
+  },
+  "md5": "d23e1b572f91b9e94904e6e384d18819",
+  "name": "ujson",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\ujson-4.0.2-py38hd77b12b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "ujson==4.0.2=py38hd77b12b_0",
+  "sha256": "f74acd7987d9a4858ef2fdc59b71aeee73c3afb44ad2048afefbcd0310dfebbc",
+  "size": 47047,
+  "subdir": "win-64",
+  "timestamp": 1611241638580,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/ujson-4.0.2-py38hd77b12b_0.conda",
+  "version": "4.0.2"
+}

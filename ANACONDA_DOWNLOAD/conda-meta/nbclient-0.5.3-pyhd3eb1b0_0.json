@@ -1,0 +1,168 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "async_generator",
+    "jupyter_client >=6.1.5",
+    "nbformat >=5.0",
+    "nest-asyncio",
+    "python >=3.6",
+    "traitlets >=4.2"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\nbclient-0.5.3-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/nbclient-0.5.3.dist-info/INSTALLER",
+    "Lib/site-packages/nbclient-0.5.3.dist-info/LICENSE",
+    "Lib/site-packages/nbclient-0.5.3.dist-info/METADATA",
+    "Lib/site-packages/nbclient-0.5.3.dist-info/RECORD",
+    "Lib/site-packages/nbclient-0.5.3.dist-info/REQUESTED",
+    "Lib/site-packages/nbclient-0.5.3.dist-info/WHEEL",
+    "Lib/site-packages/nbclient-0.5.3.dist-info/direct_url.json",
+    "Lib/site-packages/nbclient-0.5.3.dist-info/top_level.txt",
+    "Lib/site-packages/nbclient/__init__.py",
+    "Lib/site-packages/nbclient/_version.py",
+    "Lib/site-packages/nbclient/client.py",
+    "Lib/site-packages/nbclient/exceptions.py",
+    "Lib/site-packages/nbclient/jsonutil.py",
+    "Lib/site-packages/nbclient/output_widget.py",
+    "Lib/site-packages/nbclient/tests/__init__.py",
+    "Lib/site-packages/nbclient/tests/base.py",
+    "Lib/site-packages/nbclient/tests/fake_kernelmanager.py",
+    "Lib/site-packages/nbclient/tests/files/.ipynb_checkpoints/Autokill-checkpoint.ipynb",
+    "Lib/site-packages/nbclient/tests/files/.ipynb_checkpoints/Hang-checkpoint.ipynb",
+    "Lib/site-packages/nbclient/tests/files/.ipynb_checkpoints/HelloWorld-checkpoint.ipynb",
+    "Lib/site-packages/nbclient/tests/files/.ipynb_checkpoints/Sleep1s-checkpoint.ipynb",
+    "Lib/site-packages/nbclient/tests/files/.ipynb_checkpoints/ipywidgets-checkpoint.ipynb",
+    "Lib/site-packages/nbclient/tests/files/.ipynb_checkpoints/ipywidgets.nbconvert-checkpoint.ipynb",
+    "Lib/site-packages/nbclient/tests/files/.ipynb_checkpoints/ipywidgets2-checkpoint.ipynb",
+    "Lib/site-packages/nbclient/tests/files/.ipynb_checkpoints/ipywidgets_executed-checkpoint.ipynb",
+    "Lib/site-packages/nbclient/tests/files/.ipynb_checkpoints/sleep-checkpoint.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Autokill.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Check History in Memory.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Clear Output.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Disable Stdin.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Empty Cell.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Factorials.ipynb",
+    "Lib/site-packages/nbclient/tests/files/HelloWorld.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Inline Image.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Interrupt.ipynb",
+    "Lib/site-packages/nbclient/tests/files/JupyterWidgets.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Other Comms.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Output.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Parallel Execute A.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Parallel Execute B.ipynb",
+    "Lib/site-packages/nbclient/tests/files/SVG.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Skip Exceptions with Cell Tags.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Skip Exceptions.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Sleep1s.ipynb",
+    "Lib/site-packages/nbclient/tests/files/Unicode.ipynb",
+    "Lib/site-packages/nbclient/tests/files/UnicodePy3.ipynb",
+    "Lib/site-packages/nbclient/tests/files/execute_ipywidgets.py",
+    "Lib/site-packages/nbclient/tests/files/ipywidgets.ipynb",
+    "Lib/site-packages/nbclient/tests/files/ipywidgets.nbconvert.ipynb",
+    "Lib/site-packages/nbclient/tests/files/ipywidgets2.ipynb",
+    "Lib/site-packages/nbclient/tests/files/ipywidgets_executed.ipynb",
+    "Lib/site-packages/nbclient/tests/files/ipywidgets_keep.ipynb",
+    "Lib/site-packages/nbclient/tests/files/python.png",
+    "Lib/site-packages/nbclient/tests/files/sleep.ipynb",
+    "Lib/site-packages/nbclient/tests/files/update-display-id.ipynb",
+    "Lib/site-packages/nbclient/tests/test_client.py",
+    "Lib/site-packages/nbclient/tests/util.py",
+    "Lib/site-packages/nbclient/util.py",
+    "Lib/site-packages/nbclient/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/nbclient/__pycache__/_version.cpython-38.pyc",
+    "Lib/site-packages/nbclient/__pycache__/client.cpython-38.pyc",
+    "Lib/site-packages/nbclient/__pycache__/exceptions.cpython-38.pyc",
+    "Lib/site-packages/nbclient/__pycache__/jsonutil.cpython-38.pyc",
+    "Lib/site-packages/nbclient/__pycache__/output_widget.cpython-38.pyc",
+    "Lib/site-packages/nbclient/tests/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/nbclient/tests/__pycache__/base.cpython-38.pyc",
+    "Lib/site-packages/nbclient/tests/__pycache__/fake_kernelmanager.cpython-38.pyc",
+    "Lib/site-packages/nbclient/tests/files/__pycache__/execute_ipywidgets.cpython-38.pyc",
+    "Lib/site-packages/nbclient/tests/__pycache__/test_client.cpython-38.pyc",
+    "Lib/site-packages/nbclient/tests/__pycache__/util.cpython-38.pyc",
+    "Lib/site-packages/nbclient/__pycache__/util.cpython-38.pyc"
+  ],
+  "fn": "nbclient-0.5.3-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "cca44fe99f42d3895bf8a8f9f4cd3308",
+  "legacy_bz2_size": 68987,
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\nbclient-0.5.3-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "b92330415e6f74136f059edc992586f7",
+  "name": "nbclient",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\nbclient-0.5.3-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/_version.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/client.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/exceptions.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/jsonutil.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/output_widget.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/__pycache__/base.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/__pycache__/fake_kernelmanager.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/files/__pycache__/execute_ipywidgets.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/__pycache__/test_client.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/tests/__pycache__/util.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbclient/__pycache__/util.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "nbclient==0.5.3=pyhd3eb1b0_0",
+  "sha256": "f1a9eb25139d6910ed4eda4210c7d4757d6929a13ab082a8540e20bd62071caf",
+  "size": 63890,
+  "subdir": "noarch",
+  "timestamp": 1614364868919,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/nbclient-0.5.3-pyhd3eb1b0_0.conda",
+  "version": "0.5.3"
+}

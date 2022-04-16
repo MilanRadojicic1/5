@@ -1,0 +1,58 @@
+{
+  "build": "py38haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\sniffio-1.2.0-py38haa95532_1",
+  "features": "",
+  "files": [
+    "Lib/site-packages/sniffio-1.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/sniffio-1.2.0.dist-info/LICENSE",
+    "Lib/site-packages/sniffio-1.2.0.dist-info/LICENSE.APACHE2",
+    "Lib/site-packages/sniffio-1.2.0.dist-info/LICENSE.MIT",
+    "Lib/site-packages/sniffio-1.2.0.dist-info/METADATA",
+    "Lib/site-packages/sniffio-1.2.0.dist-info/RECORD",
+    "Lib/site-packages/sniffio-1.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/sniffio-1.2.0.dist-info/WHEEL",
+    "Lib/site-packages/sniffio-1.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/sniffio-1.2.0.dist-info/top_level.txt",
+    "Lib/site-packages/sniffio/__init__.py",
+    "Lib/site-packages/sniffio/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/sniffio/__pycache__/_impl.cpython-38.pyc",
+    "Lib/site-packages/sniffio/__pycache__/_version.cpython-38.pyc",
+    "Lib/site-packages/sniffio/_impl.py",
+    "Lib/site-packages/sniffio/_tests/__init__.py",
+    "Lib/site-packages/sniffio/_tests/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/sniffio/_tests/__pycache__/test_sniffio.cpython-38.pyc",
+    "Lib/site-packages/sniffio/_tests/test_sniffio.py",
+    "Lib/site-packages/sniffio/_version.py",
+    "Lib/site-packages/sniffio/py.typed"
+  ],
+  "fn": "sniffio-1.2.0-py38haa95532_1.conda",
+  "legacy_bz2_md5": "cb8e70978aba600c5092aa202d960f2a",
+  "legacy_bz2_size": 15975,
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\sniffio-1.2.0-py38haa95532_1",
+    "type": 1
+  },
+  "md5": "34e7e5645661a4e95058657bbca2b6cf",
+  "name": "sniffio",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\sniffio-1.2.0-py38haa95532_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "sniffio==1.2.0=py38haa95532_1",
+  "sha256": "d33e500818a6cb01e6d81ebaaca7b2d7f822379fe773583800e27fe9624c236b",
+  "size": 15314,
+  "subdir": "win-64",
+  "timestamp": 1614030758438,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/sniffio-1.2.0-py38haa95532_1.conda",
+  "version": "1.2.0"
+}

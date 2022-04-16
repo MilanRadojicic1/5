@@ -1,0 +1,39 @@
+{
+  "build": "py38_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\wincertstore-0.2-py38_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/__pycache__/wincertstore.cpython-38.pyc",
+    "Lib/site-packages/wincertstore-0.2-py3.8.egg-info",
+    "Lib/site-packages/wincertstore.py"
+  ],
+  "fn": "wincertstore-0.2-py38_0.conda",
+  "legacy_bz2_md5": "4341cc07169d4d69b8c474db0152dc20",
+  "legacy_bz2_size": 15535,
+  "license": "PSF 2",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\wincertstore-0.2-py38_0",
+    "type": 1
+  },
+  "md5": "b4dd4690d318c0532f3d198486a54a2f",
+  "name": "wincertstore",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\wincertstore-0.2-py38_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "wincertstore==0.2=py38_0",
+  "sha256": "14ec1f0fa6ea5b4ccd1813c2ea5481240b290b2d4aabc91bfbb58cf18e3790a9",
+  "size": 15809,
+  "subdir": "win-64",
+  "timestamp": 1571954216623,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/wincertstore-0.2-py38_0.conda",
+  "version": "0.2"
+}

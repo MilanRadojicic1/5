@@ -1,0 +1,432 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "ipython_genutils",
+    "jsonschema >=2.4,!=2.5.0",
+    "jupyter_core",
+    "python >=3.5",
+    "traitlets >=4.1"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\nbformat-5.1.3-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/nbformat-5.1.3.dist-info/COPYING.md",
+    "Lib/site-packages/nbformat-5.1.3.dist-info/INSTALLER",
+    "Lib/site-packages/nbformat-5.1.3.dist-info/METADATA",
+    "Lib/site-packages/nbformat-5.1.3.dist-info/RECORD",
+    "Lib/site-packages/nbformat-5.1.3.dist-info/REQUESTED",
+    "Lib/site-packages/nbformat-5.1.3.dist-info/WHEEL",
+    "Lib/site-packages/nbformat-5.1.3.dist-info/direct_url.json",
+    "Lib/site-packages/nbformat-5.1.3.dist-info/entry_points.txt",
+    "Lib/site-packages/nbformat-5.1.3.dist-info/top_level.txt",
+    "Lib/site-packages/nbformat/__init__.py",
+    "Lib/site-packages/nbformat/_compat.py",
+    "Lib/site-packages/nbformat/_version.py",
+    "Lib/site-packages/nbformat/converter.py",
+    "Lib/site-packages/nbformat/corpus/__init__.py",
+    "Lib/site-packages/nbformat/corpus/tests/__init__.py",
+    "Lib/site-packages/nbformat/corpus/tests/test_words.py",
+    "Lib/site-packages/nbformat/corpus/words.py",
+    "Lib/site-packages/nbformat/current.py",
+    "Lib/site-packages/nbformat/json_compat.py",
+    "Lib/site-packages/nbformat/notebooknode.py",
+    "Lib/site-packages/nbformat/reader.py",
+    "Lib/site-packages/nbformat/sentinel.py",
+    "Lib/site-packages/nbformat/sign.py",
+    "Lib/site-packages/nbformat/v1/__init__.py",
+    "Lib/site-packages/nbformat/v1/convert.py",
+    "Lib/site-packages/nbformat/v1/nbbase.py",
+    "Lib/site-packages/nbformat/v1/nbjson.py",
+    "Lib/site-packages/nbformat/v1/rwbase.py",
+    "Lib/site-packages/nbformat/v1/tests/__init__.py",
+    "Lib/site-packages/nbformat/v1/tests/nbexamples.py",
+    "Lib/site-packages/nbformat/v1/tests/test_json.py",
+    "Lib/site-packages/nbformat/v1/tests/test_nbbase.py",
+    "Lib/site-packages/nbformat/v2/__init__.py",
+    "Lib/site-packages/nbformat/v2/convert.py",
+    "Lib/site-packages/nbformat/v2/nbbase.py",
+    "Lib/site-packages/nbformat/v2/nbjson.py",
+    "Lib/site-packages/nbformat/v2/nbpy.py",
+    "Lib/site-packages/nbformat/v2/nbxml.py",
+    "Lib/site-packages/nbformat/v2/rwbase.py",
+    "Lib/site-packages/nbformat/v2/tests/__init__.py",
+    "Lib/site-packages/nbformat/v2/tests/nbexamples.py",
+    "Lib/site-packages/nbformat/v2/tests/test_json.py",
+    "Lib/site-packages/nbformat/v2/tests/test_nbbase.py",
+    "Lib/site-packages/nbformat/v2/tests/test_nbpy.py",
+    "Lib/site-packages/nbformat/v3/__init__.py",
+    "Lib/site-packages/nbformat/v3/convert.py",
+    "Lib/site-packages/nbformat/v3/nbbase.py",
+    "Lib/site-packages/nbformat/v3/nbformat.v3.schema.json",
+    "Lib/site-packages/nbformat/v3/nbjson.py",
+    "Lib/site-packages/nbformat/v3/nbpy.py",
+    "Lib/site-packages/nbformat/v3/rwbase.py",
+    "Lib/site-packages/nbformat/v3/tests/__init__.py",
+    "Lib/site-packages/nbformat/v3/tests/formattest.py",
+    "Lib/site-packages/nbformat/v3/tests/nbexamples.py",
+    "Lib/site-packages/nbformat/v3/tests/test_json.py",
+    "Lib/site-packages/nbformat/v3/tests/test_misc.py",
+    "Lib/site-packages/nbformat/v3/tests/test_nbbase.py",
+    "Lib/site-packages/nbformat/v3/tests/test_nbpy.py",
+    "Lib/site-packages/nbformat/v4/__init__.py",
+    "Lib/site-packages/nbformat/v4/convert.py",
+    "Lib/site-packages/nbformat/v4/nbbase.py",
+    "Lib/site-packages/nbformat/v4/nbformat.v4.0.schema.json",
+    "Lib/site-packages/nbformat/v4/nbformat.v4.1.schema.json",
+    "Lib/site-packages/nbformat/v4/nbformat.v4.2.schema.json",
+    "Lib/site-packages/nbformat/v4/nbformat.v4.3.schema.json",
+    "Lib/site-packages/nbformat/v4/nbformat.v4.4.schema.json",
+    "Lib/site-packages/nbformat/v4/nbformat.v4.5.schema.json",
+    "Lib/site-packages/nbformat/v4/nbformat.v4.schema.json",
+    "Lib/site-packages/nbformat/v4/nbjson.py",
+    "Lib/site-packages/nbformat/v4/rwbase.py",
+    "Lib/site-packages/nbformat/v4/tests/__init__.py",
+    "Lib/site-packages/nbformat/v4/tests/formattest.py",
+    "Lib/site-packages/nbformat/v4/tests/nbexamples.py",
+    "Lib/site-packages/nbformat/v4/tests/test_convert.py",
+    "Lib/site-packages/nbformat/v4/tests/test_json.py",
+    "Lib/site-packages/nbformat/v4/tests/test_nbbase.py",
+    "Lib/site-packages/nbformat/v4/tests/test_validate.py",
+    "Lib/site-packages/nbformat/validator.py",
+    "Lib/site-packages/nbformat/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/nbformat/__pycache__/_compat.cpython-38.pyc",
+    "Lib/site-packages/nbformat/__pycache__/_version.cpython-38.pyc",
+    "Lib/site-packages/nbformat/__pycache__/converter.cpython-38.pyc",
+    "Lib/site-packages/nbformat/corpus/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/nbformat/corpus/tests/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/nbformat/corpus/tests/__pycache__/test_words.cpython-38.pyc",
+    "Lib/site-packages/nbformat/corpus/__pycache__/words.cpython-38.pyc",
+    "Lib/site-packages/nbformat/__pycache__/current.cpython-38.pyc",
+    "Lib/site-packages/nbformat/__pycache__/json_compat.cpython-38.pyc",
+    "Lib/site-packages/nbformat/__pycache__/notebooknode.cpython-38.pyc",
+    "Lib/site-packages/nbformat/__pycache__/reader.cpython-38.pyc",
+    "Lib/site-packages/nbformat/__pycache__/sentinel.cpython-38.pyc",
+    "Lib/site-packages/nbformat/__pycache__/sign.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v1/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v1/__pycache__/convert.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v1/__pycache__/nbbase.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v1/__pycache__/nbjson.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v1/__pycache__/rwbase.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v1/tests/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v1/tests/__pycache__/nbexamples.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v1/tests/__pycache__/test_json.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v1/tests/__pycache__/test_nbbase.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v2/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v2/__pycache__/convert.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v2/__pycache__/nbbase.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v2/__pycache__/nbjson.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v2/__pycache__/nbpy.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v2/__pycache__/nbxml.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v2/__pycache__/rwbase.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v2/tests/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v2/tests/__pycache__/nbexamples.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v2/tests/__pycache__/test_json.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v2/tests/__pycache__/test_nbbase.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v2/tests/__pycache__/test_nbpy.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v3/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v3/__pycache__/convert.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v3/__pycache__/nbbase.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v3/__pycache__/nbjson.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v3/__pycache__/nbpy.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v3/__pycache__/rwbase.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v3/tests/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v3/tests/__pycache__/formattest.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v3/tests/__pycache__/nbexamples.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v3/tests/__pycache__/test_json.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v3/tests/__pycache__/test_misc.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v3/tests/__pycache__/test_nbbase.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v3/tests/__pycache__/test_nbpy.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v4/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v4/__pycache__/convert.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v4/__pycache__/nbbase.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v4/__pycache__/nbjson.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v4/__pycache__/rwbase.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v4/tests/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v4/tests/__pycache__/formattest.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v4/tests/__pycache__/nbexamples.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v4/tests/__pycache__/test_convert.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v4/tests/__pycache__/test_json.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v4/tests/__pycache__/test_nbbase.cpython-38.pyc",
+    "Lib/site-packages/nbformat/v4/tests/__pycache__/test_validate.cpython-38.pyc",
+    "Lib/site-packages/nbformat/__pycache__/validator.cpython-38.pyc",
+    "Scripts/jupyter-trust-script.py",
+    "Scripts/jupyter-trust.exe"
+  ],
+  "fn": "nbformat-5.1.3-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "04a746a5f93cf78da410882365bbe51f",
+  "legacy_bz2_size": 47684,
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\nbformat-5.1.3-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "d8b6b5ed39758cfac0c13000fbea7f2e",
+  "name": "nbformat",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\nbformat-5.1.3-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/nbformat/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/__pycache__/_compat.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/__pycache__/_version.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/__pycache__/converter.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/corpus/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/corpus/tests/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/corpus/tests/__pycache__/test_words.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/corpus/__pycache__/words.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/__pycache__/current.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/__pycache__/json_compat.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/__pycache__/notebooknode.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/__pycache__/reader.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/__pycache__/sentinel.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/__pycache__/sign.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v1/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v1/__pycache__/convert.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v1/__pycache__/nbbase.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v1/__pycache__/nbjson.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v1/__pycache__/rwbase.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v1/tests/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v1/tests/__pycache__/nbexamples.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v1/tests/__pycache__/test_json.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v1/tests/__pycache__/test_nbbase.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v2/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v2/__pycache__/convert.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v2/__pycache__/nbbase.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v2/__pycache__/nbjson.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v2/__pycache__/nbpy.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v2/__pycache__/nbxml.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v2/__pycache__/rwbase.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v2/tests/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v2/tests/__pycache__/nbexamples.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v2/tests/__pycache__/test_json.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v2/tests/__pycache__/test_nbbase.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v2/tests/__pycache__/test_nbpy.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v3/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v3/__pycache__/convert.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v3/__pycache__/nbbase.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v3/__pycache__/nbjson.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v3/__pycache__/nbpy.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v3/__pycache__/rwbase.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v3/tests/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v3/tests/__pycache__/formattest.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v3/tests/__pycache__/nbexamples.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v3/tests/__pycache__/test_json.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v3/tests/__pycache__/test_misc.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v3/tests/__pycache__/test_nbbase.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v3/tests/__pycache__/test_nbpy.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v4/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v4/__pycache__/convert.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v4/__pycache__/nbbase.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v4/__pycache__/nbjson.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v4/__pycache__/rwbase.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v4/tests/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v4/tests/__pycache__/formattest.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v4/tests/__pycache__/nbexamples.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v4/tests/__pycache__/test_convert.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v4/tests/__pycache__/test_json.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v4/tests/__pycache__/test_nbbase.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/v4/tests/__pycache__/test_validate.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/nbformat/__pycache__/validator.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/jupyter-trust-script.py",
+        "path_type": "windows_python_entry_point_script"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "nbformat==5.1.3=pyhd3eb1b0_0",
+  "sha256": "c613af10af3bc5226eff067fb45cc2497649b42b88521eedd3eb4596972ee5fe",
+  "size": 45512,
+  "subdir": "noarch",
+  "timestamp": 1617383410488,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/nbformat-5.1.3-pyhd3eb1b0_0.conda",
+  "version": "5.1.3"
+}

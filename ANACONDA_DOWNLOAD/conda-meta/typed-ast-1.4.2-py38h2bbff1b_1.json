@@ -1,0 +1,59 @@
+{
+  "build": "py38h2bbff1b_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\typed-ast-1.4.2-py38h2bbff1b_1",
+  "features": "",
+  "files": [
+    "Lib/site-packages/typed_ast-1.4.2.dist-info/INSTALLER",
+    "Lib/site-packages/typed_ast-1.4.2.dist-info/LICENSE",
+    "Lib/site-packages/typed_ast-1.4.2.dist-info/METADATA",
+    "Lib/site-packages/typed_ast-1.4.2.dist-info/RECORD",
+    "Lib/site-packages/typed_ast-1.4.2.dist-info/REQUESTED",
+    "Lib/site-packages/typed_ast-1.4.2.dist-info/WHEEL",
+    "Lib/site-packages/typed_ast-1.4.2.dist-info/direct_url.json",
+    "Lib/site-packages/typed_ast-1.4.2.dist-info/top_level.txt",
+    "Lib/site-packages/typed_ast/__init__.py",
+    "Lib/site-packages/typed_ast/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/typed_ast/__pycache__/ast27.cpython-38.pyc",
+    "Lib/site-packages/typed_ast/__pycache__/ast3.cpython-38.pyc",
+    "Lib/site-packages/typed_ast/__pycache__/conversions.cpython-38.pyc",
+    "Lib/site-packages/typed_ast/_ast27.cp38-win_amd64.pyd",
+    "Lib/site-packages/typed_ast/_ast3.cp38-win_amd64.pyd",
+    "Lib/site-packages/typed_ast/ast27.py",
+    "Lib/site-packages/typed_ast/ast3.py",
+    "Lib/site-packages/typed_ast/conversions.py",
+    "Lib/site-packages/typed_ast/tests/__pycache__/test_basics.cpython-38.pyc",
+    "Lib/site-packages/typed_ast/tests/test_basics.py"
+  ],
+  "fn": "typed-ast-1.4.2-py38h2bbff1b_1.conda",
+  "legacy_bz2_md5": "d59306bb2d2c1e4b83635b25a36e1e75",
+  "legacy_bz2_size": 160137,
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\typed-ast-1.4.2-py38h2bbff1b_1",
+    "type": 1
+  },
+  "md5": "91ffa67209035b2d55829c7c1f6b63e9",
+  "name": "typed-ast",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\typed-ast-1.4.2-py38h2bbff1b_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "typed-ast==1.4.2=py38h2bbff1b_1",
+  "sha256": "bc401cf92a687b6ef024a982789e0c3f0eedf5af8b373635b9ea7ca95197e90b",
+  "size": 142432,
+  "subdir": "win-64",
+  "timestamp": 1610466614656,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/typed-ast-1.4.2-py38h2bbff1b_1.conda",
+  "version": "1.4.2"
+}

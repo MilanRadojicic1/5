@@ -1,0 +1,44 @@
+{
+  "build": "py38h7a1dbc1_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "libcurl >=7.71.1,<8.0a0",
+    "python >=3.8,<3.9.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pycurl-7.43.0.6-py38h7a1dbc1_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/curl/__init__.py",
+    "Lib/site-packages/curl/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/pycurl-7.43.0.6-py3.8.egg-info",
+    "Lib/site-packages/pycurl.cp38-win_amd64.pyd"
+  ],
+  "fn": "pycurl-7.43.0.6-py38h7a1dbc1_0.conda",
+  "legacy_bz2_md5": "4cfb91187cda75fd2f7e1e11080226a9",
+  "legacy_bz2_size": 72449,
+  "license": "LGPL, MIT",
+  "license_family": "LGPL",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pycurl-7.43.0.6-py38h7a1dbc1_0",
+    "type": 1
+  },
+  "md5": "cca6999f3fc9e1138cb3f50a21c76356",
+  "name": "pycurl",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pycurl-7.43.0.6-py38h7a1dbc1_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "pycurl==7.43.0.6=py38h7a1dbc1_0",
+  "sha256": "691dd17bb7e0a692e76c1b9e67572a296d5594256483a5471c720265c7a71018",
+  "size": 66501,
+  "subdir": "win-64",
+  "timestamp": 1602278830273,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pycurl-7.43.0.6-py38h7a1dbc1_0.conda",
+  "version": "7.43.0.6"
+}

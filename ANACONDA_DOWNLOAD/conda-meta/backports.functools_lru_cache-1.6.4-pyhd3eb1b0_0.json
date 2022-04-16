@@ -1,0 +1,56 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "backports",
+    "python",
+    "setuptools"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\backports.functools_lru_cache-1.6.4-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/backports.functools_lru_cache-1.6.4.dist-info/INSTALLER",
+    "Lib/site-packages/backports.functools_lru_cache-1.6.4.dist-info/LICENSE",
+    "Lib/site-packages/backports.functools_lru_cache-1.6.4.dist-info/METADATA",
+    "Lib/site-packages/backports.functools_lru_cache-1.6.4.dist-info/RECORD",
+    "Lib/site-packages/backports.functools_lru_cache-1.6.4.dist-info/REQUESTED",
+    "Lib/site-packages/backports.functools_lru_cache-1.6.4.dist-info/WHEEL",
+    "Lib/site-packages/backports.functools_lru_cache-1.6.4.dist-info/direct_url.json",
+    "Lib/site-packages/backports.functools_lru_cache-1.6.4.dist-info/top_level.txt",
+    "Lib/site-packages/backports/functools_lru_cache.py",
+    "Lib/site-packages/backports/__pycache__/functools_lru_cache.cpython-38.pyc"
+  ],
+  "fn": "backports.functools_lru_cache-1.6.4-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "22ce153d48ef45d7f2e91e4e00a6a631",
+  "legacy_bz2_size": 9284,
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\backports.functools_lru_cache-1.6.4-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "473e6bcfbea4b93db271540d2bbc6e7e",
+  "name": "backports.functools_lru_cache",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\backports.functools_lru_cache-1.6.4-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/backports/__pycache__/functools_lru_cache.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "backports.functools_lru_cache==1.6.4=pyhd3eb1b0_0",
+  "sha256": "cfb1cdf68acde202cc75092e3c0764a1f19b1599c8d06020d811ba495508f6b4",
+  "size": 9618,
+  "subdir": "noarch",
+  "timestamp": 1618170204423,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/backports.functools_lru_cache-1.6.4-pyhd3eb1b0_0.conda",
+  "version": "1.6.4"
+}

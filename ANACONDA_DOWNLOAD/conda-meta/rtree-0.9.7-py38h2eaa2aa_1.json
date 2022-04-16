@@ -1,0 +1,55 @@
+{
+  "build": "py38h2eaa2aa_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "libspatialindex >=1.9.3,<1.9.4.0a0",
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\rtree-0.9.7-py38h2eaa2aa_1",
+  "features": "",
+  "files": [
+    "Lib/site-packages/Rtree-0.9.7.dist-info/INSTALLER",
+    "Lib/site-packages/Rtree-0.9.7.dist-info/LICENSE.txt",
+    "Lib/site-packages/Rtree-0.9.7.dist-info/METADATA",
+    "Lib/site-packages/Rtree-0.9.7.dist-info/RECORD",
+    "Lib/site-packages/Rtree-0.9.7.dist-info/REQUESTED",
+    "Lib/site-packages/Rtree-0.9.7.dist-info/WHEEL",
+    "Lib/site-packages/Rtree-0.9.7.dist-info/direct_url.json",
+    "Lib/site-packages/Rtree-0.9.7.dist-info/top_level.txt",
+    "Lib/site-packages/rtree/__init__.py",
+    "Lib/site-packages/rtree/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/rtree/__pycache__/core.cpython-38.pyc",
+    "Lib/site-packages/rtree/__pycache__/exceptions.cpython-38.pyc",
+    "Lib/site-packages/rtree/__pycache__/finder.cpython-38.pyc",
+    "Lib/site-packages/rtree/__pycache__/index.cpython-38.pyc",
+    "Lib/site-packages/rtree/core.py",
+    "Lib/site-packages/rtree/exceptions.py",
+    "Lib/site-packages/rtree/finder.py",
+    "Lib/site-packages/rtree/index.py"
+  ],
+  "fn": "rtree-0.9.7-py38h2eaa2aa_1.conda",
+  "legacy_bz2_md5": "cd819043390ea389a1123b69fd5bc3fd",
+  "legacy_bz2_size": 51660,
+  "license": "MIT",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\rtree-0.9.7-py38h2eaa2aa_1",
+    "type": 1
+  },
+  "md5": "24d3cfbfca650307335547c17729c110",
+  "name": "rtree",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\rtree-0.9.7-py38h2eaa2aa_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "rtree==0.9.7=py38h2eaa2aa_1",
+  "sha256": "cc36b091d63ce55b2dca067da7a42d96e51a19680653b97fba8591373fee1b2d",
+  "size": 50571,
+  "subdir": "win-64",
+  "timestamp": 1618421052437,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/rtree-0.9.7-py38h2eaa2aa_1.conda",
+  "version": "0.9.7"
+}

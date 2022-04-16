@@ -1,0 +1,46 @@
+{
+  "build": "py38ha925a31_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pyodbc-4.0.30-py38ha925a31_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/pyodbc-4.0.0_unsupported.dist-info/INSTALLER",
+    "Lib/site-packages/pyodbc-4.0.0_unsupported.dist-info/LICENSE.txt",
+    "Lib/site-packages/pyodbc-4.0.0_unsupported.dist-info/METADATA",
+    "Lib/site-packages/pyodbc-4.0.0_unsupported.dist-info/RECORD",
+    "Lib/site-packages/pyodbc-4.0.0_unsupported.dist-info/WHEEL",
+    "Lib/site-packages/pyodbc-4.0.0_unsupported.dist-info/top_level.txt",
+    "Lib/site-packages/pyodbc.cp38-win_amd64.pyd"
+  ],
+  "fn": "pyodbc-4.0.30-py38ha925a31_0.conda",
+  "legacy_bz2_md5": "3880958db460570004e06edcd0d83e46",
+  "legacy_bz2_size": 74337,
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pyodbc-4.0.30-py38ha925a31_0",
+    "type": 1
+  },
+  "md5": "26e12e1aae0022e5cdde72ec2aa33059",
+  "name": "pyodbc",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pyodbc-4.0.30-py38ha925a31_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "pyodbc==4.0.30=py38ha925a31_0",
+  "sha256": "c21721bd6594109c342865eb98d6fc804a9007a12e74c0853cdd6fefebdb3948",
+  "size": 69812,
+  "subdir": "win-64",
+  "timestamp": 1581353736605,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pyodbc-4.0.30-py38ha925a31_0.conda",
+  "version": "4.0.30"
+}

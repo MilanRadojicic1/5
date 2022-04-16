@@ -1,0 +1,42 @@
+{
+  "build": "h2bbff1b_5",
+  "build_number": 5,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\libdeflate-1.7-h2bbff1b_5",
+  "features": "",
+  "files": [
+    "Library/bin/libdeflate-gunzip.exe",
+    "Library/bin/libdeflate-gzip.exe",
+    "Library/bin/libdeflate.dll",
+    "Library/include/libdeflate.h",
+    "Library/lib/libdeflate.lib"
+  ],
+  "fn": "libdeflate-1.7-h2bbff1b_5.conda",
+  "legacy_bz2_md5": "925b5c4673cebee155b5919999a62c6c",
+  "legacy_bz2_size": 65847,
+  "license": "MIT",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\libdeflate-1.7-h2bbff1b_5",
+    "type": 1
+  },
+  "md5": "1870d9dd0ffa33a9fb61c499022dce23",
+  "name": "libdeflate",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\libdeflate-1.7-h2bbff1b_5.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "libdeflate==1.7=h2bbff1b_5",
+  "sha256": "fba46a19fd460a60998809c2b8260d1681e180c3eed92c22f4116a09a75401f6",
+  "size": 50216,
+  "subdir": "win-64",
+  "timestamp": 1611263010009,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libdeflate-1.7-h2bbff1b_5.conda",
+  "version": "1.7"
+}

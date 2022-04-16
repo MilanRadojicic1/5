@@ -1,0 +1,46 @@
+{
+  "build": "haa95532_616",
+  "build_number": 616,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\intel-openmp-2021.2.0-haa95532_616",
+  "features": "",
+  "files": [
+    "Library/bin/libiomp5md.dll",
+    "Library/bin/libiomp5md.pdb",
+    "Library/bin/libiompstubs5md.dll",
+    "Shared Libraries/libomp-fallback-cassert.obj",
+    "Shared Libraries/libomp-fallback-cmath-fp64.obj",
+    "Shared Libraries/libomp-fallback-cmath.obj",
+    "Shared Libraries/libomp-fallback-complex-fp64.obj",
+    "Shared Libraries/libomp-fallback-complex.obj",
+    "bin/omptarget.dll",
+    "bin/omptarget.rtl.level0.dll",
+    "bin/omptarget.rtl.opencl.dll"
+  ],
+  "fn": "intel-openmp-2021.2.0-haa95532_616.conda",
+  "legacy_bz2_md5": "114b007234526046ff6894a78bd65933",
+  "legacy_bz2_size": 2753583,
+  "license": "LicenseRef-ProprietaryIntel",
+  "license_family": "Proprietary",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\intel-openmp-2021.2.0-haa95532_616",
+    "type": 1
+  },
+  "md5": "3be692104b997abf5a8bd13e1dcd8594",
+  "name": "intel-openmp",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\intel-openmp-2021.2.0-haa95532_616.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "intel-openmp==2021.2.0=haa95532_616",
+  "sha256": "2fadb30b0e8670f59dedf29738a2cbaa6d1da8d79ad189d912239680beae31c5",
+  "size": 1909887,
+  "subdir": "win-64",
+  "timestamp": 1618534242973,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/intel-openmp-2021.2.0-haa95532_616.conda",
+  "version": "2021.2.0"
+}

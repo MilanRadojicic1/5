@@ -1,0 +1,47 @@
+{
+  "build": "py38_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pep8-1.7.1-py38_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/__pycache__/pep8.cpython-38.pyc",
+    "Lib/site-packages/pep8-1.7.1-py3.8.egg-info/PKG-INFO",
+    "Lib/site-packages/pep8-1.7.1-py3.8.egg-info/SOURCES.txt",
+    "Lib/site-packages/pep8-1.7.1-py3.8.egg-info/dependency_links.txt",
+    "Lib/site-packages/pep8-1.7.1-py3.8.egg-info/entry_points.txt",
+    "Lib/site-packages/pep8-1.7.1-py3.8.egg-info/namespace_packages.txt",
+    "Lib/site-packages/pep8-1.7.1-py3.8.egg-info/not-zip-safe",
+    "Lib/site-packages/pep8-1.7.1-py3.8.egg-info/top_level.txt",
+    "Lib/site-packages/pep8.py",
+    "Scripts/pep8-script.py",
+    "Scripts/pep8.exe"
+  ],
+  "fn": "pep8-1.7.1-py38_0.conda",
+  "legacy_bz2_md5": "a0a86a6079374bf14a2e4449ebea0040",
+  "legacy_bz2_size": 71759,
+  "license": "MIT",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pep8-1.7.1-py38_0",
+    "type": 1
+  },
+  "md5": "d2caa6ab0a2f3d3f1a37f7791fbcbb1e",
+  "name": "pep8",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\pep8-1.7.1-py38_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "pep8==1.7.1=py38_0",
+  "sha256": "893b2c6248d498f086e0415bf5229c6890deca164cd1b951fa92a5891c32b9b7",
+  "size": 70692,
+  "subdir": "win-64",
+  "timestamp": 1573473798048,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pep8-1.7.1-py38_0.conda",
+  "version": "1.7.1"
+}

@@ -1,0 +1,33 @@
+{
+  "build": "1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\conda-env-2.6.0-1",
+  "features": "",
+  "files": [],
+  "fn": "conda-env-2.6.0-1.conda",
+  "legacy_bz2_md5": "0f615892c0a17b46e5619deeb0103b5b",
+  "legacy_bz2_size": 2817,
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\conda-env-2.6.0-1",
+    "type": 1
+  },
+  "md5": "bf171a4bbadddb5f5e83c4ac151f5f52",
+  "name": "conda-env",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\conda-env-2.6.0-1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "conda-env==2.6.0=1",
+  "sha256": "8810e35d2da06beb6828f7e06a874eb20f5ff9e3e2e7a8477fbfb64f2cecfcec",
+  "size": 3148,
+  "subdir": "win-64",
+  "timestamp": 1533165258262,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/conda-env-2.6.0-1.conda",
+  "version": "2.6.0"
+}

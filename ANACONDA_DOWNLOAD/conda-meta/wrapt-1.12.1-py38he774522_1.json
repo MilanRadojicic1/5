@@ -1,0 +1,53 @@
+{
+  "build": "py38he774522_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\wrapt-1.12.1-py38he774522_1",
+  "features": "",
+  "files": [
+    "Lib/site-packages/wrapt-1.12.1.dist-info/INSTALLER",
+    "Lib/site-packages/wrapt-1.12.1.dist-info/LICENSE",
+    "Lib/site-packages/wrapt-1.12.1.dist-info/METADATA",
+    "Lib/site-packages/wrapt-1.12.1.dist-info/RECORD",
+    "Lib/site-packages/wrapt-1.12.1.dist-info/WHEEL",
+    "Lib/site-packages/wrapt-1.12.1.dist-info/top_level.txt",
+    "Lib/site-packages/wrapt/__init__.py",
+    "Lib/site-packages/wrapt/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/wrapt/__pycache__/decorators.cpython-38.pyc",
+    "Lib/site-packages/wrapt/__pycache__/importer.cpython-38.pyc",
+    "Lib/site-packages/wrapt/__pycache__/wrappers.cpython-38.pyc",
+    "Lib/site-packages/wrapt/_wrappers.cp38-win_amd64.pyd",
+    "Lib/site-packages/wrapt/decorators.py",
+    "Lib/site-packages/wrapt/importer.py",
+    "Lib/site-packages/wrapt/wrappers.py"
+  ],
+  "fn": "wrapt-1.12.1-py38he774522_1.conda",
+  "legacy_bz2_md5": "08684f6a7775a13d662905c1f7f627f4",
+  "legacy_bz2_size": 50406,
+  "license": "BSD 2-Clause",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\wrapt-1.12.1-py38he774522_1",
+    "type": 1
+  },
+  "md5": "cd4f80e99f0ecf9a79612ad41a24cdb2",
+  "name": "wrapt",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\wrapt-1.12.1-py38he774522_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "wrapt==1.12.1=py38he774522_1",
+  "sha256": "8ae97b31739809e4ac4713c9b43ccba24a8e62877f892c19fcbff6736245c9e0",
+  "size": 50638,
+  "subdir": "win-64",
+  "timestamp": 1584459845880,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/wrapt-1.12.1-py38he774522_1.conda",
+  "version": "1.12.1"
+}

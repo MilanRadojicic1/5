@@ -1,0 +1,98 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "heapdict",
+    "python"
+  ],
+  "extracted_package_dir": "C:\\ANACONDA_DOWNLOAD\\pkgs\\zict-2.0.0-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/zict-2.0.0-py3.9.egg-info/PKG-INFO",
+    "Lib/site-packages/zict-2.0.0-py3.9.egg-info/SOURCES.txt",
+    "Lib/site-packages/zict-2.0.0-py3.9.egg-info/dependency_links.txt",
+    "Lib/site-packages/zict-2.0.0-py3.9.egg-info/not-zip-safe",
+    "Lib/site-packages/zict-2.0.0-py3.9.egg-info/requires.txt",
+    "Lib/site-packages/zict-2.0.0-py3.9.egg-info/top_level.txt",
+    "Lib/site-packages/zict/__init__.py",
+    "Lib/site-packages/zict/buffer.py",
+    "Lib/site-packages/zict/common.py",
+    "Lib/site-packages/zict/file.py",
+    "Lib/site-packages/zict/func.py",
+    "Lib/site-packages/zict/lmdb.py",
+    "Lib/site-packages/zict/lru.py",
+    "Lib/site-packages/zict/sieve.py",
+    "Lib/site-packages/zict/zip.py",
+    "Lib/site-packages/zict/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/zict/__pycache__/buffer.cpython-38.pyc",
+    "Lib/site-packages/zict/__pycache__/common.cpython-38.pyc",
+    "Lib/site-packages/zict/__pycache__/file.cpython-38.pyc",
+    "Lib/site-packages/zict/__pycache__/func.cpython-38.pyc",
+    "Lib/site-packages/zict/__pycache__/lmdb.cpython-38.pyc",
+    "Lib/site-packages/zict/__pycache__/lru.cpython-38.pyc",
+    "Lib/site-packages/zict/__pycache__/sieve.cpython-38.pyc",
+    "Lib/site-packages/zict/__pycache__/zip.cpython-38.pyc"
+  ],
+  "fn": "zict-2.0.0-pyhd3eb1b0_0.tar.bz2",
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "C:\\ANACONDA_DOWNLOAD\\pkgs\\zict-2.0.0-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "65a8a82839c60f1101cde031c29b6677",
+  "name": "zict",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\ANACONDA_DOWNLOAD\\pkgs\\zict-2.0.0-pyhd3eb1b0_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/zict/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/zict/__pycache__/buffer.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/zict/__pycache__/common.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/zict/__pycache__/file.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/zict/__pycache__/func.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/zict/__pycache__/lmdb.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/zict/__pycache__/lru.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/zict/__pycache__/sieve.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/zict/__pycache__/zip.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "zict==2.0.0=pyhd3eb1b0_0",
+  "sha256": "e9c12e7e292d602cfcd10490833e408bc4430d8c5590ae990d798846ce81fba0",
+  "size": 10568,
+  "subdir": "noarch",
+  "timestamp": 1612561650391,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/zict-2.0.0-pyhd3eb1b0_0.tar.bz2",
+  "version": "2.0.0"
+}
