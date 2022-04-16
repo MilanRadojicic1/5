@@ -84,7 +84,7 @@ def app():
 
 
     title4 = st.selectbox('Pick a movie', a,key=4)
-    number4 = st.number_input('Enter the Number of recommended movies',min_value=0, max_value=30,step=1)
+    number4 = st.number_input('Enter the Number of recommended movies',min_value=0, max_value=30,step=1, key=4)
     number4 = number4+1
 
 

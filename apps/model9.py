@@ -25,7 +25,7 @@ def app():
     a = pd.unique(movie['title'])
 
     title20 = st.selectbox('Pick a movie', a,key=20)
-    number20 = st.number_input('Enter the Number of recommended movies',min_value=0, max_value=30,step=1)
+    number20 = st.number_input('Enter the Number of recommended movies',min_value=0, max_value=30,step=1, key=33)
 
     if title20 and number20 > 0:
 

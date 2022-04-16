@@ -22,7 +22,7 @@ def app():
     a = pd.unique(actor_md['Actor'])
 
     title3 = st.selectbox('Pick an actor', a,key=3)
-    number3 = st.number_input('Enter the Number of recommended movies',min_value=0, max_value=30,step=1)
+    number3 = st.number_input('Enter the Number of recommended movies',min_value=0, max_value=30,step=1, key=3)
 
 
     def actor_recommender(actor, percentile=0.85):

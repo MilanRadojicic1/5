@@ -63,7 +63,7 @@ def app():
     a = pd.unique(lemmatized_text_description['Title'])
 
     title5 = st.selectbox('Pick a movie', a,key=5)
-    number5 = st.number_input('Enter the Number of recommended movies',min_value=0, max_value=30,step=1)
+    number5 = st.number_input('Enter the Number of recommended movies',min_value=0, max_value=30,step=1, key=5)
     number5 = number5+1
 
     def description_get_recommendations(title, cosine_sim=cosine_sim):

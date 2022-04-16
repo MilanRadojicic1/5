@@ -76,7 +76,7 @@ def app():
     c = pd.unique(metadata_recomendation['Capital_Title'])
 
     title6 = st.selectbox('Pick a movie', c,key=6)
-    number6 = st.number_input('Enter the Number of recommended movies',min_value=0, max_value=30,step=1)
+    number6 = st.number_input('Enter the Number of recommended movies',min_value=0, max_value=30,step=1, key=6)
     number6 = number6+1
 
     def description_metadata_recommendations(title, cosine_sim3=cosine_sim3):

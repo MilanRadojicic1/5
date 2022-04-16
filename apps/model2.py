@@ -19,7 +19,7 @@ def app():
 
         a = pd.unique(director_md['Director'])
         title2 = st.selectbox('Movie director', a, key=2)
-        number2 = st.number_input('Enter the Number of movies', min_value=0, max_value=30, step=1)
+        number2 = st.number_input('Enter the Number of movies', min_value=0, max_value=30, step=1, key=2)
 
         if number2 > 0:
 

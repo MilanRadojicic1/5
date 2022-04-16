@@ -26,7 +26,7 @@ def app():
         a = pd.unique(gen_md['Genre'])
 
         title1 = st.selectbox('Pick a movie genra', a, key=1)
-        number1 = st.number_input('Enter the Number of recommended movies', min_value=0, max_value=30, step=1)
+        number1 = st.number_input('Enter the Number of recommended movies', min_value=0, max_value=30, step=1, key=1)
 
 
         if title1 and number1 > 0:

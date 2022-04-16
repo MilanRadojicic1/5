@@ -25,7 +25,7 @@ def app():
 
     filledna = new_movieDF.drop_duplicates(subset='Title')
 
-    filledna = new_movieDF[new_movieDF['Rating'] >= 4.0]
+    filledna = new_movieDF[new_movieDF['Rating'] >= 7.0]
     filledna = new_movieDF[new_movieDF['Count of votes'] >= 5000]
 
     filledna = filledna.fillna('')
@@ -100,7 +100,7 @@ def app():
 
 
     title7 = st.selectbox('Pick a movie', a,key=7)
-    number7 = st.number_input('Enter the Number of recommended movies',min_value=0, max_value=30,step=1)
+    number7 = st.number_input('Enter the Number of recommended movies',min_value=0, max_value=30,step=1, key=7)
 
 
 
