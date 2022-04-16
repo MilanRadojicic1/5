@@ -26,7 +26,7 @@ def app():
     filledna = new_movieDF.drop_duplicates(subset='Title')
 
     filledna = new_movieDF[new_movieDF['Rating'] >= 7.0]
-    filledna = new_movieDF[new_movieDF['Count of votes'] >= 5000]
+    filledna = new_movieDF[new_movieDF['Count of votes'] >= 8000]
 
     filledna = filledna.fillna('')
 
