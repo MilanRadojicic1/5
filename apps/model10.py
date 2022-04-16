@@ -8,6 +8,7 @@ import nltk
 from nltk.corpus import stopwords
 nltk.download('wordnet')
 nltk.download('stopwords')
+nltk.download('omw-1.4')
 from nltk.stem import *
 import streamlit as st
 from ast import literal_eval
