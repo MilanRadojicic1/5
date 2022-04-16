@@ -4,12 +4,10 @@ import pandas as pd
 import re
 import tweepy
 from sklearn.metrics.pairwise import *
-
-from nltk.stem import *
 from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
 nltk.download('wordnet')
 nltk.download('stopwords')
+from nltk.stem import *
 import streamlit as st
 from ast import literal_eval
 
@@ -370,7 +368,7 @@ def app():
         friends_df['clean_name'] = friends_df['name'].apply(lambda x: clean_text(x))
 
         # Removing stopwords belonging to english language
-        from nltk.corpus import stopwords
+
         def remove_stopwords(text):
             words = [w for w in text if w not in stopwords.words('english')]
             return words
