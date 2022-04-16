@@ -6,7 +6,8 @@ import tweepy
 from sklearn.metrics.pairwise import *
 
 from nltk.stem import *
-import nltk
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
 nltk.download('wordnet')
 nltk.download('stopwords')
 import streamlit as st
