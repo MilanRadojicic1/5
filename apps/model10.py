@@ -38,7 +38,6 @@ nltk.download('stopwords')
 import streamlit as st
 from ast import literal_eval
 nltk.download('punkt')
-nltk.download()
 
 
 def app():
