@@ -41,7 +41,7 @@ def app():
         new_movieDF = four.append(new2)
 
         new_movieDF = new_movieDF[new_movieDF['Rating'] >= 4.0]
-        new_movieDF = new_movieDF[new_movieDF['Count of votes'] >= 1000]
+        new_movieDF = new_movieDF[new_movieDF['Count of votes'] >= 5000]
 
 
         new_movieDF['Genre'] = new_movieDF.Genre.apply(literal_eval)

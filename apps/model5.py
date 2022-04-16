@@ -29,8 +29,8 @@ def app():
 
 
 
-    lemmatized_text_description = new_movieDF[new_movieDF['Rating'] >= 7.0]
-    lemmatized_text_description = new_movieDF[new_movieDF['Count of votes'] >= 1000]
+    lemmatized_text_description = new_movieDF[new_movieDF['Rating'] >= 4.0]
+    lemmatized_text_description = new_movieDF[new_movieDF['Count of votes'] >= 5000]
 
     lemmatized_text_description = lemmatized_text_description.fillna('')
 
