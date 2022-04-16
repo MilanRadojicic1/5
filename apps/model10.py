@@ -4,6 +4,7 @@ import pandas as pd
 import re
 import tweepy
 from sklearn.metrics.pairwise import *
+import nltk
 from nltk.corpus import stopwords
 nltk.download('wordnet')
 nltk.download('stopwords')
