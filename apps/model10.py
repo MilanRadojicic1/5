@@ -1,12 +1,12 @@
 
-from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import *
 import pandas as pd
 import re
 import tweepy
-from sklearn.metrics.pairwise import linear_kernel, cosine_similarity
+from sklearn.metrics.pairwise import *
 
 import nltk
-from nltk.stem import WordNetLemmatizer,PorterStemmer
+from nltk.stem import *
 nltk.download('stopwords')
 import streamlit as st
 from ast import literal_eval
