@@ -9,91 +9,22 @@ def app():
     st.write('This is the Movie Recommender which outputs movies by similarity in individuals ratings of movies!')
     st.write('Enter a movie name and rate it and we will output movies from other people that have rated the same movies similar to you!')
 
+    movie = pd.read_csv('small_movies.csv')
+    rating = pd.read_csv('small_ratings.csv')
 
-
-    one_movie = pd.read_csv('one_movie.csv')
-    two_movie = pd.read_csv('two_movie.csv')
-    three_movie = pd.read_csv('three_movie.csv')
-    four_movie = pd.read_csv('four_movie.csv')
-
-    new1 = one_movie.append(two_movie)
-    new2 = three_movie.append(new1)
-    movie = four_movie.append(new2)
-
-    one_rating = pd.read_csv('one_rating.csv')
-    two_rating = pd.read_csv('two_rating.csv')
-    three_rating = pd.read_csv('three_rating.csv')
-    four_rating = pd.read_csv('four_rating.csv')
-    five_rating = pd.read_csv('five_rating.csv')
-    six_rating = pd.read_csv('six_rating.csv')
-    seven_rating = pd.read_csv('seven_rating.csv')
-    eigth_rating = pd.read_csv('eigth_rating.csv')
-    nine_rating = pd.read_csv('nine_rating.csv')
-    ten_rating = pd.read_csv('ten_rating.csv')
-    eleven_rating = pd.read_csv('eleven_rating.csv')
-    twelve_rating = pd.read_csv('twelve_rating.csv')
-    thirteen_rating = pd.read_csv('thirteen_rating.csv')
-    fourteen_rating = pd.read_csv('fourteen_rating.csv')
-
-    one_two = one_rating.append(two_rating)
-    three_four = three_rating.append(four_rating)
-    five_six = five_rating.append(six_rating)
-    seven_eigth = seven_rating.append(eigth_rating)
-    nine_ten = nine_rating.append(ten_rating)
-    eleven_twelve = eleven_rating.append(twelve_rating)
-
-    one_two_three_four = one_two.append(three_four)
-    five_six_seven_eigth = five_six.append(seven_eigth)
-    nine_ten_eleven_twelve = nine_ten.append(eleven_twelve)
-
-    one_two_three_four_five_six_seven_eigth = one_two_three_four.append(five_six_seven_eigth)
-    nine_ten_eleven_twelve_fourteen_rating = nine_ten_eleven_twelve.append(fourteen_rating)
-
-    rating = one_two_three_four_five_six_seven_eigth.append(nine_ten_eleven_twelve_fourteen_rating)
-
-
-    movie['year'] = movie.title.str.extract('(\\d\d\d\d\))',
-    expand=False)
-    #Removing the parentheses
-    movie['year'] = movie.year.str.extract('(\d\d\d\d)',expand=False)
-    #Removing the years from the 'title' column
+    movie['year'] = movie.title.str.extract('(\\d\d\d\d\))', expand=False)
+    # Removing the parentheses
+    movie['year'] = movie.year.str.extract('(\d\d\d\d)', expand=False)
+    # Removing the years from the 'title' column
     movie['title'] = movie.title.str.replace('(\(\d\d\d\d\))', '')
-    #Applying the strip function to get rid of any ending whitespace characters that may have appeared
+    # Applying the strip function to get rid of any ending whitespace characters that may have appeared
     movie['title'] = movie['title'].apply(lambda x: x.strip())
+
+
 
     movie.drop(columns=['genres'], inplace=True)
 
     rating.drop(columns=['timestamp'],inplace=True)
-
-    @st.cache(allow_output_mutation=True)
-    def modify_rating(rating):
-        movieId_occurance_count = rating['movieId'].value_counts()
-        movieId_occurance_count = pd.DataFrame(movieId_occurance_count)
-        movieId_occurance_count['index'] = movieId_occurance_count.index
-        movieId_occurance_count['movieId_occurance_count'] = movieId_occurance_count['movieId']
-        movieId_occurance_count.drop(['movieId'], axis=1)
-        movieId_occurance_count['movieId'] = movieId_occurance_count['index']
-        movieId_occurance_count = movieId_occurance_count.drop(['index'], axis=1)
-        rating = pd.merge(rating, movieId_occurance_count, on='movieId')
-        rating = rating[rating['movieId_occurance_count'] > 8000]
-        return rating
-
-
-    @st.cache(allow_output_mutation=True)
-    def modify_rating_2nd_time(rating):
-        userId_occurance_count = rating['userId'].value_counts()
-        userId_occurance_count = pd.DataFrame(userId_occurance_count)
-        userId_occurance_count['index'] = userId_occurance_count.index
-        userId_occurance_count['userId_occurance_count'] = userId_occurance_count['userId']
-        userId_occurance_count.drop(['userId'], axis=1)
-        userId_occurance_count['userId'] = userId_occurance_count['index']
-        userId_occurance_count = userId_occurance_count.drop(['index'], axis=1)
-        rating = pd.merge(rating, userId_occurance_count, on='userId')
-        rating = rating[rating['userId_occurance_count'] > 90]
-        return rating
-
-    rating = modify_rating(rating)
-    rating = modify_rating_2nd_time(rating)
 
 
     n = 5
