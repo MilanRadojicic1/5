@@ -1,39 +1,12 @@
-from collections import Counter
-from difflib import SequenceMatcher
-from nltk.corpus import wordnet, stopwords as sw
-from nltk.util import ngrams
-from scipy import sparse
-from sklearn.cluster import DBSCAN
-from sklearn.decomposition import LatentDirichletAllocation
-from sklearn.feature_extraction.text import TfidfTransformer, TfidfVectorizer
+
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
-from sklearn.manifold import TSNE
-from sklearn.metrics.pairwise import cosine_distances
-from sklearn.mixture import GaussianMixture
-from string import punctuation
-import colorlover as cl
-import configparser
-import csv
-import matplotlib.pyplot as plt
-import numpy as np
 import pandas as pd
 import re
 import tweepy
 from sklearn.metrics.pairwise import linear_kernel, cosine_similarity
-from datetime import datetime
-from genderize import Genderize
 
 import nltk
 from nltk.stem import WordNetLemmatizer,PorterStemmer
-from nltk.corpus import stopwords
-from collections import defaultdict,Counter
-from nltk.corpus import stopwords
-from sklearn.feature_extraction.text import CountVectorizer
-from PIL import Image
-from nltk.tokenize import word_tokenize
-from nltk.util import ngrams
-import string
 nltk.download('stopwords')
 import streamlit as st
 from ast import literal_eval
