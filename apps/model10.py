@@ -5,8 +5,8 @@ import re
 import tweepy
 from sklearn.metrics.pairwise import *
 
-nltk.download('stopwords')
 from nltk.stem import *
+nltk.download('stopwords')
 import streamlit as st
 from ast import literal_eval
 
