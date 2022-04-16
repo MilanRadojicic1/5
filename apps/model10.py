@@ -7,6 +7,7 @@ from sklearn.metrics.pairwise import *
 
 from nltk.stem import *
 import nltk
+nltk.download('wordnet')
 nltk.download('stopwords')
 import streamlit as st
 from ast import literal_eval
