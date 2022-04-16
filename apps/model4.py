@@ -88,29 +88,29 @@ def app():
     number4 = number4+1
 
 
-
-    def description_metadata_recommendations(title, cosine_sim2=cosine_sim2):
-        idx = indices2[title]
-
-        # Get the pairwsie similarity scores of all movies with that movie
-        sim_scores = list(enumerate(cosine_sim2[idx]))
-
-        # Sort the movies based on the similarity scores
-        sim_scores = sorted(sim_scores, key=lambda x: x[1], reverse=True)
-
-        # Get the scores of the 10 most similar movies
-        sim_scores = sim_scores[1:number4]
-
-        # Get the movie indices
-        movie_indices = [i[0] for i in sim_scores]
-
-        # Return the top 10 most similar movies
-        return filledna['Capital_Title'].iloc[movie_indices]
-
-
-
-
     if number4>1:
+
+        def description_metadata_recommendations(title, cosine_sim2=cosine_sim2):
+            idx = indices2[title]
+
+            # Get the pairwsie similarity scores of all movies with that movie
+            sim_scores = list(enumerate(cosine_sim2[idx]))
+
+            # Sort the movies based on the similarity scores
+            sim_scores = sorted(sim_scores, key=lambda x: x[1], reverse=True)
+
+            # Get the scores of the 10 most similar movies
+            sim_scores = sim_scores[1:number4]
+
+            # Get the movie indices
+            movie_indices = [i[0] for i in sim_scores]
+
+            # Return the top 10 most similar movies
+            return filledna['Capital_Title'].iloc[movie_indices]
+
+
+
+
         with st.spinner("Waiting for movie"):
             st.write(description_metadata_recommendations(title4, cosine_sim2))
 
