@@ -22,7 +22,9 @@ def app():
     new_movieDF['Genre'] = new_movieDF.Genre.apply(literal_eval)
     new_movieDF['lemmatized_text'] = new_movieDF.lemmatized_text.apply(literal_eval)
 
-    metadata_recomendation = new_movieDF[new_movieDF['Rating'] >= 6.0]
+    metadata_recomendation = new_movieDF[new_movieDF['Rating'] >= 7.0]
+    metadata_recomendation = new_movieDF[new_movieDF['Count of votes'] >= 1000]
+
     metadata_recomendation = metadata_recomendation.fillna('')
 
     metadata_recomendation['Genre'] = [','.join(map(str, l)) for l in metadata_recomendation['Genre']]

@@ -29,7 +29,9 @@ def app():
 
 
 
-    lemmatized_text_description = new_movieDF[new_movieDF['Rating'] >= 6.0]
+    lemmatized_text_description = new_movieDF[new_movieDF['Rating'] >= 7.0]
+    lemmatized_text_description = new_movieDF[new_movieDF['Count of votes'] >= 1000]
+
     lemmatized_text_description = lemmatized_text_description.fillna('')
 
     lemmatized_text_description['lemmeatized_string_movie_description'] = lemmatized_text_description['lemmatized_text'].apply(lambda x: ','.join(map(str, x)))

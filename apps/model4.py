@@ -25,8 +25,8 @@ def app():
     new_movieDF['lemmatized_text'] = new_movieDF.lemmatized_text.apply(literal_eval)
 
     filledna = new_movieDF.drop_duplicates(subset='Title')
-    filledna = new_movieDF[new_movieDF['Rating'] >= 6.0]
-    filledna = new_movieDF[new_movieDF['Count of votes'] >= 500]
+    filledna = new_movieDF[new_movieDF['Rating'] >= 7.0]
+    filledna = new_movieDF[new_movieDF['Count of votes'] >= 1000]
 
     filledna = filledna.fillna('')
     filledna['Genre'] = [','.join(map(str, l)) for l in filledna['Genre']]
