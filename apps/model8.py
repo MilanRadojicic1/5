@@ -41,7 +41,6 @@ def app():
     seven_eigth = seven_rating.append(eigth_rating)
     nine_ten = nine_rating.append(ten_rating)
     eleven_twelve = eleven_rating.append(twelve_rating)
-    thirteen_fourteen = thirteen_rating.append(fourteen_rating)
 
     one_two_three_four = one_two.append(three_four)
     five_six_seven_eigth = five_six.append(seven_eigth)
@@ -76,7 +75,7 @@ def app():
         movieId_occurance_count['movieId'] = movieId_occurance_count['index']
         movieId_occurance_count = movieId_occurance_count.drop(['index'], axis=1)
         rating = pd.merge(rating, movieId_occurance_count, on='movieId')
-        rating = rating[rating['movieId_occurance_count'] > 1000]
+        rating = rating[rating['movieId_occurance_count'] > 8000]
         return rating
 
 
@@ -90,7 +89,7 @@ def app():
         userId_occurance_count['userId'] = userId_occurance_count['index']
         userId_occurance_count = userId_occurance_count.drop(['index'], axis=1)
         rating = pd.merge(rating, userId_occurance_count, on='userId')
-        rating = rating[rating['userId_occurance_count'] > 50]
+        rating = rating[rating['userId_occurance_count'] > 90]
         return rating
 
     rating = modify_rating(rating)
